@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Mukesh Kumar Gupta
+Email: Mukeshshivramka43@yahoo.com
+Secondary Email: None
+Phone: 918100238146
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 823119144054
+Date of Birth: 1991-04-05
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 31843913998
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0001996
+MICR: 700002065
+Account Type: []
+Bank Type: None
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Marketing
+Lead Source Name: Neeraj Bansal / Shriram Agarwal
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: BUSINESS
+$currency_symbol: ₹
+Place_of_Birth: Kolkata
+Last_Activity_Time: 2024-12-06T12:43:55+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: P.S. , Alipore H.O, Kolkata
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Mukesh
+Age: 33
+Address_Line: 8 C, Braunfeld Row, Ekbalpur
+Mother_s_Name: Sarala Devi Gupta
+Last_Name: Kumar Gupta
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005272020
+Created: 2023-06-12T12:34:01+05:30
+Modified: 2024-12-06T12:42:27+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-06T12:42:27+05:30

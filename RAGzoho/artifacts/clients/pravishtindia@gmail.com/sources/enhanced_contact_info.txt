@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Prashvit Private Limited
+Email: pravishtindia@gmail.com
+Secondary Email: None
+Phone: +919818203347
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: AAMCP6121G
+Aadhaar Number: None
+Date of Birth: 2022-01-21
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 12763700001995
+Account Name: None
+Bank Name: Yes Bank
+IFSC Code: YESB0000127
+MICR: 110532027
+Account Type: []
+Bank Type: Default
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: Kotak Bank
+IFSC Code 2: KKBK0000180
+MICR 2: 110485040
+Annual Income HUF: 1000000
+
+BUSINESS INFORMATION
+-------------------
+Company Name: Prashvit Private Limited
+Company Type: Private Limited
+Department: None
+Date of Incorporation: 2022-01-21
+Place of Incorporation: Gautam Budh Nagar
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: 28-10-378, 6/20 BRODIPET
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: NA
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Gautam Budh Nagar
+Last_Activity_Time: 2025-09-17T10:02:50+05:30
+Exchange_Rate: 1
+Account_No_21: 7646179411
+$approved: True
+$editable: True
+Address_Line2: West Gautam Buddha Nagar, Noida
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Abhishek Khandelwal
+First_Name: Prashvit
+Contact_Type: Non Individual
+Age: 3
+Address_Line: 6th, Avenue Gaur City-1, Sec-4 Greater Noida
+Mother_s_Name: NA
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000018233076
+Created: 2025-03-20T16:51:05+05:30
+Modified: 2025-06-16T16:03:59+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-06-16T16:03:59+05:30

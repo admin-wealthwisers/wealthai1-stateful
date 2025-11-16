@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Karan Mange
+Email: karanmange@gmail.com
+Secondary Email: None
+Phone: +919820076695
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 713221975471
+Date of Birth: None
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 9981140003272
+Account Name: None
+Bank Name: HDFC BANK
+IFSC Code: HDFC0000998
+MICR: 400240106
+Account Type: []
+Bank Type: Default
+Annual Income: 4500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Beshak
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: 9820076695@ybl
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Private Limited Company
+Occupation: PRIVATE SECTOR SERVICE
+$currency_symbol: ₹
+Place_of_Birth: Mumbai
+Last_Activity_Time: 2025-11-06T17:23:38+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Beshak
+First_Name: Karan
+Age: 36
+Mother_s_Name: Prabhavati Mange
+Last_Name: Mange
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000024883032
+Created: 2025-10-30T13:17:59+05:30
+Modified: 2025-11-06T17:23:38+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-11-06T17:23:38+05:30

@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Vinod Gupta
+Email: VIN.ELCON@GMAIL.CPM
+Secondary Email: None
+Phone: 919811475777
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 718385839526
+Date of Birth: 1954-12-02
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 350101012553
+Account Name: None
+Bank Name: CANARA BANK
+IFSC Code: CNRB0000350
+MICR: 110015011
+Account Type: []
+Bank Type: None
+Annual Income: 4000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Non Marketing
+Lead Source Name: Anurag Gupta ( Money Studio)
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: PG in Engineering
+Salutation: Mr.
+Email_Opt_Out: True
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Alwar
+Last_Activity_Time: 2025-02-05T14:14:18+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Anurag Gupta
+First_Name: Vinod
+Age: 70
+Address_Line: House-286 Tatvan Villas, Block-Y, Sohna Road, Behind Vipul Trader Center, Sector-48
+Unsubscribed_Time: 2023-08-01T11:51:38+05:30
+Mother_s_Name: SMT VIMLA GUPTA
+Last_Name: Gupta
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005068059
+Created: 2023-05-12T12:48:41+05:30
+Modified: 2025-02-05T14:14:18+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-05T14:14:18+05:30

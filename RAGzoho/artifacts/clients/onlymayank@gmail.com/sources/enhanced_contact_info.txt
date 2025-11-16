@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Mayank Gupta
+Email: onlymayank@gmail.com
+Secondary Email: None
+Phone: +918800494109
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 926106015616
+Date of Birth: 1985-01-01
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 13381140002996
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0001338
+MICR: 110240148
+Account Type: []
+Bank Type: Default
+Annual Income: 2500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Bachelor of technology
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Allahabad
+Last_Activity_Time: 2025-10-29T09:59:58+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Sector-137, Noida Gautam Budhha Nagar
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Yogesh Ji BNI
+First_Name: Mayank
+Contact_Type: Individual
+Age: 40
+Monetary: 1
+Address_Line: FLat - No-903, Tower -21, Paras Tierea
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000020251027
+Created: 2025-05-24T22:28:01+05:30
+Modified: 2025-09-04T13:17:45+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-04T13:17:45+05:30

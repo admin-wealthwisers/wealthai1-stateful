@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Saurabh Kathpalia
+Email: SAURABHKATHPALIA@YAHOO.COM
+Secondary Email: None
+Phone: +919899106755
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 3299
+Date of Birth: 1983-06-15
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 881140130658
+Account Name: None
+Bank Name: HDFC BANK LTD
+IFSC Code: HDFC0000088
+MICR: 110240014
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Non Marketing
+Lead Source Name: Ashish Katpalia
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Private Sector
+$currency_symbol: ₹
+Place_of_Birth: Ghaziabad
+Last_Activity_Time: 2025-02-06T13:29:22+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Noida, Gautam Buddha Nagar
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ashish Katpalia
+First_Name: Saurabh
+Age: 41
+Address_Line: D - 67, Sector- 20
+Last_Name: Kathpalia
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000006536013
+Created: 2023-09-30T12:22:20+05:30
+Modified: 2025-02-06T13:29:22+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-06T13:29:22+05:30

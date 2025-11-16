@@ -1,0 +1,115 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Neelam Khandelwal
+Email: nbareillykhandelwal@gmail.com
+Secondary Email: None
+Phone: +9198688 04344
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 922747921316
+Date of Birth: 1966-03-01
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10259155194
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0001189
+MICR: None
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: C-257, B4 Shalimar Garden Mehak Apartment Near Gaur Plaza Ghaziabad - 201005 Ph – 98688 04344
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: 9868804344@UPI
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Last_Activity_Time: 2025-09-22T17:01:06+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Near Gaur Plaza
+Reference_Name: Pallo Mausi
+First_Name: Neelam
+Age: 58
+Address_Line: C-257, B4 Shalimar Garden Mehak Apartment
+Last_Name: Khandelwal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002594033
+Created: 2022-06-27T22:03:05+05:30
+Modified: 2025-09-22T17:01:06+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-22T17:01:06+05:30

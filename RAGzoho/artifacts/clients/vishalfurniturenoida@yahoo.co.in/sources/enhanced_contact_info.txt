@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Vishal Arora
+Email: vishalfurniturenoida@yahoo.co.in
+Secondary Email: None
+Phone: +919811004553
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 560256479090
+Date of Birth: 1980-02-19
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 54006663530
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0011859
+MICR: 110002308
+Account Type: []
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 3
+$currency_symbol: ₹
+Place_of_Birth: ETTAWAH
+Last_Activity_Time: 2025-06-12T12:03:02+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Noida, Gautam buddha Nagar
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Vikas Arora
+Segment_Label: Customer needs attention
+First_Name: Vishal
+Monetary: 3
+Address_Line: C-335, Sector - 19
+Mother_s_Name: Manorma Arora
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000008048003
+Created: 2024-01-23T12:01:29+05:30
+Modified: 2024-11-20T10:09:08+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-11-20T10:09:08+05:30

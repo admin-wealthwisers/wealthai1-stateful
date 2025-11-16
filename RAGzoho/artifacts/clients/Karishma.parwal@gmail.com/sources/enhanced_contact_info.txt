@@ -1,0 +1,115 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Karishma Rathi
+Email: Karishma.parwal@gmail.com
+Secondary Email: None
+Phone: None
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: None
+Date of Birth: 1988-11-02
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100021999632
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0001430
+MICR: 302240010
+Account Type: []
+Bank Type: None
+Annual Income: 300000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: CA
+Salutation: Mrs.
+Occupation: Practicing CA
+$currency_symbol: ₹
+Place_of_Birth: Jaipur
+Last_Activity_Time: 2024-09-13T10:35:14+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Bani Park Jaipur Rajasthan
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Karishma
+Address_Line: D-12,B-103 Meera Marg Jaipur
+Last_Name: Rathi
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005292022
+Created: 2023-06-15T12:29:10+05:30
+Modified: 2024-07-16T13:02:35+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-07-16T13:02:35+05:30

@@ -1,0 +1,114 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Rajat Badhwar
+Email: RAJAT_BADHWAR@HOTMAIL.COM
+Secondary Email: None
+Phone: +91 98100 63132
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: None
+Date of Birth: 1977-08-04
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 2481930004136
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000248
+MICR: 110240029
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: 41/B, Rajpur Road Kothi Under Hill Road Civil Lines Delhi – 110054 Ph
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Last_Activity_Time: 2024-12-12T11:22:51+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Under Hill Road Civil Lines
+First_Name: Rajat
+Age: 47
+Address_Line: 41/B, Rajpur Road Kothi
+Last_Name: Badhwar
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002592011
+Created: 2022-06-27T22:03:04+05:30
+Modified: 2024-12-12T11:22:51+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-12T11:22:51+05:30

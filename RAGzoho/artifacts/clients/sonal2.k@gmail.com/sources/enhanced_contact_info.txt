@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Sonal Sharma
+Email: sonal2.k@gmail.com
+Secondary Email: None
+Phone: +919758196100
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 400839859570
+Date of Birth: 1984-11-12
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 2979000101034080
+Account Name: None
+Bank Name: PUNJAB NATIONAL BANK
+IFSC Code: PUNB0297900
+MICR: 243024007
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: 9758196100@paytm
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Private Sector Service
+Frequency: 2
+$currency_symbol: ₹
+Last_Activity_Time: 2025-11-08T15:47:21+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: NEAR P.N.B BANK,KUNWARPUR,P.O KUNWARPUR
+Reference_Name: Sonal Bua - Gaurav Sharma
+Segment_Label: Customer needs attention
+First_Name: Sonal
+Monetary: 3
+Address_Line: 488A/11, MOHAN STEEL WORKS
+Recency: 3
+Last_Name: Sharma
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000001389051
+Created: 2021-12-28T15:34:51+05:30
+Modified: 2024-08-01T17:45:24+05:30
+Owner: Prabha
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-08-01T17:45:24+05:30

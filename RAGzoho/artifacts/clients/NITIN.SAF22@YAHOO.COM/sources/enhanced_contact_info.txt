@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Nitin Mehrotra
+Email: NITIN.SAF22@YAHOO.COM
+Secondary Email: None
+Phone: +919837608145
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 373695009802
+Date of Birth: 1981-08-13
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 18871000007184
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0001887
+MICR: 243240004
+Account Type: []
+Bank Type: None
+Annual Income: 2000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: Axis Bank
+IFSC Code 2: UTIB0000205
+MICR 2: 243211002
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Bareilly
+Last_Activity_Time: 2025-09-04T10:12:11+05:30
+Exchange_Rate: 1
+Account_No_21: 910010017043141
+$approved: True
+$editable: True
+Address_Line2: Stadium Road, Bareilly
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Nitin
+Address_Line: 34, Residency Gardan
+Mother_s_Name: Prateeksha Mehrotra
+Recency: 3
+Last_Name: Mehrotra
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005128143
+Created: 2023-05-18T16:25:11+05:30
+Modified: 2023-12-21T13:01:42+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-21T13:01:42+05:30

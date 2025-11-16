@@ -1,0 +1,113 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Preeti Sharma
+Email: preitypreety.sharma@gmail.com
+Secondary Email: None
+Phone: +919536897078
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 714513799950
+Date of Birth: 1986-09-05
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 38834662239
+Account Name: None
+Bank Name: State Bank of India
+IFSC Code: SBIN0061206
+MICR: 500002545
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Private Service
+$currency_symbol: ₹
+Last_Activity_Time: 2023-12-21T13:29:35+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: 1, D.M ROAD, Bulandshahr
+First_Name: Preeti
+Address_Line: L.I.G.815, Avas Vikas
+Last_Name: Sharma
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000001723107
+Created: 2022-02-09T13:28:31+05:30
+Modified: 2023-12-21T13:29:35+05:30
+Owner: Prabha
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-21T13:29:35+05:30

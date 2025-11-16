@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Dr. Vikas Verma
+Email: dr.vikasverma28@gmail.com
+Secondary Email: None
+Phone: +919711198829
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 764195276671
+Date of Birth: 1983-11-28
+Anniversary Date: 2013-05-13
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 5901000047278
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000590
+MICR: 110240081
+Account Type: []
+Bank Type: Default
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: BDS
+Salutation: Dr.
+Tax_Status: Resident Individual
+Occupation: Professional
+$currency_symbol: ₹
+Place_of_Birth: Prayagraj
+Last_Activity_Time: 2025-08-30T15:55:14+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Yamuna Vihar, North East Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Dr. Simran Sethi
+First_Name: Vikas
+Age: 41
+Address_Line: B-2/172, Yamuna Vihar
+Mother_s_Name: Pramila Verma
+Last_Name: Verma
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000017880380
+Created: 2025-03-10T16:56:50+05:30
+Modified: 2025-03-10T16:57:36+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-03-10T16:57:36+05:30

@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Kajal Tyagi
+Email: kajaltyagit4@gmail.com
+Secondary Email: None
+Phone: +918448540698
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 399962047702
+Date of Birth: 2003-02-17
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 6047004872
+Account Name: None
+Bank Name: Kotak Mahindra Bank
+IFSC Code: KKBK0000677
+MICR: 110485033
+Account Type: []
+Bank Type: None
+Annual Income: 200000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Public Sector
+Frequency: 3
+$currency_symbol: ₹
+Place_of_Birth: Ghaziabad
+Last_Activity_Time: 2025-11-07T16:49:53+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Keshav Kunj, Govindpuram, Ghaziabad
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Mohit Tyagi
+First_Name: Kajal
+Monetary: 1
+Address_Line: E- 4, Gali Number -7, Anokhi Collection
+Mother_s_Name: Rajkumari Tyagi
+Recency: 3
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000007173001
+Created: 2023-11-21T17:47:04+05:30
+Modified: 2023-11-22T13:52:20+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-11-22T13:52:20+05:30

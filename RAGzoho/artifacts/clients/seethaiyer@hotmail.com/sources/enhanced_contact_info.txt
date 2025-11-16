@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Seethalakshmi Sridhar
+Email: seethaiyer@hotmail.com
+Secondary Email: None
+Phone: +919810346459
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 420307906855
+Date of Birth: 1952-06-30
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 604810100001651
+Account Name: None
+Bank Name: BANK OF INDIA
+IFSC Code: BKID0006048
+MICR: 110013052
+Account Type: []
+Bank Type: None
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Retired
+$currency_symbol: ₹
+Place_of_Birth: UP
+Last_Activity_Time: 2024-08-07T15:39:25+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Near Fortis Hospital Sector-62
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Seethalakshmi
+Address_Line: B-309, C-58/15 Sagar Aprtments
+Mother_s_Name: Na
+Last_Name: Sridhar
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005036077
+Created: 2023-05-08T16:08:51+05:30
+Modified: 2024-08-07T15:39:25+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-08-07T15:39:25+05:30

@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Indu Alok Nangia
+Email: rashinangia07@gmail.com
+Secondary Email: None
+Phone: +918767948186
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 665550043613
+Date of Birth: 1979-01-23
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 643401500755
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0006434
+MICR: 400229069
+Account Type: []
+Bank Type: None
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Pranav
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: BA
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Self Employed
+$currency_symbol: ₹
+Place_of_Birth: Chandigarh
+Last_Activity_Time: 2025-06-14T12:45:55+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Goregaon West, Mumbai, Motilal Nagar
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Pranav Kakkar
+First_Name: Indu Alok
+Address_Line: 41/352, Unnat Nagar No-2, Near Patkar College
+Mother_s_Name: Na
+Last_Name: Nangia
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000012525065
+Created: 2024-10-08T13:48:08+05:30
+Modified: 2024-10-08T13:48:15+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-10-08T13:48:15+05:30

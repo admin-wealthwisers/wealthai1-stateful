@@ -1,0 +1,115 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Saroj Sharma
+Email: varunca92@gmail.com
+Secondary Email: None
+Phone: +917503806591
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 658220135034
+Date of Birth: 1961-06-07
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 98382010006168
+Account Name: None
+Bank Name: SYNDICATE BANK
+IFSC Code: SYNB0009838
+MICR: 110025349
+Account Type: []
+Bank Type: None
+Annual Income: 600000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Self Employed
+$currency_symbol: ₹
+Last_Activity_Time: 2025-06-09T17:11:17+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Varun Sir mother
+First_Name: Saroj
+Address_Line: H - 75 PATEL NAGAR III
+Mother_s_Name: Atarkali Sharma
+Last_Name: Sharma
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005036048
+Created: 2023-05-08T15:29:54+05:30
+Modified: 2023-10-26T16:36:18+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-10-26T16:36:18+05:30

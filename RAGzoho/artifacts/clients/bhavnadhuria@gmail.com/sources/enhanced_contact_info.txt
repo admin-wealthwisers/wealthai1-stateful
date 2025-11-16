@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Bhavna Dhuria
+Email: bhavnadhuria@gmail.com
+Secondary Email: None
+Phone: +919650993482
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 373265389142
+Date of Birth: 1985-12-25
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 30469933951
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0012986
+MICR: 110002316
+Account Type: []
+Bank Type: None
+Annual Income: 2000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: B.Tech
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: MODI NAGAR
+Last_Activity_Time: 2023-10-26T16:54:06+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Bhavna - Rohan
+First_Name: Bhavna
+Address_Line: Flat No-A-1103 Prateek Fedora, Sector-62
+Mother_s_Name: Usha Dhuria
+Last_Name: Dhuria
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005082028
+Created: 2023-05-13T15:13:18+05:30
+Modified: 2023-10-26T16:54:06+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-10-26T16:54:06+05:30

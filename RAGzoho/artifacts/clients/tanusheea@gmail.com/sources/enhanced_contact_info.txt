@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Tanushee Agarwal
+Email: tanusheea@gmail.com
+Secondary Email: None
+Phone: +919837018118
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 468721289185
+Date of Birth: 1987-02-25
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 619010044285
+Account Name: None
+Bank Name: KOTAK MAHINDRA BANK LIMITED
+IFSC Code: KKBK0005294
+MICR: None
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: AXIS Bank
+IFSC Code 2: UTIB0000205
+MICR 2: 243211002
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms.
+Tax_Status: Resident Individual
+$currency_symbol: ₹
+Place_of_Birth: Bareilly
+Last_Activity_Time: 2025-10-06T12:12:02+05:30
+Exchange_Rate: 1
+Account_No_21: 911010042456195
+$approved: True
+$editable: True
+Address_Line2: BEHIND ICICI BANK Bareilly
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Abhishek Agrawal
+First_Name: Tanushee
+Address_Line: 116,CIVIL LINES
+Mother_s_Name: Anita Agrawal
+Last_Name: Agarwal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005056034
+Created: 2023-05-10T12:29:29+05:30
+Modified: 2024-07-22T11:23:47+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-07-22T11:23:47+05:30

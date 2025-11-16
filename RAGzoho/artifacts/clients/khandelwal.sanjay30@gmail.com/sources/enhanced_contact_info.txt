@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Sanjay Rajendra Khandelwal
+Email: khandelwal.sanjay30@gmail.com
+Secondary Email: None
+Phone: +9193226 80684
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 657439605889
+Date of Birth: 1963-02-13
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 9580010005601
+Account Name: None
+Bank Name: KOTAK MAHINDRA BANK
+IFSC Code: KKBK0000958
+MICR: 400485002
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: 701, Shraddha Apartment Behind Juggilal Poddar School Upper Govind Nagar , Malad (East) Mumbai – 400097 Ph - +9193226 80684
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Others
+Frequency: 3
+$currency_symbol: ₹
+Last_Activity_Time: 2025-11-07T16:49:53+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Upper Govind Nagar , Malad (East) Mumbai
+Reference_Name: Sanjay Mosaji - Mumbai
+First_Name: Sanjay
+Age: 61
+Monetary: 5
+Address_Line: 701, Shraddha Apartment Behind Juggilal Poddar School
+Recency: 4
+Last_Name: Rajendra Khandelwal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002589012
+Created: 2022-06-27T22:03:04+05:30
+Modified: 2024-12-12T12:06:01+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-12T12:06:01+05:30

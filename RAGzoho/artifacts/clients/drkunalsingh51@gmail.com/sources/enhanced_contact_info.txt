@@ -1,0 +1,114 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Kunal Singh
+Email: drkunalsingh51@gmail.com
+Secondary Email: None
+Phone: +919899718911
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 391565671592
+Date of Birth: 1990-03-29
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100159743282
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0001603
+MICR: 110240196
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+$currency_symbol: ₹
+Place_of_Birth: PATNA
+Last_Activity_Time: 2024-09-13T10:35:51+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Noida Sector-37
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Kunal
+Address_Line: B-44, Block-B behind petrol pump sector-51
+Mother_s_Name: Mrs. Nidhi Singh
+Last_Name: Singh
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005310039
+Created: 2023-06-16T12:17:31+05:30
+Modified: 2023-12-21T11:19:14+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-21T11:19:14+05:30

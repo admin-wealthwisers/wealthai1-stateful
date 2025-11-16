@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Aditya Ray
+Email: adityaray004@gmail.com
+Secondary Email: None
+Phone: 7836993859
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 279330721872
+Date of Birth: 1995-11-04
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 1956101074140
+Account Name: None
+Bank Name: canara Bank
+IFSC Code: CNRB0001956
+MICR: 110015098
+Account Type: []
+Bank Type: None
+Annual Income: 300000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: B Com (H)
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: New Delhi
+Last_Activity_Time: 2023-12-20T12:52:20+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Chilla Saroda Khadar, East Delhi
+Reference_Name: Anjan Roy
+First_Name: Aditya
+Address_Line: 126-D, Poket - B, Mayur Vihar Phase - 2
+Mother_s_Name: Aparajita Ray
+Last_Name: Ray
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000003838099
+Created: 2022-12-06T17:00:30+05:30
+Modified: 2023-12-20T12:52:20+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-20T12:52:20+05:30

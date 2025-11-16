@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Dr. Imaad Rahman
+Email: imaadrahman23@gmail.com
+Secondary Email: None
+Phone: +919716529789
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 462450681989
+Date of Birth: 1998-01-23
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 73694200000377
+Account Name: None
+Bank Name: YES BANK LTD
+IFSC Code: YESB0000736
+MICR: 110532137
+Account Type: []
+Bank Type: Default
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MBBS
+Salutation: Dr.
+Tax_Status: Resident Individual
+Occupation: Professional
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: New Delhi
+Last_Activity_Time: 2025-09-03T10:13:02+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Noida, Gautam buddha Nagar
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Aasim Rahman
+First_Name: Imaad
+Contact_Type: Individual
+Age: 27
+Monetary: 4
+Address_Line: D-238, Sector 47
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000007158003
+Created: 2023-11-21T10:56:04+05:30
+Modified: 2025-09-03T10:13:02+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-03T10:13:02+05:30

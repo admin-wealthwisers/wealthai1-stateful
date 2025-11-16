@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Parshu Ram
+Email: PARSHURAMSAINI122508@GMAIL.COM
+Secondary Email: None
+Phone: +917678174405
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: None
+Date of Birth: 1999-08-10
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 82252250046173
+Account Name: None
+Bank Name: Canara Bank
+IFSC Code: CNRB0018225
+MICR: 122015011
+Account Type: []
+Bank Type: None
+Annual Income: 300000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Employee Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Post Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Professional
+$currency_symbol: ₹
+Place_of_Birth: Mewat
+Last_Activity_Time: 2025-07-07T16:59:40+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: PUNAHANA MEWAT
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Prashvit-Employee
+First_Name: Parshu
+Contact_Type: Individual
+Age: 25
+Address_Line: WARD NO 8 HARIJAN COLONY
+Last_Name: Ram
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000020412098
+Created: 2025-05-28T15:29:40+05:30
+Modified: 2025-05-28T15:30:41+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-05-28T15:30:41+05:30

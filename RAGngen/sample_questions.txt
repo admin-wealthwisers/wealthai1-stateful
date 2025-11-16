@@ -1,0 +1,72 @@
+Sample Questions for NGEN Markets Mutual Fund Data
+====================================================
+
+FILTER RESULTS & SCREENING:
+- What are the top performing mutual funds based on the filter results?
+- Show me mutual funds with the highest returns in the filter results
+- Which funds passed the NGEN Markets filter criteria?
+- What are the filter parameters used in NGEN Markets Filter Results?
+- List all mutual funds that meet the minimum investment criteria
+
+MUTUAL FUND CATEGORY AVERAGES:
+- What is the average return for large-cap equity funds?
+- Compare category averages between equity and debt mutual funds
+- Which mutual fund category has the highest average return?
+- What are the average expense ratios across different fund categories?
+- Show me the category-wise average AUM (Assets Under Management)
+- What is the average 1-year, 3-year, and 5-year return for mid-cap funds?
+- Compare average returns between growth and value fund categories
+
+AMCs (ASSET MANAGEMENT COMPANIES):
+- List all AMCs in the NGEN Markets database
+- Which AMC has the highest total AUM?
+- Show me the number of funds managed by each AMC
+- What is the average fund performance by AMC?
+- Which AMC has the best performing equity funds?
+- Compare AMCs based on their fund count and average returns
+
+EQUITY EXPOSURES:
+- What are the top sector exposures in mutual fund portfolios?
+- Which stocks have the highest allocation in equity mutual funds?
+- Show me the sector-wise distribution of equity exposures
+- What percentage of equity funds are invested in technology stocks?
+- List the top 10 stocks by market capitalization in equity fund holdings
+- What is the average equity exposure percentage across all funds?
+- Which sectors are most overweight or underweight in mutual fund portfolios?
+
+TOP 25 STOCKS:
+- What are the top 25 stocks held by mutual funds?
+- Which stock has the highest total holding value across all mutual funds?
+- Show me the percentage allocation of each top 25 stock
+- How many mutual funds hold each of the top 25 stocks?
+- What is the combined market value of top 25 stock holdings?
+- Which sectors do the top 25 stocks belong to?
+- Compare the holdings percentage of top 5 stocks vs bottom 5 in the top 25 list
+
+DEBT EXPOSURES:
+- What are the top debt instruments held by mutual funds?
+- Show me the credit rating distribution of debt holdings
+- What percentage of debt funds are invested in government securities?
+- List the top corporate bonds held by debt mutual funds
+- What is the average maturity profile of debt fund holdings?
+- Which debt fund categories have the highest average yields?
+- Compare AAA, AA, and A rated bond exposures in debt funds
+
+NFOs (NEW FUND OFFERS):
+- List all recent NFOs from NGEN Markets
+- What are the upcoming NFO launch dates?
+- Show me NFOs by fund category (equity, debt, hybrid)
+- What is the minimum investment amount for recent NFOs?
+- Which AMCs have launched the most NFOs recently?
+- What are the investment objectives of recent NFOs?
+- Compare NFO sizes (fund collection targets) across different categories
+
+CROSS-CATEGORY QUESTIONS:
+- Compare equity vs debt fund performance and exposures
+- Which AMC has the best track record across equity and debt categories?
+- What is the overall mutual fund industry trend based on all data?
+- Show me funds that appear in both filter results and top performers
+- What is the correlation between fund size and performance?
+- Which stocks appear in both equity exposures and top 25 holdings?
+- Compare category averages with individual fund performances in filter results
+

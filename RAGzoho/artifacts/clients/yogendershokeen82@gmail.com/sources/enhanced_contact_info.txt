@@ -1,0 +1,111 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Yogendra Shokeen
+Email: yogendershokeen82@gmail.com
+Secondary Email: None
+Phone: 9198116 91300
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: None
+Date of Birth: 1982-08-09
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: None
+Account Name: None
+Bank Name: None
+IFSC Code: None
+MICR: None
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: A-31 NATIONAL MARKET PEERA GARHI SUNDER VIHAR West Delhi - 110087 Ph – 98116 91300
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+$currency_symbol: ₹
+Last_Activity_Time: 2024-12-11T13:55:38+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: PEERA GARHI SUNDER VIHAR
+First_Name: Yogendra
+Age: 42
+Address_Line: A-31 NATIONAL MARKET
+Last_Name: Shokeen
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002598052
+Created: 2022-06-27T22:03:12+05:30
+Modified: 2024-12-11T13:55:38+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-11T13:55:38+05:30

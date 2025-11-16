@@ -1,0 +1,113 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. SHESH NATH SINGH
+Email: SSBHAVNA10@GMAIL.COM
+Secondary Email: None
+Phone: +919956332849
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 624297583675
+Date of Birth: 1961-12-20
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10531637258
+Account Name: None
+Bank Name: SBI BANK
+IFSC Code: SBIN0006393
+MICR: 232002035
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: H No 134, Bhogavar Bhag-2, Bhogavar Varanasi Uttar Pradesh – 232101 Ph – 9956332849
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Retire
+$currency_symbol: ₹
+Last_Activity_Time: 2024-12-12T12:04:36+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+First_Name: SHESH NATH
+Age: 62
+Address_Line: H No 134, Bhogavar Bhag-2,Bhogavar
+Last_Name: SINGH
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000001824153
+Created: 2022-02-26T11:40:58+05:30
+Modified: 2024-12-12T12:04:36+05:30
+Owner: Prabha
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-12T12:04:36+05:30

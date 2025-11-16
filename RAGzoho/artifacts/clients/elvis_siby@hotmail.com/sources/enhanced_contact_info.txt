@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Elvis Siby
+Email: elvis_siby@hotmail.com
+Secondary Email: elvis_siby@hotmail.com
+Phone: 971507856337
+Mobile: 9349182005
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 835620622192
+Date of Birth: 1990-02-22
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: 9/184, Marattukulam House, Valiakulam, Chethipuzha, Kottayam
+City: Kerala
+State: Kerala
+Country: India
+ZIP Code: 686104
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 627101077364
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0006271
+MICR: 686229052
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Address_Line_1: 342/20A AL JUMEIRAH AREA DM.23 VILLA/VG
+Address_Line_2: 02 P.O. BOX 124065, JUMEIRAH 2
+Country: United Arab Emirates
+Salutation: Mr.
+Tax_Status: NRI - NRO
+Occupation: Service
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: KOTTAYAM
+Last_Activity_Time: 2025-11-03T11:19:15+05:30
+Exchange_Rate: 1
+ZIP_Postal_Code: 124065
+$approved: True
+$editable: True
+City: Dubai
+State: Dubai
+Reference_Name: Ishwar Haswani
+First_Name: Elvis
+Address_Line: 9/184, Marattukulam House, Valiakulam, Chethipuzha kottayam
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002116154
+Created: 2022-04-20T12:24:39+05:30
+Modified: 2023-12-20T16:51:54+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-20T16:51:54+05:30

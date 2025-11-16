@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Anju -
+Email: ANJU_TANWAR@YAHOO.CO.IN
+Secondary Email: None
+Phone: +919873768392
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 870971618990
+Date of Birth: 1978-01-07
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 4801140011696
+Account Name: None
+Bank Name: HDFC BANK
+IFSC Code: HDFC0001067
+MICR: 110240132
+Account Type: []
+Bank Type: None
+Annual Income: 325000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: Kotak Mahindra Bank
+IFSC Code 2: KKBK0000204
+MICR 2: 110485031
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Service
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-03-18T09:21:54+05:30
+Exchange_Rate: 1
+Account_No_21: 4513001615
+$approved: True
+$editable: True
+Address_Line2: NANGAL RAYA,SOUTH WEST DELHI
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Anju
+Segment_Label: Customer needs attention
+First_Name: Anju
+Monetary: 3
+Address_Line: RZ-11, 12/207,GALI NO.5,J BLOCK WEST SAGAR PUR,
+Mother_s_Name: Angoori Devi
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005153439
+Created: 2023-05-27T11:40:13+05:30
+Modified: 2024-01-01T12:50:04+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-01T12:50:04+05:30

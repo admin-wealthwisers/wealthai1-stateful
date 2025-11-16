@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Rajeshwari Gupta
+Email: pngupta2002@yahoo.com
+Secondary Email: None
+Phone: 9891226406
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 803069482306
+Date of Birth: 1948-07-07
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 17701502466
+Account Name: None
+Bank Name: ICICI BANK
+IFSC Code: ICIC0000314
+MICR: 110229042
+Account Type: []
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Non Marketing
+Lead Source Name: Anurag Gupta ( Money Studio)
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mrs.
+Email_Opt_Out: True
+Tax_Status: Resident Individual
+Occupation: Housewife
+$currency_symbol: ₹
+Last_Activity_Time: 2025-02-05T14:02:06+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: SECTOR 43 GALLERIA DLF IV
+Reference_Name: Anurag Gupta
+First_Name: Rajeshwari
+Age: 76
+Address_Line: C 3 302 P W O HOUSING COMPLEX
+Unsubscribed_Time: 2023-08-01T13:15:17+05:30
+Last_Name: Gupta
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000001723143
+Created: 2022-02-09T13:28:31+05:30
+Modified: 2025-02-05T14:02:06+05:30
+Owner: Prabha
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-05T14:02:06+05:30

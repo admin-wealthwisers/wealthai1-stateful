@@ -1,0 +1,115 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Quamar Hayat
+Email: Quamar.Hyat@gmail.com
+Secondary Email: None
+Phone: +919566225464
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 257521885412
+Date of Birth: None
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 6511140068144
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000651
+MICR: 110240112
+Account Type: []
+Bank Type: Default
+Annual Income: 4700000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Affiliate
+Lead Source Name: Prashant Solanki
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Occupation: Private sector
+$currency_symbol: ₹
+Last_Activity_Time: 2025-07-02T14:56:44+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Omicron 1 , Greater Noida
+Reference_Name: Prashant Solanki
+First_Name: Quamar
+Contact_Type: Individual
+Age: 44
+Address_Line: MG 11 D PH, Eldeco Mystic Greens
+Mother_s_Name: ADHPH9146E
+Last_Name: Hayat
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000017729113
+Created: 2025-03-07T12:11:25+05:30
+Modified: 2025-07-02T14:56:44+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-07-02T14:56:44+05:30

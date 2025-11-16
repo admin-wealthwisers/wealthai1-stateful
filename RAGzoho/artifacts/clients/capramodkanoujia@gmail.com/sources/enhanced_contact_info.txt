@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Geeta kanoujia
+Email: capramodkanoujia@gmail.com
+Secondary Email: None
+Phone: +919810306899
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 216341681689
+Date of Birth: 1944-08-07
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 318000300519541
+Account Name: None
+Bank Name: Punjab National Bank
+IFSC Code: PUNB0031800
+MICR: 250024002
+Account Type: []
+Bank Type: None
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: CRM Money4Smart
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms.
+Email_Opt_Out: True
+Tax_Status: Resident Individual
+Occupation: Housewife
+$currency_symbol: ₹
+Place_of_Birth: SAGAR, MADHYA PRADESH
+Last_Activity_Time: 2025-02-06T12:37:02+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Pramod Kanoujia
+First_Name: Geeta
+Age: 80
+Address_Line: FLAT NO-3J-801 AWHO, GURJINDER VIHAR, GREATER NOIDA KASANA
+Unsubscribed_Time: 2023-08-01T12:35:50+05:30
+Mother_s_Name: Ratan Dulari
+Last_Name: kanoujia
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005109025
+Created: 2023-05-17T14:58:07+05:30
+Modified: 2025-02-06T12:37:02+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-06T12:37:02+05:30

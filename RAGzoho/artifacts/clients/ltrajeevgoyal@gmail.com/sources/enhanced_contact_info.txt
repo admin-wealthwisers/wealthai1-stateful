@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Ritwik Goyal
+Email: ltrajeevgoyal@gmail.com
+Secondary Email: None
+Phone: +919311211653
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 352074851769
+Date of Birth: 2000-09-18
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 40001002381
+Account Name: None
+Bank Name: ICICI BANK LTD
+IFSC Code: ICIC0000400
+MICR: 110229061
+Account Type: []
+Bank Type: Default
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Under Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Student
+$currency_symbol: ₹
+Last_Activity_Time: 2025-05-26T16:41:57+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: NEAR LOTUS BOULEVARD, SECTOR 107, NOIDA, GAUTAM BUDDHA NAGAR,
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Rajeev Goyal - Son
+First_Name: Ritwik
+Contact_Type: Individual
+Age: 24
+Address_Line: C1105, PRATEEK EDIFICE,PLOT NO GH 01/A, NETA 2 ,VISHWAKARMA ROAD
+Mother_s_Name: Richa Goyal
+Last_Name: Goyal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000019115123
+Created: 2025-04-14T13:44:21+05:30
+Modified: 2025-05-26T16:41:57+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-05-26T16:41:57+05:30

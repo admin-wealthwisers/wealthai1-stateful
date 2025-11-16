@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Vinod Kumar Verma
+Email: vinodverma194526@gmail.com
+Secondary Email: None
+Phone: +917007557347
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 461265687431
+Date of Birth: None
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10971229260
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0000102
+MICR: 284002002
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Msc, LLB
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Retired
+$currency_symbol: ₹
+Place_of_Birth: Jhansi
+Last_Activity_Time: 2025-08-29T15:26:33+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Nandanpura, jhansi
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Vinod Kumar
+Address_Line: 49 b- 1, Awas Vikas Colony, Arogay Sadan
+Mother_s_Name: Prabha Verma
+Last_Name: Verma
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000006804001
+Created: 2023-10-20T13:30:41+05:30
+Modified: 2025-08-29T15:20:05+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-08-29T15:20:05+05:30

@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Rohan Salunke
+Email: rohansalunke3@gmail.com
+Secondary Email: None
+Phone: +9198202 47357
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 557137074931
+Date of Birth: 1983-04-12
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 401226311
+Account Name: None
+Bank Name: ICICI BANK
+IFSC Code: ICIC0000004
+MICR: 400229002
+Account Type: []
+Bank Type: None
+Annual Income: 6669600
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: BSC, Executive MBA- IIM Kolkata
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: PROFESSIONAL
+$currency_symbol: ₹
+Last_Activity_Time: 2023-12-06T17:02:54+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Sector 16, Koper Khairne
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Rohan
+Address_Line: Flat B/2, Tata Officers CHS, Plot No 16
+Mother_s_Name: Smt Ranjan Salunke
+Last_Name: Salunke
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005035014
+Created: 2023-05-08T11:13:16+05:30
+Modified: 2023-12-06T17:02:54+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-06T17:02:54+05:30

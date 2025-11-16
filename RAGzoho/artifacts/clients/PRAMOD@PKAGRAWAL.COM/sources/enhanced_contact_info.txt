@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Pramod Kumar Agarwal
+Email: PRAMOD@PKAGRAWAL.COM
+Secondary Email: None
+Phone: +919810076907
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 549588380654
+Date of Birth: 1938-02-12
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 208010100085481
+Account Name: None
+Bank Name: AXIS BANK LTD
+IFSC Code: UTIB0000208
+MICR: 110211022
+Account Type: []
+Bank Type: None
+Annual Income: 1500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: STATE BANK OF INDIA
+IFSC Code 2: SBIN0011546
+MICR 2: 110002472
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Ajay Sharma / Sarita Sharma
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: M.B.B.S
+Salutation: Mr.
+Email_Opt_Out: True
+Partner: Ajay Sharma
+Tax_Status: Resident Individual
+Occupation: Madical Practise
+$currency_symbol: ₹
+Place_of_Birth: Kasganj (U.P)
+Last_Activity_Time: 2025-09-19T11:18:20+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+Account_No_21: 10350804598
+$approved: True
+$editable: True
+Address_Line2: Ashok Vihar H.O
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ajay Sharma
+First_Name: Pramod
+Age: 86
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005139094
+Created: 2023-05-19T13:51:08+05:30
+Modified: 2025-09-19T11:16:22+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-19T11:16:22+05:30

@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Bhashit Dholakia
+Email: BHASHIT@HOTMAIL.COM
+Secondary Email: None
+Phone: +919873561505
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 821511253978
+Date of Birth: 1968-11-23
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 3010100139038
+Account Name: None
+Bank Name: Axis Bank
+IFSC Code: UTIB0000003
+MICR: 380211002
+Account Type: ['Demat - MOSL', 'Mutual Fund', 'Kredx']
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Junagadh
+Last_Activity_Time: 2025-08-28T13:48:18+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Sector-61, Noida, Gautam Buddha Nagar, U.P
+Reference_Name: Bhashit Uncle
+First_Name: Bhashit
+Monetary: 3
+Address_Line: B-1010, Prateek Fedora, Plot E-11
+Mother_s_Name: Kashmira K Dholakia
+Recency: 1
+Last_Name: Dholakia
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002605001
+Created: 2022-06-28T13:16:22+05:30
+Modified: 2024-04-25T14:12:07+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-04-25T14:12:07+05:30

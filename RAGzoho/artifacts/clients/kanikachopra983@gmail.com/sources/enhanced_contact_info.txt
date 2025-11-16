@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Kanika Chopra
+Email: kanikachopra983@gmail.com
+Secondary Email: None
+Phone: +919810280387
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 528698190700
+Date of Birth: 1984-11-13
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 40400705101
+Account Name: None
+Bank Name: The Khattri Co-Operative Urban Bank Ltd.
+IFSC Code: YESB0KCUB03
+MICR: 110305004
+Account Type: []
+Bank Type: None
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referral
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Service
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-11-10T12:21:53+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Vikas Marg, East Delhi
+Reference_Name: Pankaj Abott
+First_Name: Kanika
+Address_Line: 193, Dayanand Vihar,
+Mother_s_Name: Kanchan Arora
+Recency: 2
+Last_Name: Chopra
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000009950021
+Created: 2024-05-11T12:28:01+05:30
+Modified: 2025-08-21T13:49:10+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-08-21T13:49:10+05:30

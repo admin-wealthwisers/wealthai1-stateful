@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Archetype Interior & Construction Pvt Ltd
+Email: dharmpal.prasad@gmail.com
+Secondary Email: None
+Phone: +919910447730
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: None
+Date of Birth: 2021-03-04
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10068171101
+Account Name: None
+Bank Name: IDFC BANK LIMITED
+IFSC Code: IDFB0021416
+MICR: None
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms.
+Record_Image: fb20e73e55a2a9dc9489132e9fb407b65859759152fbebea5419dcbe759acd334b4c4f4e9f28143df4b162bde904ee38ab7ff60be365fd37ba9e1b3edf7a1a1c1172e9e52627912ddf96dcad73d9c73a
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: NOIDA
+Last_Activity_Time: 2024-09-13T10:35:51+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: PLOT NO 8, BLOCK B SECTOR 62
+Reference_Name: Dharampal
+First_Name: Archetype Interior
+Address_Line: C-819 TOWER C, NOIDA ONE
+Last_Name: & Construction Pvt Ltd
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000000684017
+Created: 2021-09-23T13:11:14+05:30
+Modified: 2023-12-20T15:37:09+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-20T15:37:09+05:30

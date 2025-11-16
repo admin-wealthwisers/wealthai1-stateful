@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Rinki Musaddi
+Email: rinkimusaddi@gmail.com
+Secondary Email: None
+Phone: +9198926 66449
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 787578726480
+Date of Birth: 1987-05-03
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 18701531787
+Account Name: None
+Bank Name: ICICI BANK
+IFSC Code: ICIC0000187
+MICR: 700229011
+Account Type: []
+Bank Type: Default
+Annual Income: 1500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: Avani Oxford 2 Block 2 , 8G 136, Jessore Rd, Block A, Lake Town, Kolkata, West Bengal 700055 Ph - 98926 66449
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Employed
+Frequency: 3
+$currency_symbol: ₹
+Place_of_Birth: Howrah
+Last_Activity_Time: 2025-09-23T09:39:45+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Reference_Name: Rinki
+First_Name: Rinki
+Contact_Type: Individual
+Age: 38
+Monetary: 5
+Address_Line: 12, DR. P K Banerjee Road Hoara Corporation
+Mother_s_Name: Chanda Devi Musaddi
+Recency: 2
+Last_Name: Musaddi
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002585012
+Created: 2021-12-28T11:41:01+05:30
+Modified: 2025-09-04T12:39:09+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-04T12:39:09+05:30

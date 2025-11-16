@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Pratibha Aggarwal
+Email: xprown.facilities@gmail.com
+Secondary Email: None
+Phone: +919818161851
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 470247996162
+Date of Birth: 1980-05-02
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 9411866526
+Account Name: None
+Bank Name: KOTAK MAHINDRA BANK LTD
+IFSC Code: KKBK0000203
+MICR: 110485046
+Account Type: []
+Bank Type: Default
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Muradabad
+Last_Activity_Time: 2025-10-28T16:57:12+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Greater Noida West, Sector-16C, Gautam Budjhha Nagar
+Reference_Name: Hari Om Ji - wife
+First_Name: Pratibha
+Contact_Type: Individual
+Age: 45
+Monetary: 2
+Address_Line: Flat No-1023, Hanna Tower, Gaur Saundaryam Near Gaur City Mall Techzone-4
+Mother_s_Name: Smt Sunita Singhal
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000020938005
+Created: 2025-06-13T11:13:03+05:30
+Modified: 2025-10-09T17:09:32+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-10-09T17:09:32+05:30

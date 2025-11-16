@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Abhishek Chandel
+Email: ABHISHEK.CHANDEL1974@GMAIL.COM
+Secondary Email: None
+Phone: +919785323456
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 5893
+Date of Birth: 1975-02-16
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 881050186935
+Account Name: None
+Bank Name: HDFC BANK LTD
+IFSC Code: HDFC0000088
+MICR: 110240014
+Account Type: []
+Bank Type: None
+Annual Income: 2500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: 9785323456@PAYTM
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Praivate Service
+$currency_symbol: ₹
+Place_of_Birth: Meerut
+Last_Activity_Time: 2024-08-01T17:42:40+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: BHUWANA,SHASTRI CIR,UDAIPUR
+Reference_Name: Aditya Birla
+First_Name: Abhishek
+Address_Line: 601 MANGALAM RESIDENCY NEW NAVRATAN COMPLEX
+Mother_s_Name: Manju Chandel
+Last_Name: Chandel
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002596006
+Created: 2022-06-27T22:03:02+05:30
+Modified: 2024-08-01T17:42:40+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-08-01T17:42:40+05:30

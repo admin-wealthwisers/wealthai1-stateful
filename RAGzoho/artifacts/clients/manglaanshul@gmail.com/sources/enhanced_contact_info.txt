@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Anshul Mangla HUF
+Email: manglaanshul@gmail.com
+Secondary Email: None
+Phone: +919910393409
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 852157236733
+Date of Birth: 1983-11-19
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 38690100005354
+Account Name: None
+Bank Name: Yes Bank
+IFSC Code: YESB0000386
+MICR: 110532062
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Ajay Sharma / Sarita Sharma
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Email_Opt_Out: True
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Last_Activity_Time: 2025-09-19T12:21:49+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Gautam Buddha Nagar, U.P
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ajay Sharma
+First_Name: Anshul
+Age: 41
+Address_Line: A-257, Sector - 122 Noida
+Unsubscribed_Time: 2023-08-01T11:38:44+05:30
+Last_Name: Mangla HUF
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005181162
+Created: 2023-05-25T15:51:31+05:30
+Modified: 2024-12-10T15:30:44+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-10T15:30:44+05:30

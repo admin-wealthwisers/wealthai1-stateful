@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Shastri Haswani
+Email: batterywale@gmail.com
+Secondary Email: None
+Phone: +917007282986
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 954798808350
+Date of Birth: 1983-12-12
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 407901501234
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0004079
+MICR: 208229015
+Account Type: []
+Bank Type: None
+Annual Income: 350000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: Plot No 3014, Awas Vikas Colony -3, Panki Kalyanpur Road Near Pani Ki Tanki, Kalyanpur , Kanpur, Uttar Pradesh – 208017 Ph – 917007282986
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Kanpur Nagar
+Last_Activity_Time: 2024-12-12T14:14:57+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Near Pani Ki Tanki, Kalyanpur , Kanpur Nagar, Uttar Pradesh
+Reference_Name: Ishwar
+First_Name: Shastri
+Age: 41
+Monetary: 2
+Address_Line: Plot No 3014, Awas Vikas Colony -3, Panki Kalyanpur Road
+Mother_s_Name: Usha Haswani
+Recency: 1
+Last_Name: Haswani
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002818001
+Created: 2022-07-26T14:05:22+05:30
+Modified: 2024-12-12T14:14:57+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-12T14:14:57+05:30

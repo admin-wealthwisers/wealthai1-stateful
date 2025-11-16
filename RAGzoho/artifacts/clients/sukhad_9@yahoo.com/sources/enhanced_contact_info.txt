@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Sukhad Mittal
+Email: sukhad_9@yahoo.com
+Secondary Email: None
+Phone: +919891018783
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 881728059820
+Date of Birth: 1987-12-09
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 2801101001769
+Account Name: None
+Bank Name: Canara Bank
+IFSC Code: CNRB0002801
+MICR: 110015154
+Account Type: []
+Bank Type: None
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Marketing
+Lead Source Name: Neeraj Bansal / Shriram Agarwal
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Post Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Others
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-06-14T12:45:55+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Pandav Nagar Samaspur Patparganj
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Neeraj Bansal
+First_Name: Sukhad
+Age: 35
+Address_Line: F-9, Gali No- 5, Samaspur Road Janta Garden
+Mother_s_Name: Late Mrs. Sarita Gupta
+Last_Name: Mittal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000008267001
+Created: 2024-02-02T18:10:29+05:30
+Modified: 2024-12-06T16:21:01+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-06T16:21:01+05:30

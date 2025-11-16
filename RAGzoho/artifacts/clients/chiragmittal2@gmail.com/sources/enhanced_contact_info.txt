@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Chirag Mittal
+Email: chiragmittal2@gmail.com
+Secondary Email: None
+Phone: +919811693390
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 654664993255
+Date of Birth: 1978-09-29
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 5006848283
+Account Name: None
+Bank Name: Axis Bank Ltd
+IFSC Code: UTIB0005147
+MICR: 110211390
+Account Type: []
+Bank Type: Default
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: City Bank
+IFSC Code 2: CITI0000017
+MICR 2: 110037006
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Non Marketing
+Lead Source Name: Ashish Katpalia
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MBA
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Professional
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-03-19T17:23:37+05:30
+Exchange_Rate: 1
+Account_No_21: 5006848283
+$approved: True
+$editable: True
+Address_Line2: Near Alchon Public School,Mayur Vihar Phase-1, East Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ashish Katpalia
+First_Name: Chirag
+Contact_Type: Individual
+Age: 46
+Address_Line: B 706, Purvasha Apartments, Ananad Lok C G H S
+Last_Name: Mittal
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000018178944
+Created: 2025-03-19T17:23:06+05:30
+Modified: 2025-03-19T17:23:13+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-03-19T17:23:13+05:30

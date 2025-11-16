@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Gopal Khandelwal
+Email: gopal.khandelwal@gmail.com
+Secondary Email: None
+Phone: +919830009933
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 577356938039
+Date of Birth: 1977-05-03
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 601509983
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0000006
+MICR: 700229002
+Account Type: []
+Bank Type: None
+Annual Income: 1500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: The Millinium, block-C flat no-1 237 NSC Bose Road KOLKATA, WEST BENGAL 700047 Phone number: ‪9830009933
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Occupation: Service
+Frequency: 2
+$currency_symbol: ₹
+Last_Activity_Time: 2025-09-22T11:25:10+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Reference_Name: Sweta di - Kolkata
+First_Name: Gopal
+Age: 47
+Monetary: 1
+Address_Line: 23/39 D.P.P Road Naktala Naktala S.O Naktala Kolkata
+Mother_s_Name: Sweta Khandelwal
+Recency: 5
+Last_Name: Khandelwal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002602021
+Created: 2022-06-27T22:03:06+05:30
+Modified: 2024-12-12T12:32:29+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-12T12:32:29+05:30

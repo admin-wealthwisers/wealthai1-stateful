@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Geeta Lamba
+Email: geetalamba44@gmail.com
+Secondary Email: None
+Phone: +919210932203
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 270882791625
+Date of Birth: 1944-07-15
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 3702000100728291
+Account Name: None
+Bank Name: Punjab National Bank
+IFSC Code: PUNB0370200
+MICR: 110024172
+Account Type: []
+Bank Type: Default
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: Bank Of Baroda
+IFSC Code 2: BARBONOIDAX
+MICR 2: 110012066
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Post Graduate
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Retired
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-10-24T15:39:53+05:30
+Exchange_Rate: 1
+Account_No_21: 26290100001053
+$approved: True
+$editable: True
+Address_Line2: Gautam Buddha Nagar
+Reference_Name: Vikas Lamba - Mother
+First_Name: Geeta
+Contact_Type: Individual
+Age: 81
+Monetary: 5
+Address_Line: Flat No. - 14A, Nilgiri-1, Sector-34, Noida,
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000023246114
+Created: 2025-09-08T15:29:35+05:30
+Modified: 2025-09-15T14:20:45+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-15T14:20:45+05:30

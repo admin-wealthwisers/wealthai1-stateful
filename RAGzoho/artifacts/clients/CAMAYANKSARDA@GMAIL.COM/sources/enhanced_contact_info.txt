@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mayank Sarda
+Email: CAMAYANKSARDA@GMAIL.COM
+Secondary Email: None
+Phone: +917727899883
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 482165974892
+Date of Birth: 1986-01-30
+Anniversary Date: 2012-02-02
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 601140061293
+Account Name: {'name': 'MONEY COMPOUND', 'id': '209771000000365018'}
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000060
+MICR: 400240015
+Account Type: []
+Bank Type: None
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: 5132A, Block 33 Rangoli Garden, Maharana Pratap Marg, Jaipur Rajasthan – 302034 Phone – 7727899887
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: CA
+Tax_Status: Resident Individual
+Occupation: Service
+Frequency: 3
+$currency_symbol: ₹
+Place_of_Birth: Bikaner Rajasthan
+Last_Activity_Time: 2025-09-11T09:41:07+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Near Chitra Ice Factory, Bhinasar(Rural), Bikaner
+First_Name: Mayank
+Age: 38
+Monetary: 2
+Address_Line: Baido Ka Mohalla,
+Mother_s_Name: Manju Devi Sarda
+Recency: 5
+Last_Name: Sarda
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000000371015
+Created: 2021-08-18T17:41:04+05:30
+Modified: 2024-12-12T11:58:29+05:30
+Owner: Sarika  Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-12T11:58:29+05:30

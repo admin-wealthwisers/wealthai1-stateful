@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Yogesh Khandelwal
+Email: ykk0000@gmail.com
+Secondary Email: None
+Phone: +919811153876
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 692453232050
+Date of Birth: 1974-08-26
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 39731380719
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0050203
+MICR: 110002742
+Account Type: []
+Bank Type: None
+Annual Income: 250000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Clients
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Post Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Government Services
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Mathura
+Last_Activity_Time: 2025-09-02T17:32:43+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Plot No-5, Sector - 5, Vaishali, Ghaziabad, I.E. Sahibabad
+$zia_owner_assignment: owner_recommendation_unavailable
+Segment_Label: Customer needs attention
+First_Name: Yogesh
+Monetary: 2
+Address_Line: 012UG, Gaur Galaxy
+Mother_s_Name: Nirmala
+Recency: 2
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000011006001
+Created: 2024-07-12T11:06:59+05:30
+Modified: 2025-09-02T17:32:07+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-02T17:32:07+05:30

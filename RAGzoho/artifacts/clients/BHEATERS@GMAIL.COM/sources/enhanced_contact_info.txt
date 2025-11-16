@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Kamal Verma
+Email: BHEATERS@GMAIL.COM
+Secondary Email: None
+Phone: +919873820134
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 232284610467
+Date of Birth: 1967-05-11
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 915020057781902
+Account Name: None
+Bank Name: Axis Bank
+IFSC Code: UTIB0001789
+MICR: 110211122
+Account Type: []
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: 12th pass
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-09-04T13:13:20+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Satyam Enclave,Jhilmil, DIST:East Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Kamal
+Age: 57
+Address_Line: 18-B, LIG DDA Flats
+Mother_s_Name: Sarita Verma
+Recency: 3
+Last_Name: Verma
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000014873130
+Created: 2025-01-09T11:01:38+05:30
+Modified: 2025-05-28T15:40:55+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-05-28T15:40:55+05:30

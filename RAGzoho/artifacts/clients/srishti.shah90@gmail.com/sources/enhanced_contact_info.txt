@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Srishti Shah
+Email: srishti.shah90@gmail.com
+Secondary Email: None
+Phone: +918105280506
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 859589623576
+Date of Birth: 1990-01-29
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 3401530046
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0000034
+MICR: 700229003
+Account Type: []
+Bank Type: None
+Annual Income: 1200000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Ajay Kumar Khandelwal
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MSC Clinical Psychology and MA in Inclusive
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Kolkata
+Last_Activity_Time: 2025-08-20T15:44:12+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Ballygunge, Kolkata
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ajay Khandelwal
+First_Name: Srishti
+Age: 35
+Address_Line: 13/1A, Old Ballygunge 2nd lane
+Mother_s_Name: Manju Shah
+Last_Name: Shah
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000009017001
+Created: 2024-03-17T07:55:29+05:30
+Modified: 2025-02-06T12:52:18+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-06T12:52:18+05:30

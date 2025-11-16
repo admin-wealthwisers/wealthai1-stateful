@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Prabodh Kumar Rai
+Email: PRAI@NSF.ORG
+Secondary Email: None
+Phone: +919650196144
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 429451553234
+Date of Birth: 1974-08-10
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 5721000040747
+Account Name: None
+Bank Name: HDFC BANK LTD
+IFSC Code: HDFC0000572
+MICR: 110240093
+Account Type: []
+Bank Type: None
+Annual Income: 2500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associates
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Private Sector
+$currency_symbol: ₹
+Last_Activity_Time: 2025-03-19T12:26:41+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: CGHS,PLOT.No-6,NR-DPS SCHOOL,SEC-45,Gurgaon
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Anu Rai
+First_Name: Prabodh Kumar
+Age: 50
+Address_Line: FLAT.No-1503,SANMRINO APPARTMENT SERGOON
+Last_Name: Rai
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005139063
+Created: 2023-05-19T13:08:22+05:30
+Modified: 2025-03-19T12:26:41+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-03-19T12:26:41+05:30

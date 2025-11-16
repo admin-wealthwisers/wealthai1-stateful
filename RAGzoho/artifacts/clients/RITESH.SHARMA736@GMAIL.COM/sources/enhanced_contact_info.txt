@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Ritesh Sharma
+Email: RITESH.SHARMA736@GMAIL.COM
+Secondary Email: None
+Phone: 85859 13154
+Mobile: 8585913154
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 638402946396
+Date of Birth: None
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100192411351
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000975
+MICR: 110240129
+Account Type: []
+Bank Type: None
+Annual Income: 1750000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: ZohoDesk
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: House No - RZ 25E, Gali No - 17, Pradhan Chowk Sadh Nagar Palam Colony Palam Village, Nagafgarh Delhi - 110045 Ph – 85859 13154
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: C.A
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Professional
+$currency_symbol: ₹
+Place_of_Birth: New Delhi
+Last_Activity_Time: 2025-01-07T12:18:41+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Sadh Nagar Palam Colony Palam Village, Najafgarh
+First_Name: Ritesh
+Age: 34
+Address_Line: House No - RZ 25E, Gali No - 17, Pradhan Chowk
+Mother_s_Name: Kamla devi
+Last_Name: Sharma
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002593037
+Created: 2022-06-27T22:03:12+05:30
+Modified: 2025-01-07T12:18:41+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-01-07T12:18:41+05:30

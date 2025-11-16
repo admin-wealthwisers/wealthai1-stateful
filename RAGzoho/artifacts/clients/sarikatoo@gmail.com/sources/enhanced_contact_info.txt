@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Sarika Tiwari
+Email: sarikatoo@gmail.com
+Secondary Email: None
+Phone: +919310274200
+Mobile: 917428747272
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 805114529176
+Date of Birth: 1981-04-05
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 9612659194
+Account Name: None
+Bank Name: Kotak Mahindra Bank
+IFSC Code: KKBK0004599
+MICR: 110485087
+Account Type: []
+Bank Type: Default
+Annual Income: 100000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: HDFC Bank
+IFSC Code 2: HDFC0000088
+MICR 2: 110240014
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-09-12T12:09:09+05:30
+Exchange_Rate: 1
+Account_No_21: 50100221486063
+$approved: True
+$editable: True
+Address_Line2: Ghonda, Garhi Mendu, North East Delhi
+First_Name: Sarika
+Age: 44
+Address_Line: C-361, Gali No-10, New Usmanpur
+Mother_s_Name: Saroj Tiwari
+Last_Name: Tiwari
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002587043
+Created: 2022-06-27T22:03:07+05:30
+Modified: 2025-09-12T12:09:09+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-12T12:09:09+05:30

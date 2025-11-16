@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Atul Vishnu kanodia
+Email: kanodiaatul@yahoo.com
+Secondary Email: None
+Phone: +919769210210
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 694241918654
+Date of Birth: 1980-09-26
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 5421140032225
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0001451
+MICR: 400240131
+Account Type: []
+Bank Type: None
+Annual Income: 5000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: SBM Bank
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: NA
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Chartered Accountant
+Salutation: Mr.
+Tax_Status: NRE
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Bharuch
+Last_Activity_Time: 2024-01-03T15:36:40+05:30
+Exchange_Rate: 1
+Account_No_21: 8126000010373
+$approved: True
+$editable: True
+Address_Line2: Near Poddar Park Malad(East Mumbai)
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Friend
+First_Name: Atul
+Address_Line: C-52, Dhiraj CO-OP Housing Society
+Mother_s_Name: Kanta Vishnu kanodia
+Last_Name: Vishnu kanodia
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000004623010
+Created: 2023-03-22T16:03:48+05:30
+Modified: 2024-01-03T15:36:40+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-03T15:36:40+05:30

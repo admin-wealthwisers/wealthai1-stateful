@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Sowmya Kumar
+Email: sowmy.kumar1991@gmail.com
+Secondary Email: None
+Phone: 00971555433035
+Mobile: +971555433035
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 550654585305
+Date of Birth: 1991-04-26
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100050927313
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0004897
+MICR: 501240502
+Account Type: []
+Bank Type: None
+Annual Income: 8100000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Zoho Webinar
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MBA - Global Business
+Salutation: Mrs.
+Tax_Status: NRI-NRE
+Occupation: Private Sector
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Hyderabad
+Last_Activity_Time: 2025-11-03T11:21:04+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Rajendranagar, Svpnpa, Rangareddi
+First_Name: Sowmya
+Monetary: 4
+Address_Line: 6-9-5, Shivaram Pally, Weaker Section Colony
+Mother_s_Name: Usha Dorai Swamy
+Recency: 2
+Last_Name: Kumar
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000011878028
+Created: 2024-08-19T12:03:54+05:30
+Modified: 2024-09-02T09:49:25+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-09-02T09:49:25+05:30

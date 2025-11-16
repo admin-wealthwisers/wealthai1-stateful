@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. N.Bhojaraj Shetty
+Email: bhojarajshetty645@gmail.com
+Secondary Email: None
+Phone: +918800849281
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 673552414122
+Date of Birth: 1944-05-26
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 26090100023363
+Account Name: None
+Bank Name: Bank Of Baroda
+IFSC Code: BARB0RAJIND
+MICR: 110012099
+Account Type: []
+Bank Type: Default
+Annual Income: 100000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Retired
+$currency_symbol: ₹
+Place_of_Birth: Mangalore
+Last_Activity_Time: 2025-10-31T09:59:12+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Ghaziabad, U.P
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Abhilash Jain - Fathers
+First_Name: N.Bhojaraj
+Contact_Type: Individual
+Age: 81
+Address_Line: Flat NO 706, Virindavan Green, Sahibabad
+Mother_s_Name: Padmavati
+Last_Name: Shetty
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000024775007
+Created: 2025-10-26T13:53:22+05:30
+Modified: 2025-10-31T09:59:12+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-10-31T09:59:12+05:30

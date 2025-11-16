@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Chandrika Sharma
+Email: cmanojsharma@yahoo.com
+Secondary Email: None
+Phone: +919999788236
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 587624837367
+Date of Birth: 1972-03-16
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 629801057568
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0006298
+MICR: 110229022
+Account Type: []
+Bank Type: Default
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Post Graduat
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 2
+$currency_symbol: ₹
+Last_Activity_Time: 2025-11-07T16:49:53+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Sector-14 Rohini, Rajpur Kalan
+First_Name: Chandrika
+Contact_Type: Individual
+Age: 53
+Monetary: 3
+Address_Line: B-56,Prashant Vuhar Delhi
+Mother_s_Name: Kiran Sharma
+Recency: 5
+Last_Name: Sharma
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000000408022
+Created: 2021-08-24T16:21:26+05:30
+Modified: 2025-09-03T12:55:45+05:30
+Owner: Sarika  Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-03T12:55:45+05:30

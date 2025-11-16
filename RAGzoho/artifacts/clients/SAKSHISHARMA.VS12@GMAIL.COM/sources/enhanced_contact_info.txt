@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Sakshi Sharma
+Email: SAKSHISHARMA.VS12@GMAIL.COM
+Secondary Email: None
+Phone: +919654064981
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 343626122083
+Date of Birth: 1994-03-09
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100311161662
+Account Name: None
+Bank Name: HDFC BANK LTD
+IFSC Code: HDFC0000563
+MICR: 110240082
+Account Type: []
+Bank Type: None
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Non Marketing
+Lead Source Name: Ashish Katpalia
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Post Graduate
+Salutation: Ms.
+Partner: Ajay Sharma
+Tax_Status: Resident Individual
+Occupation: Private Sector
+$currency_symbol: ₹
+Place_of_Birth: Ghaziabad
+Last_Activity_Time: 2025-09-19T11:48:47+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Near Monday Market
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ashish Katpalia
+First_Name: Sakshi
+Age: 31
+Address_Line: H-No- 394/A, Prahlaad Gadi
+Mother_s_Name: Vinita Sharma
+Last_Name: Sharma
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000006498074
+Created: 2023-09-27T16:19:55+05:30
+Modified: 2025-08-20T12:08:35+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-08-20T12:08:35+05:30

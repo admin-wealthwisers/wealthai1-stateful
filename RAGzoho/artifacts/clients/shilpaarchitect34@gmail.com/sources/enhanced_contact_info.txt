@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. SHILPA JAIN
+Email: shilpaarchitect34@gmail.com
+Secondary Email: None
+Phone: 986815946
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 767636214315
+Date of Birth: 1970-07-02
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50200068480287
+Account Name: None
+Bank Name: HDFC BANK
+IFSC Code: HDFC0000590
+MICR: 110240081
+Account Type: []
+Bank Type: None
+Annual Income: 1200000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: PROFESSION
+Frequency: 5
+$currency_symbol: ₹
+Place_of_Birth: DELHI
+Last_Activity_Time: 2025-11-07T16:49:53+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Indirapuram, Ghaziabad
+Reference_Name: BNI - Shilpa Jain
+Segment_Label: Champion
+First_Name: SHILPA
+Monetary: 4
+Address_Line: 1011, Milano Tower, Mahagun Mansion Phase-2
+Mother_s_Name: SNEH JAIN
+Recency: 5
+Last_Name: JAIN
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000003872050
+Created: 2022-12-08T15:46:55+05:30
+Modified: 2023-12-21T15:49:40+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-21T15:49:40+05:30

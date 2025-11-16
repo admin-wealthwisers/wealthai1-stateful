@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Shrikant Jadhav
+Email: Ca.Shrikant.jadhav@gmail.com
+Secondary Email: None
+Phone: +918879556454
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 624700170292
+Date of Birth: 1984-11-09
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 912010043044550
+Account Name: None
+Bank Name: Axis Bank
+IFSC Code: UTIB0000108
+MICR: 400211016
+Account Type: []
+Bank Type: None
+Annual Income: 5500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Chartered Accountant
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Private Sector
+Frequency: 3
+$currency_symbol: ₹
+Place_of_Birth: Pune
+Last_Activity_Time: 2025-11-13T09:26:29+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Kelawade, Pune, Maharashtra
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Shrikant
+Age: 39
+Monetary: 5
+Address_Line: A/P- Kelawade
+Mother_s_Name: Ashalata
+Recency: 5
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000013314018
+Created: 2024-11-20T07:56:43+05:30
+Modified: 2024-11-25T14:27:03+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-11-25T14:27:03+05:30

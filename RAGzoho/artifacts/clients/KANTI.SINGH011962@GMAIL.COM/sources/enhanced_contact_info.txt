@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Kanti Singh
+Email: KANTI.SINGH011962@GMAIL.COM
+Secondary Email: None
+Phone: +919454376740
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 963518352418
+Date of Birth: 1962-07-01
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 20075676153
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0011600
+MICR: 110002317
+Account Type: []
+Bank Type: Default
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: CRM Money4Smart
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Private Sector Service
+$currency_symbol: ₹
+Place_of_Birth: Lucknow
+Last_Activity_Time: 2025-03-13T13:00:37+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: SECTOR - D, ALIGANJ, LUCKNOW
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Pramod Kanoujia
+First_Name: Kanti
+Contact_Type: Individual
+Age: 62
+Address_Line: 46 TYPE - III DOOR SANCHAR COLONY
+Mother_s_Name: NA
+Last_Name: Singh
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000018063183
+Created: 2025-03-13T12:59:16+05:30
+Modified: 2025-03-13T13:00:11+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-03-13T13:00:11+05:30

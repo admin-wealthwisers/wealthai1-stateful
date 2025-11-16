@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Vibha Gupta
+Email: DINESHCHANDRAGUPTA51@gmail.com
+Secondary Email: None
+Phone: None
+Mobile: +919212413132
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 466640684075
+Date of Birth: 1956-05-21
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10044429025
+Account Name: None
+Bank Name: IDFC FIRST BANK
+IFSC Code: IDFB0020112
+MICR: 110751015
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Non Marketing
+Lead Source Name: Anurag Gupta ( Money Studio)
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: M.A
+Salutation: Ms.
+Email_Opt_Out: True
+$currency_symbol: ₹
+Last_Activity_Time: 2025-02-05T14:13:42+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Anurag Gupta
+First_Name: Vibha
+Age: 68
+Address_Line: A-443, 2ND FLOOR, DEFENCE COLONY, New delhi
+Unsubscribed_Time: 2023-08-01T11:51:38+05:30
+Mother_s_Name: Parvati Billaiya
+Last_Name: Gupta
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005068015
+Created: 2023-05-12T11:40:05+05:30
+Modified: 2025-02-05T14:13:42+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-05T14:13:42+05:30

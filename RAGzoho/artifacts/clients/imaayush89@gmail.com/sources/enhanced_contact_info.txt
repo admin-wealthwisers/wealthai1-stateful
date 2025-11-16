@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Aayush Agarwal
+Email: imaayush89@gmail.com
+Secondary Email: None
+Phone: +919568004281
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 218861914873
+Date of Birth: 1989-09-05
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 99996666652000
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFCO004381
+MICR: 243240503
+Account Type: []
+Bank Type: Default
+Annual Income: 8500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: State Bank Of India
+IFSC Code 2: SBIN0000637
+MICR 2: 243002504
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MBA
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Bareilly
+Last_Activity_Time: 2025-09-01T12:13:03+05:30
+Exchange_Rate: 1
+Account_No_21: 39587191327
+$approved: True
+$editable: True
+Address_Line2: Bareilly, U.P
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Bhart Agarwal
+First_Name: Aayush
+Contact_Type: Individual
+Age: 35
+Monetary: 4
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000008508003
+Created: 2024-02-15T17:43:06+05:30
+Modified: 2025-05-27T13:34:31+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-05-27T13:34:31+05:30

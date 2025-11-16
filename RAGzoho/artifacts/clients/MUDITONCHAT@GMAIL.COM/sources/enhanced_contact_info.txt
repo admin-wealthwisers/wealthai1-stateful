@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Mudit Gupta
+Email: MUDITONCHAT@GMAIL.COM
+Secondary Email: muditgupta2389@gmail.com
+Phone: +919971888464
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 695803574749
+Date of Birth: 1984-03-17
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 9051040001429
+Account Name: None
+Bank Name: HDFC BANK
+IFSC Code: HDFC0000905
+MICR: 110240115
+Account Type: []
+Bank Type: None
+Annual Income: 555000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: 9971888464@upi & 9971888464@paytm
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Research Analyst
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Bareilly
+Last_Activity_Time: 2025-09-22T11:24:05+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Mohan Nagar, Ghaziabad, Uttar Pradesh
+Reference_Name: Friend
+Segment_Label: Customer needs attention
+First_Name: Mudit
+Monetary: 3
+Address_Line: A-82 Ground Floor, Parsvanath Paradise,
+Mother_s_Name: Sunita gupta
+Recency: 2
+Last_Name: Gupta
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000004064001
+Created: 2023-01-04T12:16:24+05:30
+Modified: 2024-08-01T16:47:16+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-08-01T16:47:16+05:30

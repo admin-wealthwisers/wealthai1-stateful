@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Mudit Gupta (HUF)
+Email: muditgupta2389@gmail.com
+Secondary Email: None
+Phone: 9818998802
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 790397023108
+Date of Birth: 1989-07-23
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: Noida
+City: Delhi
+State: Delhi
+Country: India
+ZIP Code: 110089
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 57830210010194
+Account Name: None
+Bank Name: Union Bank of India
+IFSC Code: UBIN0557838
+MICR: 110026091
+Account Type: ['Mutual Fund']
+Bank Type: None
+Annual Income: 1500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2024-09-13T10:44:02+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: North West Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: BNI
+First_Name: Mudit
+Address_Line: A-2/42, Rohini Sector 16
+Mother_s_Name: Manju Gupta
+Last_Name: Gupta (HUF)
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005272163
+Created: 2022-06-13T09:43:14+05:30
+Modified: 2023-12-21T12:42:45+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-21T12:42:45+05:30

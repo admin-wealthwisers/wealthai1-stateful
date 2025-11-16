@@ -1,0 +1,115 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Ashish Garg
+Email: ASHISHGARG0308@GMAIL.COM
+Secondary Email: None
+Phone: +918368850778
+Mobile: 919599036936
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 302351865920
+Date of Birth: 1993-08-03
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10049789276
+Account Name: None
+Bank Name: IDFC BANK
+IFSC Code: IDFB0020105
+MICR: 110751005
+Account Type: []
+Bank Type: None
+Annual Income: 2500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: ICICI Bank Old Bank
+IFSC Code 2: ICIC0000828
+MICR 2: 110229076
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Last_Activity_Time: 2024-08-07T10:29:52+05:30
+Exchange_Rate: 1
+Account_No_21: 82801001411
+$approved: True
+$editable: True
+Address_Line2: BUDH VIHAR,SULTANPURI, C BLOCK NORTH WEST DELHI
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Ashish
+Address_Line: A 1/47- B, BUDH VIHAR PHASE 1
+Last_Name: Garg
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005181049
+Created: 2023-05-25T12:59:59+05:30
+Modified: 2024-08-07T10:29:52+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-08-07T10:29:52+05:30

@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Sarita Sharma
+Email: AJAY.SHARMA9990810@GMAIL.COM
+Secondary Email: None
+Phone: +917982552021
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 251676817139
+Date of Birth: None
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 1745688935
+Account Name: None
+Bank Name: KOTAK MAHINDRA BANK
+IFSC Code: KKBK0004608
+MICR: 110485104
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Ajay Sharma / Sarita Sharma
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms.
+Email_Opt_Out: True
+Tax_Status: Resident Individual
+$currency_symbol: ₹
+Last_Activity_Time: 2025-09-19T11:28:44+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Garhi Mendu, Bhajan Pura
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ajay Sharma
+First_Name: Sarita
+Age: 37
+Address_Line: J-46, Gali No-1, Jai Prakash Nagar
+Unsubscribed_Time: 2023-08-01T13:15:17+05:30
+Last_Name: Sharma
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005036043
+Created: 2023-05-08T15:21:29+05:30
+Modified: 2025-02-06T11:36:07+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-06T11:36:07+05:30

@@ -1,0 +1,115 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Gaurav Rastogi
+Email: GRVRASTOGI@GMAIL.COM
+Secondary Email: None
+Phone: +9170212 93900
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 771889878359
+Date of Birth: 1985-04-01
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 77701501185
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0001196
+MICR: 400229197
+Account Type: []
+Bank Type: None
+Annual Income: 4000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: CA
+Salutation: Mr.
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Modinagar - Ghaziabad
+Last_Activity_Time: 2024-01-04T10:02:00+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Modinagar, Ghaziabad
+First_Name: Gaurav
+Address_Line: A 61, alok park, modinagar
+Mother_s_Name: Vinod Rastogi
+Last_Name: Rastogi
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002594018
+Created: 2022-06-27T22:03:03+05:30
+Modified: 2024-01-04T10:02:00+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-04T10:02:00+05:30

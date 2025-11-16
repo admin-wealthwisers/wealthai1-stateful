@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Sugam Manocha
+Email: manochasugam66@gmail.com
+Secondary Email: None
+Phone: +919811630398
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 387248787799
+Date of Birth: 1999-09-18
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 519502010014206
+Account Name: None
+Bank Name: Union Bank Of India
+IFSC Code: UBIN0551953
+MICR: None
+Account Type: []
+Bank Type: None
+Annual Income: 1500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Pranav
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Bachelors Graduate (BBA)
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: New Delhi
+Last_Activity_Time: 2025-11-07T16:49:53+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: North West Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Pranav Kakkar
+First_Name: Sugam
+Age: 25
+Address_Line: JU39 C, Pitam Pura
+Mother_s_Name: Mukta Manocha
+Last_Name: Manocha
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000013643012
+Created: 2024-12-02T16:38:45+05:30
+Modified: 2024-12-09T11:59:55+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-09T11:59:55+05:30

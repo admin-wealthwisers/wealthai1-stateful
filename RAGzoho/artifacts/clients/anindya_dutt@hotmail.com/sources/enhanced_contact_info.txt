@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Anindya Dutt
+Email: anindya_dutt@hotmail.com
+Secondary Email: None
+Phone: +918130545888
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 628263476321
+Date of Birth: 1973-04-18
+Anniversary Date: 2006-11-26
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 1571610017002
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0004437
+MICR: 110240416
+Account Type: []
+Bank Type: None
+Annual Income: 2000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Affiliate
+Lead Source Name: Prashant Solanki
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Bcom
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: PROFESSIONAL
+$currency_symbol: ₹
+Place_of_Birth: India
+Last_Activity_Time: 2025-09-27T15:58:55+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Sector 6 Fire Station, Dwarka South west Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Prashant Solankhi
+First_Name: Anindya
+Age: 51
+Address_Line: C-202, Sahara Apartment, Plot- 11 Sector 6
+Mother_s_Name: Bulbul
+Last_Name: Dutt
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000008436001
+Created: 2024-02-10T12:21:41+05:30
+Modified: 2025-02-06T12:42:33+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-06T12:42:33+05:30

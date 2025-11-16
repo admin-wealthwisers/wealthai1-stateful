@@ -1,0 +1,115 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Priyanshu Pande
+Email: priyanshupande@gmail.com
+Secondary Email: None
+Phone: +919066966990
+Mobile: 9899777544
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 888803324159
+Date of Birth: 1984-04-14
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 1581000029483
+Account Name: None
+Bank Name: HDFC BANK
+IFSC Code: HDFC0000158
+MICR: 110240024
+Account Type: []
+Bank Type: None
+Annual Income: 2000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: New Delhi
+Last_Activity_Time: 2025-09-01T17:07:25+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: SARASWATI VIHAR,NORTH WEST DELHI
+First_Name: Priyanshu
+Address_Line: 231, DEEPALI,, PITAM PURA
+Mother_s_Name: Purnima Pande
+Last_Name: Pande
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000004617004
+Created: 2023-03-21T10:33:00+05:30
+Modified: 2023-12-21T13:34:24+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-21T13:34:24+05:30

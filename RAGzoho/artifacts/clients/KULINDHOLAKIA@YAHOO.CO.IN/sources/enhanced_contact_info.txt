@@ -1,0 +1,115 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. KULINCHANDRA MAHENDRALAL DHOLAKIA .
+Email: KULINDHOLAKIA@YAHOO.CO.IN
+Secondary Email: None
+Phone: 919868043700
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 635728662752
+Date of Birth: 1934-12-22
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 628401057986
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0006284
+MICR: 110229026
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: RETIRED
+$currency_symbol: ₹
+Last_Activity_Time: 2023-12-21T11:16:35+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: SEC 61 NOIDA, GAUTAM BUDDHA NAGAR
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Bhashit Uncle Father - Dada
+First_Name: KULINCHANDRA
+Address_Line: 1010 PLT NO E 11 PRATEEK FEDORA
+Last_Name: MAHENDRALAL DHOLAKIA .
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000004694023
+Created: 2023-03-29T15:10:36+05:30
+Modified: 2023-12-21T11:16:35+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-21T11:16:35+05:30

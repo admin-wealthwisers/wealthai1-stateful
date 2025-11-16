@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Renu Gupta
+Email: renurahul.2001@gmail.com
+Secondary Email: None
+Phone: +919999605765
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 615674381299
+Date of Birth: 1979-06-21
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100163766030
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000088
+MICR: 110240014
+Account Type: []
+Bank Type: Default
+Annual Income: 350000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: State Bank Of India
+IFSC Code 2: SBIN0005411
+MICR 2: 110002215
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: M.A.
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: House Wife
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Bharatpur
+Last_Activity_Time: 2025-11-08T15:48:37+05:30
+Exchange_Rate: 1
+Account_No_21: 30474809825
+$approved: True
+$editable: True
+Address_Line2: Plot No-F-28, Sector-50, Noida
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Rahul Khandelwal
+Segment_Label: Customer needs attention
+First_Name: Renu
+Contact_Type: Individual
+Age: 45
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000006370069
+Created: 2023-09-20T13:21:32+05:30
+Modified: 2025-06-09T12:39:40+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-06-09T12:39:40+05:30

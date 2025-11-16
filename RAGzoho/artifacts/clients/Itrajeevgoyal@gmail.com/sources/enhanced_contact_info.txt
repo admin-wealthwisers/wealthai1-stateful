@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms Rajeev Goyal HUF
+Email: Itrajeevgoyal@gmail.com
+Secondary Email: JRGRAJEEVGOYAL@GMAIL.COM
+Phone: +919773752003
+Mobile: +919582252003
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 901468273154
+Date of Birth: 2003-04-01
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 992000100435618
+Account Name: None
+Bank Name: Punjab National Bank
+IFSC Code: PUNB0786500
+MICR: None
+Account Type: []
+Bank Type: Default
+Annual Income: 1500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: 1500000
+
+BUSINESS INFORMATION
+-------------------
+Company Name: Rajeev Goyal HUF
+Company Type: HUF
+Department: None
+Date of Incorporation: 2003-04-01
+Place of Incorporation: Noida
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: ZohoDesk
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: B COM,LLB
+Salutation: Ms
+Tax_Status: Resident Individual
+Occupation: Advocate
+Occupation_HUF: Advocate
+$currency_symbol: ₹
+Place_of_Birth: Noida
+Last_Activity_Time: 2025-07-28T16:01:20+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: SECTOR 107, NOIDA, GAUTAM BUDDHA NAGAR
+First_Name: Rajeev
+Contact_Type: Non Individual
+Age: 22
+Address_Line: PLOT NO GH 01/A, BETA 2, VISHWAKARMA ROAD, NEAR LOTUS BOULEVARD
+Mother_s_Name: NA
+Last_Name: Goyal HUF
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002776001
+Created: 2022-07-21T10:07:28+05:30
+Modified: 2025-07-28T16:01:20+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-07-28T16:01:20+05:30

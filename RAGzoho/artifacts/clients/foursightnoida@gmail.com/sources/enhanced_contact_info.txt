@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Asim Rahman
+Email: foursightnoida@gmail.com
+Secondary Email: None
+Phone: +919810393580
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: None
+Date of Birth: 1972-11-04
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: D 238 SECTOR 47
+City: NOIDA
+State: UTTAR PRADESH
+Country: None
+ZIP Code: 201301
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: None
+Account Name: None
+Bank Name: BANK OF INDIA
+IFSC Code: BKID0006038
+MICR: 110013029
+Account Type: ['Mutual Fund']
+Bank Type: None
+Annual Income: 1200000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Other_Country: INDIA
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Last_Activity_Time: 2025-09-03T10:04:15+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Noida Gautam Buddha Nagar
+Reference_Name: BNI
+First_Name: Asim
+Address_Line: D 238 SECTOR 47
+Mother_s_Name: Shabnam Rehman
+Last_Name: Rahman
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002497057
+Created: 2022-06-16T15:11:25+05:30
+Modified: 2025-09-03T10:03:40+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-03T10:03:40+05:30

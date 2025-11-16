@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Punita Khatter
+Email: punita.khatter2014@gmail.com
+Secondary Email: None
+Phone: +919971333333
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 307631143892
+Date of Birth: 1967-10-03
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100027553800
+Account Name: None
+Bank Name: HDFC BANK LTD
+IFSC Code: HDFC0002005
+MICR: 110240238
+Account Type: []
+Bank Type: None
+Annual Income: 2500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Non Marketing
+Lead Source Name: Anurag Gupta ( Money Studio)
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Grauate
+Salutation: Ms.
+Email_Opt_Out: True
+Tax_Status: Resident Individual
+Occupation: Self Employed
+$currency_symbol: ₹
+Place_of_Birth: Chandigarh
+Last_Activity_Time: 2025-02-05T14:20:08+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Near Time Tower MG Road, DLF Phase 2, Farrukhnagar Gurgaon
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Anurag Gupta
+First_Name: Punita
+Age: 57
+Address_Line: 205 B Beverly Park -1
+Unsubscribed_Time: 2023-08-01T13:15:17+05:30
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005139172
+Created: 2023-05-19T16:41:32+05:30
+Modified: 2025-02-05T14:20:08+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-05T14:20:08+05:30

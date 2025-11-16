@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Lubna Naseem
+Email: naseemlubna@gmail.com
+Secondary Email: None
+Phone: 8006872426
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 882793779319
+Date of Birth: 1992-03-30
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 19201006370
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0000192
+MICR: 243229002
+Account Type: []
+Bank Type: None
+Annual Income: 1500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Bachelor of Technology
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: BUSINESS
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Bareilly
+Last_Activity_Time: 2025-04-21T16:50:55+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Near Tulsi Park Bareilly
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: BNI - Mayank Mishra Wife
+First_Name: Lubna
+Address_Line: 38, Avas Vikas Colony,Civil Lines Bareilly
+Mother_s_Name: Farzana Naseem
+Recency: 1
+Last_Name: Naseem
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000004340001
+Created: 2023-02-08T15:28:18+05:30
+Modified: 2023-12-21T11:51:09+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-21T11:51:09+05:30

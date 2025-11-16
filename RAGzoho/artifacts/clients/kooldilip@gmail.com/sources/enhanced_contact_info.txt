@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Dilip Rao Rachuri
+Email: kooldilip@gmail.com
+Secondary Email: None
+Phone: +918867412471
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 398169741042
+Date of Birth: 1983-03-04
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 9732500300001101
+Account Name: None
+Bank Name: Karnataka Bank
+IFSC Code: Na
+MICR: Na
+Account Type: []
+Bank Type: None
+Annual Income: 7500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Zoho Webinar
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: BE, M.Sc (Mechatronics)
+Salutation: Mr.
+Tax_Status: NRI-NRE
+Occupation: Professional
+$currency_symbol: ₹
+Place_of_Birth: Ballari
+Last_Activity_Time: 2025-06-14T12:52:34+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Venkatapura, Ballari, Kamalapura
+Reference_Name: D V Kalyana ji
+First_Name: Dilip Rao
+Address_Line: 11th Ward Kamam Beedi, Kamalapura
+Mother_s_Name: R Pushpa Rao
+Last_Name: Rachuri
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000011871001
+Created: 2024-08-23T11:38:15+05:30
+Modified: 2024-08-27T15:43:36+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-08-27T15:43:36+05:30

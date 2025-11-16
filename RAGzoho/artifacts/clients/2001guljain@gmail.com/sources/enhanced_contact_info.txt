@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Gul Jain
+Email: 2001guljain@gmail.com
+Secondary Email: None
+Phone: +918527804688
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 491555260415
+Date of Birth: 2001-11-22
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 39207323611
+Account Name: {'name': 'Demat MOSL', 'id': '209771000000589003'}
+Bank Name: State Bank Of India
+IFSC Code: SBIN0070785
+MICR: 110002822
+Account Type: []
+Bank Type: None
+Annual Income: 100000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms.
+Occupation: student
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: MODINAGAR
+Last_Activity_Time: 2025-05-23T14:30:45+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Reference_Name: Girish Jain
+First_Name: Gul
+Monetary: 2
+Address_Line: B-802, Amrapali Green, 1/3 Vaibhav Khand, Indrapuram
+Recency: 4
+Last_Name: Jain
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000000646007
+Created: 2021-09-20T15:13:55+05:30
+Modified: 2024-04-02T13:23:33+05:30
+Owner: Sarika  Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-04-02T13:23:33+05:30

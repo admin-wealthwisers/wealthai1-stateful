@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Payal Agarwal
+Email: agarwalpayal158@gmail.com
+Secondary Email: None
+Phone: +919927078975
+Mobile: +919837023121
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 352961590954
+Date of Birth: 1982-08-15
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 39430100002355
+Account Name: None
+Bank Name: Bank of Baroda
+IFSC Code: BARB0KARBAR
+MICR: 243012020
+Account Type: []
+Bank Type: None
+Annual Income: 300000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Post Graduate
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: House Wife
+$currency_symbol: ₹
+Place_of_Birth: Bareilly
+Last_Activity_Time: 2024-05-07T17:06:53+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Bareilly, U.P
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Payal
+Address_Line: 7- A Prabhat Nagar
+Mother_s_Name: Kalpana Agarwal
+Last_Name: Agarwal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000004793016
+Created: 2023-04-07T13:20:13+05:30
+Modified: 2024-01-04T13:03:29+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-04T13:03:29+05:30

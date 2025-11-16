@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Ishwar Haswani
+Email: ishwarhaswani@gmail.com
+Secondary Email: None
+Phone: 971 509357056
+Mobile: 8800778981
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 715074869764
+Date of Birth: 1984-10-17
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 77701500127
+Account Name: None
+Bank Name: ICICI BANK LIMITED
+IFSC Code: ICIC0004079
+MICR: 208229015
+Account Type: []
+Bank Type: None
+Annual Income: 880800
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: ICICI BANK LIMITED
+IFSC Code 2: ICIC0004079
+MICR 2: 208229015
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: CA & CS
+Salutation: Mr.
+Tax_Status: NRI - NRE
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Kanpur
+Last_Activity_Time: 2025-09-01T11:59:15+05:30
+Exchange_Rate: 1
+Account_No_21: 407901075066
+$approved: True
+$editable: True
+Address_Line2: Kalyanpur , Kanpur, Uttar Pradesh
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Friend
+First_Name: Ishwar
+Address_Line: Plot No 3014, Panki Road, Awas Vikas -3
+Mother_s_Name: Usha Haswani
+Last_Name: Haswani
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000004612001
+Created: 2023-03-20T12:29:50+05:30
+Modified: 2024-01-04T10:23:34+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-04T10:23:34+05:30

@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Bahul Kumar Shastri
+Email: bahulshastri@gmail.com
+Secondary Email: None
+Phone: +9196859 03222
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 306026569716
+Date of Birth: 1989-03-13
+Anniversary Date: 2017-02-19
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10058430862
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0008241
+MICR: 462002003
+Account Type: []
+Bank Type: None
+Annual Income: 1100000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: Axis Bank
+IFSC Code 2: UTIB0003119
+MICR 2: 452211023
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: Vidhigya House 37 DC Scheme 140, Water tank Zone 19 Nagar Nigam Office Scheme 140 Indore – 452016 Ph - 90391 13111
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Morena, Madhya Pradesh
+Last_Activity_Time: 2025-09-04T12:42:25+05:30
+Exchange_Rate: 1
+Account_No_21: 919010055760423
+$approved: True
+$editable: True
+Address_Line2: Near Vimal Vidya Mandir, Bagoniya, Bhopal
+Reference_Name: Bahul
+Segment_Label: Customer needs attention
+First_Name: Bahul Kumar
+Age: 36
+Monetary: 2
+Address_Line: 01, Devlok Colony, CTO Bairagarh
+Mother_s_Name: Manju Shastri
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002601011
+Created: 2022-06-27T22:03:03+05:30
+Modified: 2025-05-05T17:42:12+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-05-05T17:42:12+05:30

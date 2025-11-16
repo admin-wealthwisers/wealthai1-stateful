@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Varun Khanduja
+Email: Kevin777rulz@gmail.com
+Secondary Email: None
+Phone: +919810820820
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 699269042502
+Date of Birth: 1984-07-28
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 70030100007407
+Account Name: None
+Bank Name: Bank Of Baroda
+IFSC Code: BARB0VJNOID
+MICR: 110012307
+Account Type: []
+Bank Type: Default
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: E- 59, Sector - 9, Noida
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Who_can_call: Team Members
+Qualification: MBA
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Ambala
+Last_Activity_Time: 2025-06-06T09:20:48+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Noida Near Cambridge School Gautam Buddha Nagar
+First_Name: Varun
+Contact_Type: Individual
+Age: 40
+Monetary: 2
+Address_Line: F 20 , Sector 27
+Mother_s_Name: Sangeeta Khanduja
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000019314030
+Created: 2025-04-22T13:01:36+05:30
+Modified: 2025-05-29T14:48:01+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-05-29T14:48:01+05:30

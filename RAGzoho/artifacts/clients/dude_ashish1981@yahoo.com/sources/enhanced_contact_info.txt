@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Aanchal Agarwal
+Email: dude_ashish1981@yahoo.com
+Secondary Email: None
+Phone: +919927046004
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 760834201291
+Date of Birth: 1987-03-29
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100213264890
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0001887
+MICR: 243240004
+Account Type: []
+Bank Type: Default
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: B.B.A
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: House Wife
+$currency_symbol: ₹
+Place_of_Birth: Bareilly
+Last_Activity_Time: 2025-09-03T13:16:25+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Bareilly, Uttar Pradesh
+Reference_Name: Neeraj Khandelwal
+First_Name: Aanchal
+Contact_Type: Individual
+Age: 38
+Address_Line: J- 11, RamPur Garden, Near Green Land Dairy
+Mother_s_Name: Poonam Agarwal
+Last_Name: Agarwal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000003838055
+Created: 2022-12-06T14:28:17+05:30
+Modified: 2025-09-03T13:16:25+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-03T13:16:25+05:30

@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Jyoti Chowdhury
+Email: CHOWDHARYJYOTI1@GMAIL.COM
+Secondary Email: None
+Phone: +918240502939
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 701984205304
+Date of Birth: 1980-10-14
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 33859844160
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0001996
+MICR: 700002065
+Account Type: []
+Bank Type: None
+Annual Income: 100000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referral
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: 10th passed
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Housewife
+$currency_symbol: ₹
+Place_of_Birth: Kolkata
+Last_Activity_Time: 2025-06-14T12:45:55+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: VTC: South Dumdum (m), PO: Sreebhumi, North 24 Paraganas
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Mukesh Gupta
+First_Name: Jyoti
+Age: 44
+Address_Line: Ganpati Apartment 40/1, S.K. Dev Road
+Mother_s_Name: Sarla Devi Gupta
+Last_Name: Chowdhury
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000013173007
+Created: 2024-11-10T17:16:42+05:30
+Modified: 2024-11-20T12:42:26+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-11-20T12:42:26+05:30

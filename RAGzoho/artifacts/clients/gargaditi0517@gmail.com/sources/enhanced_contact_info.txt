@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Aditi Garg
+Email: gargaditi0517@gmail.com
+Secondary Email: None
+Phone: +919582753383
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 520609678841
+Date of Birth: 2002-03-05
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 40232293482
+Account Name: None
+Bank Name: State Bank of India
+IFSC Code: SBIN0007873
+MICR: 110002220
+Account Type: []
+Bank Type: Default
+Annual Income: 150000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Pranav
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: 9582753383@ptaxis
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Who_can_call: Team Members
+Qualification: Graduation
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Student
+$currency_symbol: ₹
+Place_of_Birth: Ghaziabad
+Last_Activity_Time: 2025-09-23T11:42:19+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Ghaziabad, U.P
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Pragati-Mayank
+First_Name: Aditi
+Contact_Type: Individual
+Age: 23
+Address_Line: R-8/81, Sector - 8, Raj Nagar
+Mother_s_Name: Bharti Garg
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000018521032
+Created: 2025-03-30T18:19:46+05:30
+Modified: 2025-07-31T14:03:03+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-07-31T14:03:03+05:30

@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Mudit Gupta
+Email: guptamudit@hotmail.com
+Secondary Email: None
+Phone: +919871907722
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 6873
+Date of Birth: 1978-09-03
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 84301075264
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0000843
+MICR: 110229083
+Account Type: []
+Bank Type: Default
+Annual Income: 2500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Non Marketing
+Lead Source Name: Ashish Katpalia
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: 206 Depot RD#12-51, Singapore - 109697
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Address_Line_1: 206 Depot RD#12-51
+Address_Line_2: Singapore
+Qualification: Post Graduate
+Country: Singapore
+Salutation: Mr.
+Tax_Status: NRI - NRE
+Occupation: Private Sector Service
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-08-19T13:39:25+05:30
+Exchange_Rate: 1
+ZIP_Postal_Code: 109697
+$approved: True
+$editable: True
+Address_Line2: Dwarka Sector-6, South West Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ashish Katpalia
+First_Name: Mudit
+Contact_Type: Individual
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000018007296
+Created: 2025-03-12T15:19:10+05:30
+Modified: 2025-08-19T13:38:16+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-08-19T13:38:16+05:30

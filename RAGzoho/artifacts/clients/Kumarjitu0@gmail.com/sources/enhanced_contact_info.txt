@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Jitendra Kumar
+Email: Kumarjitu0@gmail.com
+Secondary Email: None
+Phone: +919711183900
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 945992263796
+Date of Birth: 1985-07-15
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 901104000292573
+Account Name: None
+Bank Name: IDBI Bank
+IFSC Code: IBKL0000901
+MICR: 110259029
+Account Type: []
+Bank Type: Default
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Ajay Sharma / Sarita Sharma
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-03-11T14:00:24+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: GOVINDPURI KALKAJI SOUTH DELHI
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ajay Sharma
+First_Name: Jitendra
+Contact_Type: Individual
+Age: 39
+Address_Line: 601 A FIRST FLOOR LEFT SIDE GALI NO 6A
+Mother_s_Name: NA
+Last_Name: Kumar
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000017892220
+Created: 2025-03-11T13:59:40+05:30
+Modified: 2025-03-11T13:59:52+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-03-11T13:59:52+05:30

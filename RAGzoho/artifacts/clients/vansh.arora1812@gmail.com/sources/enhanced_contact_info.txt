@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Vansh Arora
+Email: vansh.arora1812@gmail.com
+Secondary Email: None
+Phone: 919717656678
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 610539056153
+Date of Birth: 1993-12-18
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100099539543
+Account Name: None
+Bank Name: HDFC BANK
+IFSC Code: HDFC0004767
+MICR: 110240491
+Account Type: []
+Bank Type: None
+Annual Income: 600000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Masters degree
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-09-01T17:24:01+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: East Delhi, Krishna Nagar
+Reference_Name: BNI - Vansh Arora
+First_Name: Vansh
+Age: 31
+Address_Line: 17 A, Gyan Park Ram Nagar, Krishna Nagar
+Mother_s_Name: Neeraj Arora
+Last_Name: Arora
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000001824025
+Created: 2022-02-26T11:25:13+05:30
+Modified: 2024-12-18T15:43:51+05:30
+Owner: Prabha
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-18T15:43:51+05:30

@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Monica Jain
+Email: monica_lic@yahoo.co.in
+Secondary Email: None
+Phone: 9911503503
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 757700733449
+Date of Birth: 1979-05-19
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 109210100009734
+Account Name: None
+Bank Name: UNION BANK OF INDIA
+IFSC Code: UBIN0810924
+MICR: 110026179
+Account Type: []
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mrs.
+Email_Opt_Out: True
+Tax_Status: Resident Individual
+Occupation: SERVICE
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-03-21T15:56:53+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: GALI NO-11 BIHARI COLONY SHAHDARA
+Reference_Name: Amit Jain
+First_Name: Monica
+Monetary: 4
+Address_Line: JAIN MANDIR GALI P-24
+Unsubscribed_Time: 2023-08-01T12:35:50+05:30
+Mother_s_Name: SUMAN JAIN
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000004053001
+Created: 2023-01-03T19:21:41+05:30
+Modified: 2023-12-21T12:32:34+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-21T12:32:34+05:30

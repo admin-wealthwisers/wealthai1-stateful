@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Naveen Kumar Bansal
+Email: naveenbansal@hotmail.com
+Secondary Email: None
+Phone: +919212307477
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 340304973607
+Date of Birth: 1975-09-22
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 126010100066848
+Account Name: None
+Bank Name: Axis Bank
+IFSC Code: UTIB0000126
+MICR: 110211017
+Account Type: []
+Bank Type: None
+Annual Income: 1500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Bhopal
+Last_Activity_Time: 2025-09-17T09:47:31+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: I.E.Sahibabad, Ghaziabad
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Naveen
+Address_Line: 3-A/324, Rachna Sector-3, Vaishali
+Mother_s_Name: Usha Bansal
+Last_Name: Kumar Bansal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000010146001
+Created: 2024-05-21T15:48:21+05:30
+Modified: 2024-05-24T10:30:52+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-05-24T10:30:52+05:30

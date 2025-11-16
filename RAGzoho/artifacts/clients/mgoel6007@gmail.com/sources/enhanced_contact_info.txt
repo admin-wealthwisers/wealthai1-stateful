@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Mehak Goel
+Email: mgoel6007@gmail.com
+Secondary Email: None
+Phone: +918010099951
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 625116251935
+Date of Birth: 2000-06-08
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100481835568
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0002072
+MICR: 110240241
+Account Type: []
+Bank Type: None
+Annual Income: 300000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Masters
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Service
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-06-10T09:53:56+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Rohini Sector - 8, North West Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Abhishek Jain
+First_Name: Mehak
+Monetary: 1
+Address_Line: E-16/175-176, 1st Floor
+Mother_s_Name: Sonam Goel
+Recency: 2
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000010974001
+Created: 2024-07-10T21:40:35+05:30
+Modified: 2024-07-13T14:05:19+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-07-13T14:05:19+05:30

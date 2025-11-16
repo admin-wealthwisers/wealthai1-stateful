@@ -1,0 +1,113 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. VINOD ARORA
+Email: gaurav786arora@gmail.com
+Secondary Email: None
+Phone: +919891202930
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 481683359525
+Date of Birth: 1956-12-27
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 307502010045663
+Account Name: None
+Bank Name: UNION BANK OF INDIA
+IFSC Code: UBIN0530751
+MICR: 110026007
+Account Type: []
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Occupation: Business
+$currency_symbol: ₹
+Last_Activity_Time: 2024-01-08T10:04:40+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+First_Name: VINOD
+Address_Line: J-125, Ashok Vihar Phase-1
+Mother_s_Name: VED KUMARI
+Last_Name: ARORA
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000001723194
+Created: 2022-02-09T13:28:32+05:30
+Modified: 2024-01-08T10:04:40+05:30
+Owner: Prabha
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-08T10:04:40+05:30

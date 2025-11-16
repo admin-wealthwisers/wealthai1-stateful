@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Shweta Nayyar
+Email: shwetanayyar7@gmail.com
+Secondary Email: None
+Phone: +919873633616
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 598280415806
+Date of Birth: 1990-08-15
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 38601541309
+Account Name: None
+Bank Name: ICICI BANK
+IFSC Code: ICIC0000386
+MICR: 110229059
+Account Type: []
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Ajay Sharma / Sarita Sharma
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms.
+Email_Opt_Out: True
+Tax_Status: Resident Individual
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-02-06T11:37:39+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ajay Sharma
+First_Name: Shweta
+Age: 34
+Address_Line: J-220/43 First Floor, Vishnu Garden
+Unsubscribed_Time: 2023-08-01T13:15:17+05:30
+Mother_s_Name: Niti Nayyar
+Last_Name: Nayyar
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005044030
+Created: 2023-05-09T12:34:36+05:30
+Modified: 2025-02-06T11:37:39+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-06T11:37:39+05:30

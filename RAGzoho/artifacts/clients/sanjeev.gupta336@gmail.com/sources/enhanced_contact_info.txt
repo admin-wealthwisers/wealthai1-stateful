@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Sanjeev Gupta
+Email: sanjeev.gupta336@gmail.com
+Secondary Email: None
+Phone: +919782277728
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 531395390325
+Date of Birth: 1993-10-28
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 51109265398
+Account Name: None
+Bank Name: SBI BANK
+IFSC Code: SBIN0031597
+MICR: 334002053
+Account Type: ['Mutual Fund']
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: B-1/93, Sudarshana Nagar Bikaner Rajasthan - 334001 Ph - 9782277728
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Email_Opt_Out: True
+Tax_Status: Resident Individual
+$currency_symbol: ₹
+Last_Activity_Time: 2024-12-12T12:01:23+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Bikaner
+First_Name: Sanjeev
+Age: 31
+Address_Line: B-1/93, Sudarshana Nagar
+Unsubscribed_Time: 2023-08-01T13:15:17+05:30
+Last_Name: Gupta
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000001723182
+Created: 2022-02-09T13:28:32+05:30
+Modified: 2024-12-12T12:01:23+05:30
+Owner: Prabha
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-12T12:01:23+05:30

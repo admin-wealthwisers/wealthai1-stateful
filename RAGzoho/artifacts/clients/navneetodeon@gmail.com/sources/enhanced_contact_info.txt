@@ -1,0 +1,115 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Navneet Mittal
+Email: navneetodeon@gmail.com
+Secondary Email: None
+Phone: +919999333144
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 506789028309
+Date of Birth: 1979-09-27
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 307302010592634
+Account Name: None
+Bank Name: Union Bank of India
+IFSC Code: UBIN0539457
+MICR: 110026025
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: 9999333144@paytm
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Partner: Ajay Sharma
+Tax_Status: Resident Individual
+Occupation: Others
+$currency_symbol: ₹
+Last_Activity_Time: 2025-10-06T12:07:21+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: C Block NORTH WEST DELHI
+Reference_Name: Shashank Gupta Ji
+First_Name: Navneet
+Address_Line: H 9 / A Budh Vihar SULTAN PURI
+Last_Name: Mittal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000000737039
+Created: 2021-09-29T09:58:18+05:30
+Modified: 2024-10-16T12:34:28+05:30
+Owner: Prabha
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-10-16T12:34:28+05:30

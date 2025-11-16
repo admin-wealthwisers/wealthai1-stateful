@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Nitesh Aggarwal
+Email: gniteshaggarwal@gmail.com
+Secondary Email: None
+Phone: 919555594429
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 659345008754
+Date of Birth: 1987-04-30
+Anniversary Date: 2015-06-10
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10097160536
+Account Name: None
+Bank Name: IDFC First Bank
+IFSC Code: IDFB0020158
+MICR: 110751065
+Account Type: []
+Bank Type: None
+Annual Income: 800000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: https://maps.app.goo.gl/pGMjr6rt7EXBJyaf7?g_st=aw
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: Office Address G-05, Ground Floor, C-127, Sector-63 Noida, Uttar Pradesh-201301 (nearest metro blue line sector-62 Noida)
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: C.A.
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Alwar (Rajasthan)
+Last_Activity_Time: 2025-11-04T12:07:14+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Bhola Nath Nagar, Shahdara, North East Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Nitesh
+Contact_Type: Individual
+Age: 38
+Monetary: 1
+Address_Line: 177/1, Gali No 9, Idgah Road
+Mother_s_Name: Suman Agarwal
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000007462001
+Created: 2023-12-12T10:02:24+05:30
+Modified: 2025-11-04T12:06:39+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-11-04T12:06:39+05:30

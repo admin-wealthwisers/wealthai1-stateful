@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Dhruv Goel
+Email: AGARWALCONS2015@GMAIL.COM
+Secondary Email: None
+Phone: 918266046002
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 652502550592
+Date of Birth: 1985-08-30
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 18871000000048
+Account Name: None
+Bank Name: HDFC BAK
+IFSC Code: HDFC0001887
+MICR: 243026007
+Account Type: []
+Bank Type: Default
+Annual Income: 388500
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: UNION BANK OF INDIA
+IFSC Code 2: UBIN0539694
+MICR 2: 243026007
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: C.A., B.COM
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Professional
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Bareilly
+Last_Activity_Time: 2025-06-12T12:03:02+05:30
+Exchange_Rate: 1
+Account_No_21: 396902010047397
+$approved: True
+$editable: True
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Dhruv
+Contact_Type: Individual
+Age: 39
+Monetary: 4
+Address_Line: 35-r/6b Rampur Garden Behind Durgabari Bareilly
+Mother_s_Name: INDU BALA AGARWAL
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005099011
+Created: 2023-05-16T11:15:10+05:30
+Modified: 2025-03-21T10:42:13+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-03-21T10:42:13+05:30

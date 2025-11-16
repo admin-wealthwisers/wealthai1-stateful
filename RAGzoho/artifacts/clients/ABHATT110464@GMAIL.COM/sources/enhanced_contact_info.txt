@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Anita bhatt
+Email: ABHATT110464@GMAIL.COM
+Secondary Email: None
+Phone: +919717755033
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: None
+Date of Birth: 1964-04-08
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10149930726
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0005222
+MICR: 110002422
+Account Type: []
+Bank Type: None
+Annual Income: 2500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Post Graduate
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: House Wife
+$currency_symbol: ₹
+Place_of_Birth: Ghaziabad
+Last_Activity_Time: 2024-01-01T11:01:00+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: SECTOR-61,NOIDA,GAUTAM BUDDHA NAGAR
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Prateek Fedora
+First_Name: Anita
+Address_Line: B- 908 PRATEEK FEDORA E-11
+Last_Name: bhatt
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005153474
+Created: 2023-05-27T11:57:15+05:30
+Modified: 2024-01-01T11:01:00+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-01T11:01:00+05:30

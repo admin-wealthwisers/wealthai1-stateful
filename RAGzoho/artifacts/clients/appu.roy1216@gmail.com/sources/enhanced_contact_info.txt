@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Apurva Roy
+Email: appu.roy1216@gmail.com
+Secondary Email: None
+Phone: +918969446669
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 538932097604
+Date of Birth: 1996-12-16
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 77770124878972
+Account Name: None
+Bank Name: Federal Bank
+IFSC Code: FDRL0007777
+MICR: 682049069
+Account Type: []
+Bank Type: None
+Annual Income: 480000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Marketing
+Lead Source Name: Apoorv Srivastava
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Private Sector
+$currency_symbol: ₹
+Place_of_Birth: Darbhanga
+Last_Activity_Time: 2025-06-10T09:53:56+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Post Lalbagh, Darbhanga
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Apoorva Srivastava
+First_Name: Apurva
+Age: 28
+Address_Line: Dighi Paschimi
+Mother_s_Name: Nilanjana Roy
+Last_Name: Roy
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000007861001
+Created: 2024-01-06T21:28:18+05:30
+Modified: 2025-02-06T12:23:34+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-06T12:23:34+05:30

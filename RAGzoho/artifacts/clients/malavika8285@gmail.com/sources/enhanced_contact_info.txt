@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Malavika Bhaumik
+Email: malavika8285@gmail.com
+Secondary Email: None
+Phone: +917799888363
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 988587859722
+Date of Birth: 1985-02-08
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100335594533
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0005020
+MICR: 700240133
+Account Type: []
+Bank Type: Default
+Annual Income: 1500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Ajay Kumar Khandelwal
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: M.A
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Professional
+$currency_symbol: ₹
+Place_of_Birth: Kolkata
+Last_Activity_Time: 2025-09-03T10:15:12+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Behala, Kolkata
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ajay Khandelwal
+First_Name: Malavika
+Contact_Type: Individual
+Age: 40
+Address_Line: 27, Mitra Colony Shimultala Bazar
+Mother_s_Name: Bandana Bhaumik
+Last_Name: Bhaumik
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000011140001
+Created: 2024-07-17T22:33:21+05:30
+Modified: 2025-09-03T10:14:47+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-03T10:14:47+05:30

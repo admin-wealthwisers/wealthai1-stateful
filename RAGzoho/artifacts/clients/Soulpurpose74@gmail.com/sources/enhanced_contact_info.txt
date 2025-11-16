@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Bharat Bhardwaj
+Email: Soulpurpose74@gmail.com
+Secondary Email: None
+Phone: +918448723733
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 499228616012
+Date of Birth: 2000-04-07
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 5849482123
+Account Name: None
+Bank Name: KOTAK MAHINDRA BANK LTD
+IFSC Code: KKBK0000179
+MICR: 110485010
+Account Type: []
+Bank Type: Default
+Annual Income: 700000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Marketing
+Lead Source Name: Rohit Chaudhary
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Danpur
+Last_Activity_Time: 2025-08-22T13:01:37+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Runsi, Bulandshahr
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Rohit Chaudhary - Friend
+First_Name: Bharat
+Contact_Type: Individual
+Age: 25
+Address_Line: Ganv Runsi, Danpur, Runsi
+Mother_s_Name: Rekha Devi
+Last_Name: Bhardwaj
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000022739028
+Created: 2025-08-19T12:14:16+05:30
+Modified: 2025-08-22T13:01:37+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-08-22T13:01:37+05:30

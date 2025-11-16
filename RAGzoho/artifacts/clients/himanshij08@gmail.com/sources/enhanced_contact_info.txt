@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Himanshi jain
+Email: himanshij08@gmail.com
+Secondary Email: None
+Phone: +919999139431
+Mobile: +9197177 52534
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 544841012109
+Date of Birth: 1993-12-31
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 240301504967
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0002403
+MICR: 411229062
+Account Type: []
+Bank Type: None
+Annual Income: 3300000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: 55, Gali No- 6, Old Govind Pura Extn. Krishna Nagar, East Delhi Delhi - 110051 Phone – 97177 52534
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: Need portfolio review, returns are very less
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MBA
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Private Sector
+Frequency: 3
+$currency_symbol: ₹
+Place_of_Birth: Gohana
+Last_Activity_Time: 2025-11-07T16:49:53+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Krishna Nagar, East Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Pramod Tayal - Wife
+First_Name: Himanshi
+Age: 31
+Monetary: 4
+Address_Line: 55, Gali No- 6, Old Govind Pura Extn.
+Mother_s_Name: Savita Jain
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000007881007
+Created: 2024-01-09T10:59:32+05:30
+Modified: 2025-09-01T15:32:20+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-01T15:32:20+05:30

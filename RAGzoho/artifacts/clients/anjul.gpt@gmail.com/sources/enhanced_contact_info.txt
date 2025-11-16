@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Anjul Gupta
+Email: anjul.gpt@gmail.com
+Secondary Email: None
+Phone: +9198916 09464
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 902310748569
+Date of Birth: 1986-07-12
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 68001544321
+Account Name: None
+Bank Name: BANK OF MAHARASHTRA
+IFSC Code: MAHB0001357
+MICR: 110014041
+Account Type: []
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: 9891609464@paytm
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MBA
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Aliganj, Etah
+Last_Activity_Time: 2025-10-25T13:22:18+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Gautam Buddha Nagar
+First_Name: Anjul
+Address_Line: H.NO- B-79A , Sector -49,Noida
+Mother_s_Name: Anjali Gupta
+Last_Name: Gupta
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002597041
+Created: 2022-06-27T22:03:06+05:30
+Modified: 2024-08-01T17:47:14+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-08-01T17:47:14+05:30

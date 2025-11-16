@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Aditi Kathpalia
+Email: ASHISHKATHPALIA@YAHOO.COM
+Secondary Email: None
+Phone: 9811345852
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 902107758220
+Date of Birth: 1982-07-03
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 7082011012909
+Account Name: None
+Bank Name: PNB Bank
+IFSC Code: PUNB0070810
+MICR: 110024569
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: Oriental Bank Of Commerce
+IFSC Code 2: ORBC0100708
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Non Marketing
+Lead Source Name: Ashish Katpalia
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mrs.
+Email_Opt_Out: True
+Tax_Status: Resident Individual
+$currency_symbol: ₹
+Last_Activity_Time: 2025-09-19T11:38:10+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+Account_No_21: 7082011012909
+$approved: True
+$editable: True
+Address_Line2: Noida, Gautam Buddha Nagar
+Reference_Name: Ashish Katpalia
+First_Name: Aditi
+Age: 42
+Address_Line: D-67, Opp- Oriental Bank, Sector-20
+Unsubscribed_Time: 2023-08-01T11:38:44+05:30
+Last_Name: Kathpalia
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000003838094
+Created: 2022-12-06T16:57:38+05:30
+Modified: 2025-02-06T13:29:51+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-06T13:29:51+05:30

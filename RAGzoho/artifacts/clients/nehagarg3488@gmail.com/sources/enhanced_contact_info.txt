@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Neha Garg
+Email: nehagarg3488@gmail.com
+Secondary Email: None
+Phone: 919810888096
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 533078376462
+Date of Birth: 1988-04-03
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 4401140009335
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000440
+MICR: 110240066
+Account Type: []
+Bank Type: None
+Annual Income: 900000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Professional
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-06-30T10:28:33+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Radhe Shyam Park, Krishna nagar, East Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Pramod Tayal
+First_Name: Neha
+Address_Line: H-No-58 A, Gali No- 4, Parwana Road
+Mother_s_Name: Anita Garg
+Last_Name: Garg
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000006948003
+Created: 2023-11-01T13:31:09+05:30
+Modified: 2024-05-08T12:17:52+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-05-08T12:17:52+05:30

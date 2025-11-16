@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Deepti Arora
+Email: deeptibasandrai_84@gmail.com
+Secondary Email: None
+Phone: +918920334339
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 306086735437
+Date of Birth: None
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 16140100069745
+Account Name: None
+Bank Name: Federal Bank
+IFSC Code: FDRL0001614
+MICR: 110049021
+Account Type: []
+Bank Type: None
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: B.Lib, B.Ed.
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Amritsar
+Last_Activity_Time: 2024-10-16T13:19:41+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Nehru Nagar, Ghaziabad
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Rajan Kumar
+First_Name: Deepti
+Address_Line: 2nd, C- 111,
+Mother_s_Name: Ms. Darshana Arora
+Last_Name: Arora
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000006360008
+Created: 2023-09-18T12:55:16+05:30
+Modified: 2024-10-16T13:19:41+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-10-16T13:19:41+05:30

@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Anand Bhatia
+Email: anand2147@gmail.com
+Secondary Email: None
+Phone: +918218638170
+Mobile: +447889480555
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 585070515242
+Date of Birth: 1989-11-30
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 8211950657
+Account Name: None
+Bank Name: Kotak Mahindra Bank
+IFSC Code: KKBK0000144
+MICR: 244485002
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: Kotak Mahindra Bank
+IFSC Code 2: KKBK0005321
+MICR 2: 243485002
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client's Referral
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: NRO
+Occupation: BUSINESS
+Frequency: 4
+$currency_symbol: ₹
+Last_Activity_Time: 2025-10-06T12:12:32+05:30
+Exchange_Rate: 1
+Account_No_21: 8211950657
+$approved: True
+$editable: True
+Address_Line2: MORADABAD, U.P
+Reference_Name: Pradeep Madan
+Segment_Label: Loyal customer
+First_Name: Anand
+Age: 34
+Monetary: 4
+Address_Line: D-74, DEEN DAYAL NAGAR,, KANTH ROAD
+Recency: 2
+Last_Name: Bhatia
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000001886011
+Created: 2022-03-09T17:19:05+05:30
+Modified: 2024-11-27T16:22:56+05:30
+Owner: Sarika  Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-11-27T16:22:56+05:30

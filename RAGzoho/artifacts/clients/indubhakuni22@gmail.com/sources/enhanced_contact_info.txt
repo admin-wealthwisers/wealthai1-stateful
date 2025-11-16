@@ -1,0 +1,115 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Indu Singh
+Email: indubhakuni22@gmail.com
+Secondary Email: None
+Phone: +918800336084
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 373790269254
+Date of Birth: 1989-10-23
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 751130004610
+Account Name: None
+Bank Name: HDFC BANK
+IFSC Code: HDFC0000075
+MICR: 560240005
+Account Type: []
+Bank Type: None
+Annual Income: 1350000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: B.TECH
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Private Sector Service
+$currency_symbol: ₹
+Place_of_Birth: Ghaziabad
+Last_Activity_Time: 2025-09-04T12:23:42+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+First_Name: Indu
+Address_Line: FLAT NO-7138, 7TH FLOOR TOWER-10, AROCON GOLF VILLE,vCROSSING REPUBLIK
+Mother_s_Name: NANDI BHAKUNI
+Last_Name: Singh
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000003697033
+Created: 2022-11-15T10:54:03+05:30
+Modified: 2023-12-21T10:58:53+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-21T10:58:53+05:30

@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Arpita jain
+Email: ashish.jain2607@gmail.com
+Secondary Email: None
+Phone: 919582028999
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 505056269424
+Date of Birth: 1991-10-04
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 9912496239
+Account Name: None
+Bank Name: Kotak Mahindra Bank
+IFSC Code: KKBK0000677
+MICR: 110485033
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: House Wife
+Frequency: 3
+$currency_symbol: ₹
+Place_of_Birth: Raisen
+Last_Activity_Time: 2025-11-11T11:07:37+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: GH7 Crossing Republic, Ghaziabad
+Reference_Name: Ashish Jain
+First_Name: Arpita
+Monetary: 3
+Address_Line: 11137 Tower -10, Arocon Golf Ville
+Mother_s_Name: Kusum Jain
+Recency: 4
+Last_Name: jain
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002589017
+Created: 2022-06-27T22:03:04+05:30
+Modified: 2024-05-06T09:46:11+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-05-06T09:46:11+05:30

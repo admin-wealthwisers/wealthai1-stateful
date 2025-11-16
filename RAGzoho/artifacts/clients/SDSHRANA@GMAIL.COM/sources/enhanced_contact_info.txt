@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Sudesh Arora
+Email: SDSHRANA@GMAIL.COM
+Secondary Email: None
+Phone: +919717790186
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 572579338532
+Date of Birth: 1982-01-03
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 2711000086890
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000271
+MICR: 110240032
+Account Type: []
+Bank Type: Default
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: CRM Money4Smart
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Private Sector Service
+$currency_symbol: ₹
+Place_of_Birth: Gautam Buddha Nagar
+Last_Activity_Time: 2025-05-07T16:15:57+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: PO NOIDA, DIST-GAUTAM BUDDHA NAGAR
+Reference_Name: Pramod Kanoujia
+First_Name: Sudesh
+Age: 43
+Address_Line: T01 / 12A10 PARAS SEASONS SECTOR - 168, NOIDA,
+Mother_s_Name: NA
+Last_Name: Arora
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000010493019
+Created: 2024-06-15T13:36:19+05:30
+Modified: 2025-03-13T12:42:07+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-03-13T12:42:07+05:30

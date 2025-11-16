@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms Purple Ribix India Private Limited
+Email: rsingh@ots-na.com
+Secondary Email: None
+Phone: +91 9999498919
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: AAPCP1466M
+Aadhaar Number: None
+Date of Birth: 2024-10-18
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 259909909912
+Account Name: None
+Bank Name: Indusind Bank
+IFSC Code: INDB0001661
+MICR: 110234127
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: 500000
+
+BUSINESS INFORMATION
+-------------------
+Company Name: Purple Ribix India Private Limited
+Company Type: Private Limited
+Department: None
+Date of Incorporation: 2024-10-18
+Place of Incorporation: Noida
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Na
+Salutation: Ms
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Last_Activity_Time: 2025-04-08T14:12:13+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Dadri Gautam Buddha Nagar
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Purple Ribix India
+Contact_Type: Non Individual
+Address_Line: 24th to 26th Floor Tower-B Alphathum Nagla Charandas
+Mother_s_Name: NA
+Last_Name: Private Limited
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000016246016
+Created: 2025-02-11T13:50:17+05:30
+Modified: 2025-02-22T13:52:41+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-22T13:52:41+05:30

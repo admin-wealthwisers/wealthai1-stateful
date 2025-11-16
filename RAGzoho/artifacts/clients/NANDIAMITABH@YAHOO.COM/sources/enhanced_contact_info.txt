@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Amitabh Nandi
+Email: NANDIAMITABH@YAHOO.COM
+Secondary Email: None
+Phone: +917428025436
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 245556711175
+Date of Birth: 1964-02-04
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 30750100002865
+Account Name: None
+Bank Name: BANK OF BARODA
+IFSC Code: BARB0INDRAP
+MICR: 110012101
+Account Type: []
+Bank Type: None
+Annual Income: 2500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Private Sector
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Ghaziabad
+Last_Activity_Time: 2024-06-08T15:36:00+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: SHIPRA SUN CITY,SHIPRA SUN C,GHAZIABAD
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Shilpa Nandi
+First_Name: Amitabh
+Monetary: 5
+Address_Line: M 902 JAIPURIYA SUNRISE GREENS INDRA PURAM
+Recency: 1
+Last_Name: Nandi
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005153499
+Created: 2023-05-27T12:09:27+05:30
+Modified: 2023-12-26T10:30:49+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-26T10:30:49+05:30

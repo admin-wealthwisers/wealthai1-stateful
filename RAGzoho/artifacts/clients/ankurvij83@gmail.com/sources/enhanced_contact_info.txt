@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Ankur Vij
+Email: ankurvij83@gmail.com
+Secondary Email: None
+Phone: +919837100110
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 510043317698
+Date of Birth: 1983-08-21
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 918010010460132
+Account Name: None
+Bank Name: Axis Bank
+IFSC Code: UTIB0000361
+MICR: 110211035
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+Frequency: 5
+$currency_symbol: ₹
+Place_of_Birth: Bareilly
+Last_Activity_Time: 2025-11-11T11:07:37+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Noida, Gautam Buddha Nagr
+Reference_Name: Friend
+Segment_Label: Champion
+First_Name: Ankur
+Monetary: 4
+Address_Line: F- 1204, Civitech Sampriti, Sector - 77
+Mother_s_Name: Ritu Vij
+Recency: 5
+Last_Name: Vij
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002825001
+Created: 2022-07-26T16:10:19+05:30
+Modified: 2023-12-20T15:17:07+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-20T15:17:07+05:30

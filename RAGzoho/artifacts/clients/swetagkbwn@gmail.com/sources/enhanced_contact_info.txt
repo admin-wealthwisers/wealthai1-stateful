@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Sweta Khandelwal
+Email: swetagkbwn@gmail.com
+Secondary Email: None
+Phone: +917003367702
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 470012258648
+Date of Birth: 1985-10-02
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 627501531729
+Account Name: {'name': 'Demat MOSL', 'id': '209771000000589003'}
+Bank Name: ICICI BANK LTD
+IFSC Code: ICIC0000349
+MICR: 700229017
+Account Type: ['Demat - MOSL']
+Bank Type: None
+Annual Income: 300000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: swetagkbwn@okicici
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Housewife
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Pratapgarh
+Last_Activity_Time: 2025-07-11T14:55:58+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: NAKTALA S.O, KOLKATA
+First_Name: Sweta
+Monetary: 1
+Address_Line: Manasi,23/39 D.P.P Road
+Mother_s_Name: Jaya Khandelwal
+Recency: 4
+Last_Name: Khandelwal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000001944043
+Created: 2022-03-21T17:34:00+05:30
+Modified: 2024-08-01T16:54:42+05:30
+Owner: Sarika  Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-08-01T16:54:42+05:30

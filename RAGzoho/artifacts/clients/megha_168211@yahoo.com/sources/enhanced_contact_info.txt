@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Megha Singla
+Email: megha_168211@yahoo.com
+Secondary Email: None
+Phone: +917351081818
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 706288049196
+Date of Birth: 1982-10-16
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100181542507
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0002830
+MICR: 110240310
+Account Type: []
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: B.D.S., M.D.S( Paediatric n preventive dentistry)
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Doctor (dental)
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Rohtak (Haryana)
+Last_Activity_Time: 2025-06-12T12:03:02+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Felix Hospital, Sector-137, Noida, Gautam Buddha Nagar
+Segment_Label: Promising
+First_Name: Megha
+Contact_Type: Individual
+Age: 42
+Monetary: 1
+Address_Line: H.No- A-32, Gulshan Vivante Society, Sector - 137
+Mother_s_Name: Shakuntala Singla
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000013923042
+Created: 2024-12-11T16:36:18+05:30
+Modified: 2025-03-20T16:40:32+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-03-20T16:40:32+05:30

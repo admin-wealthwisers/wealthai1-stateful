@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Ashok Kumar Agarwal
+Email: ashok.aa1960@gmail.com
+Secondary Email: None
+Phone: +919837572155
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 741061244073
+Date of Birth: 1960-10-05
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 39601568371
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0000637
+MICR: 243002504
+Account Type: []
+Bank Type: Default
+Annual Income: 8500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: M.com
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Pilibhit
+Last_Activity_Time: 2025-11-08T14:00:18+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Bareilly, U.P
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Bhart Agarwal
+First_Name: Ashok Kumar
+Contact_Type: Individual
+Age: 64
+Monetary: 4
+Address_Line: 35 A/5 Rampur Garden
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000008518022
+Created: 2024-02-16T12:04:49+05:30
+Modified: 2025-09-03T13:28:44+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-03T13:28:44+05:30

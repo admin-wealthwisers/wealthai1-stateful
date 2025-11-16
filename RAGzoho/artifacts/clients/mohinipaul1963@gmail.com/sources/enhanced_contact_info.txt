@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Dr. Mohini Paul
+Email: mohinipaul1963@gmail.com
+Secondary Email: None
+Phone: +919999187296
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 432018279423
+Date of Birth: 1963-03-20
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 1041245367
+Account Name: None
+Bank Name: Central Bank Of India
+IFSC Code: CBIN0280308
+MICR: 110016029
+Account Type: []
+Bank Type: Default
+Annual Income: 2000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MBBS, MD Gynae
+Salutation: Dr.
+Tax_Status: Resident Individual
+Occupation: Government Services
+$currency_symbol: ₹
+Place_of_Birth: Rangoon, Burma
+Last_Activity_Time: 2025-11-11T13:43:55+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: New Delhi, Aali, South Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Manan Malik - Mother
+First_Name: Mohini
+Contact_Type: Individual
+Age: 62
+Address_Line: House No-D- 63, Near Police Station, Kalkaji
+Mother_s_Name: Shama Paul
+Last_Name: Paul
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000025297070
+Created: 2025-10-25T16:45:42+05:30
+Modified: 2025-11-10T12:46:51+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-11-10T12:46:51+05:30

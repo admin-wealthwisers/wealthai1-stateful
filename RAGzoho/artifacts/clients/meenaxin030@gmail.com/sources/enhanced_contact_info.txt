@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Meenaxi Negi
+Email: meenaxin030@gmail.com
+Secondary Email: None
+Phone: +919548836798
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 482169405634
+Date of Birth: 1991-02-28
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 23810100005139
+Account Name: None
+Bank Name: Bank Of Baroda
+IFSC Code: None
+MICR: None
+Account Type: []
+Bank Type: None
+Annual Income: 200000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Uttarakhand
+Last_Activity_Time: 2024-11-20T09:57:55+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Kaushik Enclave, Burari, North Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Sarika Tiwari
+First_Name: Meenaxi
+Age: 33
+Address_Line: Plot,No-417, KH-No- 48/12, Gali- No -37, B-Block, Balaji Mandir
+Mother_s_Name: Anandi Devi
+Last_Name: Negi
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000013163003
+Created: 2024-11-09T15:29:40+05:30
+Modified: 2024-11-20T09:57:55+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-11-20T09:57:55+05:30

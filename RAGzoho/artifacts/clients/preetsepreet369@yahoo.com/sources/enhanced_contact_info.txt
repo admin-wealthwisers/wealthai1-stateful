@@ -1,0 +1,115 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Preeti Agarwal
+Email: preetsepreet369@yahoo.com
+Secondary Email: None
+Phone: +919007107387
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 903788527393
+Date of Birth: 1980-12-18
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 5412880752
+Account Name: None
+Bank Name: Kotak Mahindra Bank
+IFSC Code: KKBK0006582
+MICR: 700485018
+Account Type: []
+Bank Type: None
+Annual Income: 0
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: 96/3 K.N. Sen Road, Kasba Kolkata - 700042 Ph – 9007107387
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: HOUSEWIFE
+$currency_symbol: ₹
+Place_of_Birth: Kolkata
+Last_Activity_Time: 2025-10-06T12:12:09+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: S.O. Kasba Kolkata West Bengal
+First_Name: Preeti
+Age: 43
+Address_Line: 96/3 K.N. Sen Road, Kasba, Kasba
+Last_Name: Agarwal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000004244003
+Created: 2023-01-24T11:06:47+05:30
+Modified: 2024-12-12T14:34:15+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-12T14:34:15+05:30

@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Roobie S Saine
+Email: saniee.roobiee@gmail.com
+Secondary Email: None
+Phone: +919820017386
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 545143468625
+Date of Birth: 1966-06-24
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 28101531633
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0000281
+MICR: 400229039
+Account Type: []
+Bank Type: None
+Annual Income: 700000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referral
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: 12th Pass
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Professional
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: New Delhi
+Last_Activity_Time: 2024-10-18T12:26:31+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Next To Flora Heights, Lokhandwala Andheri West, Suburban
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ajay Dhamja
+First_Name: Roobie S
+Monetary: 4
+Address_Line: 2503, Wing C NG Eclat, Phase - 1,Yamuna Nagar
+Mother_s_Name: Smt. Kanta Rani
+Recency: 1
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005941001
+Created: 2023-08-22T15:46:27+05:30
+Modified: 2024-10-18T12:26:31+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-10-18T12:26:31+05:30

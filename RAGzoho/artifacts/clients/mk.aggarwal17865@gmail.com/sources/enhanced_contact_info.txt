@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Kiran Aggarwal
+Email: mk.aggarwal17865@gmail.com
+Secondary Email: None
+Phone: +918860641935
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 319088318614
+Date of Birth: 1967-12-27
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100217610799
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0001220
+MICR: 110240140
+Account Type: []
+Bank Type: Default
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Ajay Sharma / Sarita Sharma
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mrs.
+Partner: Ajay Sharma
+Alive: Yes
+Tax_Status: Resident Individual
+Occupation: Public Sector
+$currency_symbol: ₹
+Place_of_Birth: New Delhi
+Last_Activity_Time: 2025-05-23T13:26:33+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: ROHINI SECTOR 7 NORTH WEST DELHI DELHI DELHI NEW DELHI
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ajay Sharma
+First_Name: Kiran
+Contact_Type: Individual
+Age: 57
+Address_Line: F 221 ANTRIKSH APARTMENT, SECTOR 14 EXTN ROHINI
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000019806016
+Created: 2025-05-07T16:09:12+05:30
+Modified: 2025-05-23T13:25:59+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-05-23T13:25:59+05:30

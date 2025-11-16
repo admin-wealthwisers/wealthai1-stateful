@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Anu Palta
+Email: anu.livingspaces@gmail.com
+Secondary Email: None
+Phone: +919811677474
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 512486322031
+Date of Birth: 1973-04-02
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 8747451093
+Account Name: None
+Bank Name: KOTAK MAHINDRA BANK LTD
+IFSC Code: KKBK0000201
+MICR: 110485029
+Account Type: []
+Bank Type: Default
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-08-18T13:20:14+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Kalka Ji Extension Aali South Delhi
+Reference_Name: Aman Palta
+First_Name: Anu
+Contact_Type: Individual
+Age: 52
+Address_Line: 18 C Gomti Apartment Pocket A-9
+Mother_s_Name: Nirmal Ahuja
+Last_Name: Palta
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000020938078
+Created: 2025-06-17T11:40:38+05:30
+Modified: 2025-06-20T16:56:31+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-06-20T16:56:31+05:30

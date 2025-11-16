@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Sarthak Bansal
+Email: SARTHAKBANSAL6E@GMAIL.COM
+Secondary Email: neerajbansal_ca@yahoo.com
+Phone: +919310104193
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 915482853413
+Date of Birth: 2007-03-29
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 33001008848
+Account Name: None
+Bank Name: ICICI BANK LTD
+IFSC Code: ICIC0000330
+MICR: 110229045
+Account Type: []
+Bank Type: Default
+Annual Income: 100000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: HDFC Bank
+IFSC Code 2: HDFC0000329
+MICR 2: 110240052
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Marketing
+Lead Source Name: Neeraj Bansal / Shriram Agarwal
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: 12th
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Student
+$currency_symbol: ₹
+Place_of_Birth: Bhilwara
+Last_Activity_Time: 2025-05-30T10:04:45+05:30
+Exchange_Rate: 1
+Account_No_21: 3291000055751
+$approved: True
+$editable: True
+Address_Line2: I. P. Extension, East Delhi
+Reference_Name: Neeraj Bansal
+First_Name: Sarthak
+Contact_Type: Individual
+Age: 18
+Address_Line: C-55, RETREAT APARTMENTS, PLOT NO-20
+Mother_s_Name: Sumita Bansal
+Last_Name: Bansal
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000009952022
+Created: 2024-05-11T14:49:17+05:30
+Modified: 2025-05-24T12:52:45+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-05-24T12:52:45+05:30

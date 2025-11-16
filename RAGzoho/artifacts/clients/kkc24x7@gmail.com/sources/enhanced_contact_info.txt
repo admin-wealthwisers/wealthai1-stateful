@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Jayshree Choraria
+Email: kkc24x7@gmail.com
+Secondary Email: DUGAR.JD@GMAIL.COM
+Phone: +919953145365
+Mobile: +919643404885
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 453509257059
+Date of Birth: 1988-04-10
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10081734556
+Account Name: None
+Bank Name: IDFC FIRST BANK
+IFSC Code: IDFB0020152
+MICR: 110751041
+Account Type: []
+Bank Type: None
+Annual Income: 2900000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: BE
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Senior Designer IT
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Rajasthan
+Last_Activity_Time: 2025-08-19T12:47:06+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Chitranjan Park Kalkaji South Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Kirti Choraria - Wife
+First_Name: Jayshree
+Contact_Type: Individual
+Age: 37
+Monetary: 3
+Address_Line: H 1496 2nd Floor
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000018178049
+Created: 2025-03-19T11:07:26+05:30
+Modified: 2025-08-19T12:47:06+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-08-19T12:47:06+05:30

@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Riya jain
+Email: riya.jain91095@gmail.com
+Secondary Email: None
+Phone: +919070502299
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 554528526599
+Date of Birth: 1995-10-09
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 629201061043
+Account Name: None
+Bank Name: ICICI BANK
+IFSC Code: ICIC0006292
+MICR: 110229016
+Account Type: []
+Bank Type: None
+Annual Income: 2000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 2
+$currency_symbol: ₹
+Last_Activity_Time: 2025-06-12T12:03:02+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: ALIPUR ROAD, CIVIL LINES, North Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Mayank Jain
+Segment_Label: Customer needs attention
+First_Name: Riya
+Monetary: 2
+Address_Line: B-4, GANPATI APARTMENT, PLOT NO-6, SHAMNATH MARG
+Mother_s_Name: Madhu Jain
+Recency: 2
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000008762002
+Created: 2024-03-02T13:07:28+05:30
+Modified: 2024-07-10T11:07:07+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-07-10T11:07:07+05:30

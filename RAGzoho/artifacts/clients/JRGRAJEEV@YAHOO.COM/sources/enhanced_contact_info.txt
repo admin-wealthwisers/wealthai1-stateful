@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Raj Rani Goyal
+Email: JRGRAJEEV@YAHOO.COM
+Secondary Email: None
+Phone: +919582252003
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: None
+Date of Birth: 1947-11-10
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10027705031
+Account Name: None
+Bank Name: IDFC FIRST BANK
+IFSC Code: IDFB0020101
+MICR: 110751001
+Account Type: []
+Bank Type: Default
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: UJJIVAN SMALL FINANCE BANK LIMITED
+IFSC Code 2: UJVN0002347
+MICR 2: 110761013
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: NA
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: House Wife
+$currency_symbol: ₹
+Place_of_Birth: Na
+Last_Activity_Time: 2025-05-29T10:41:28+05:30
+Exchange_Rate: 1
+Account_No_21: 2347110140052601
+$approved: True
+$editable: True
+Address_Line2: FARRUKHABAD
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Rajeev Goyal - Mother
+First_Name: Raj Rani
+Contact_Type: Individual
+Age: 77
+Address_Line: 417 GHAMANDI KUNCHA
+Mother_s_Name: NA
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000020478016
+Created: 2025-05-29T10:41:20+05:30
+Modified: 2025-05-29T10:41:28+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-05-29T10:41:28+05:30

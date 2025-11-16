@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Vineet Modi
+Email: vineetmodi@hotmail.com
+Secondary Email: None
+Phone: +919810040285
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 416722829847
+Date of Birth: 1984-12-11
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 6912118932
+Account Name: None
+Bank Name: Kotak Mahindra Bank
+IFSC Code: KKBK0000180
+MICR: 110485040
+Account Type: []
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: Kotak Mahindra Bank
+IFSC Code 2: KKBK0005033
+MICR 2: 110485105
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Post Graduate
+Salutation: Mr.
+Tax_Status: HUF
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Tinsukia
+Last_Activity_Time: 2025-09-17T10:00:17+05:30
+Exchange_Rate: 1
+Account_No_21: 558010056754
+$approved: True
+$editable: True
+Address_Line2: Noida, Gautam Buddha Nagar
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Vineet
+Age: 39
+Address_Line: H-15, Near Kailash Hospital Sector-27
+Mother_s_Name: Sabita Modi
+Last_Name: Modi
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000013203001
+Created: 2024-11-11T15:47:14+05:30
+Modified: 2024-11-25T11:42:57+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-11-25T11:42:57+05:30

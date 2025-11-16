@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Rita Rani
+Email: reetaguptacs89@gmail.com
+Secondary Email: None
+Phone: 919050688012
+Mobile: +919255288012
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 192510400051
+Date of Birth: 1980-12-10
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 192510400051448
+Account Name: None
+Bank Name: IDBI BANK
+IFSC Code: IBKL0001925
+MICR: 132259152
+Account Type: []
+Bank Type: None
+Annual Income: 400000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: UNIONBANK OF INDIA
+IFSC Code 2: UBIN0540579
+MICR 2: 000026000
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: B.COM, M.A, C.S
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Coaching
+Frequency: 3
+$currency_symbol: ₹
+Place_of_Birth: Samalkna
+Last_Activity_Time: 2025-04-21T16:54:26+05:30
+Exchange_Rate: 1
+Account_No_21: 405702010009423
+$approved: True
+$editable: True
+Address_Line2: Near Bansal Photostate Samalkha Panipat
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Rita
+Address_Line: 111/3 Railway Road
+Mother_s_Name: Pisto Devi
+Recency: 3
+Last_Name: Rani
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005016004
+Created: 2023-05-05T15:48:37+05:30
+Modified: 2024-01-05T17:31:08+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-05T17:31:08+05:30

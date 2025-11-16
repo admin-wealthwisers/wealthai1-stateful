@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Sandeep jain
+Email: sandy@gov.in
+Secondary Email: None
+Phone: 919810705864
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 983109208916
+Date of Birth: 1972-07-20
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 520461015326504
+Account Name: None
+Bank Name: CORPORATION BANK
+IFSC Code: CORP0000371
+MICR: 110017007
+Account Type: []
+Bank Type: None
+Annual Income: 2000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: M. Tech (CS)
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Govt Service
+$currency_symbol: ₹
+Place_of_Birth: Jaipur
+Last_Activity_Time: 2024-12-05T14:10:23+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Rohani Sector-7 S.O North West Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Sandeep
+Address_Line: B-29, Overseas Apartments Rohini Sector-9
+Mother_s_Name: Munni Devi Jain
+Last_Name: jain
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005036001
+Created: 2023-05-08T13:00:24+05:30
+Modified: 2024-12-05T14:10:23+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-05T14:10:23+05:30

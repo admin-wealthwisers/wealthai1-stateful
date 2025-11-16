@@ -1,0 +1,115 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Sheetal Ghai
+Email: sheetalghai36@gmail.com
+Secondary Email: None
+Phone: +919015670101
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 542316710486
+Date of Birth: 1981-12-18
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 99980100514897
+Account Name: None
+Bank Name: FEDERAL BANK
+IFSC Code: FDRL0001917
+MICR: 000049000
+Account Type: []
+Bank Type: None
+Annual Income: 800000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: 9015670101@federal
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Post Graduate
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Teacher
+$currency_symbol: ₹
+Place_of_Birth: Bareilly
+Last_Activity_Time: 2024-09-13T10:36:20+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+First_Name: Sheetal
+Address_Line: SD-36 Shastri Nagar
+Mother_s_Name: Ritu Vij
+Last_Name: Ghai
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000004723024
+Created: 2023-03-31T15:28:36+05:30
+Modified: 2024-08-01T16:53:48+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-08-01T16:53:48+05:30

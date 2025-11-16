@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Nidhi Singh
+Email: nidhiatulsingh1@gmail.com
+Secondary Email: None
+Phone: +919810189620
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 564876537776
+Date of Birth: 1963-12-01
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 16031930004297
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0001603
+MICR: 110240196
+Account Type: []
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Vice Principal
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Retired
+Frequency: 4
+$currency_symbol: ₹
+Place_of_Birth: Bhopal
+Last_Activity_Time: 2025-11-07T16:49:53+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Sector-51, Noida, Noida Sector-37, Gautam Buddha Nagar
+$zia_owner_assignment: owner_recommendation_unavailable
+Segment_Label: Champion
+First_Name: Nidhi
+Age: 61
+Monetary: 5
+Address_Line: B-44, Block-B, Behind Petrol Pump
+Mother_s_Name: Savita Mehrotra
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000014098015
+Created: 2024-12-22T21:53:09+05:30
+Modified: 2024-12-24T11:30:20+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-24T11:30:20+05:30

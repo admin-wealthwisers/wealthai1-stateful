@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Anjan Roy
+Email: anjanr@gmail.com
+Secondary Email: None
+Phone: +919990620500
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 346310004806
+Date of Birth: 1975-09-10
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 881050017549
+Account Name: None
+Bank Name: HDFC BANK
+IFSC Code: HDFC0000088
+MICR: 110240014
+Account Type: []
+Bank Type: None
+Annual Income: 4000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: HDFC BANK
+IFSC Code 2: HDFC0000590
+MICR 2: 110240081
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Post Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: New Delhi
+Last_Activity_Time: 2024-10-24T10:00:48+05:30
+Exchange_Rate: 1
+Account_No_21: 50200049486660
+$approved: True
+$editable: True
+Address_Line2: Sector -137, Noida Gautam Buddha Nagar
+Reference_Name: Anjan Roy
+First_Name: Anjan
+Address_Line: O-901, Ajnara Daffodil, Felix Hospital,
+Mother_s_Name: Aloka Roy
+Last_Name: Roy
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002587013
+Created: 2022-06-27T22:03:02+05:30
+Modified: 2023-10-26T16:04:17+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-10-26T16:04:17+05:30

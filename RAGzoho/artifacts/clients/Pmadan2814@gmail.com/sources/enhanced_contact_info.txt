@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Pradeep Madan HUF
+Email: Pmadan2814@gmail.com
+Secondary Email: Pmadan2814@gmail.com
+Phone: None
+Mobile: +919837009376
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 543491371102
+Date of Birth: 1987-12-04
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 784010100011739
+Account Name: None
+Bank Name: Bank of India
+IFSC Code: BKID0007840
+MICR: 243013002
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: HUF
+Occupation: Business
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: BAREILLY
+Last_Activity_Time: 2025-11-14T14:00:39+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Pradeep Uncle Bareilly
+First_Name: Pradeep
+Monetary: 5
+Address_Line: 186-G , CIVIL LINES UTTAR PRADESH
+Recency: 5
+Last_Name: Madan HUF
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000004971002
+Created: 2023-05-01T15:40:44+05:30
+Modified: 2024-01-04T13:45:01+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-04T13:45:01+05:30

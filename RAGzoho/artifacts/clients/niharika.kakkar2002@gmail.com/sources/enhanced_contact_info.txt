@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Niharika Kakkar
+Email: niharika.kakkar2002@gmail.com
+Secondary Email: None
+Phone: +919205505989
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 457689392912
+Date of Birth: 2002-11-05
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 19040100018589
+Account Name: None
+Bank Name: BANK OF BARODA
+IFSC Code: BARB0MAUDEL
+MICR: 110012032
+Account Type: []
+Bank Type: None
+Annual Income: 100000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Pranav
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Student
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Student
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-08-12T17:14:00+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Block- F, Deep Vihar, Pansali,North West Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Pranav Kakkar
+First_Name: Niharika
+Age: 22
+Address_Line: F-79B, Right Portion, 2nd Floor
+Mother_s_Name: Nishtha Kakkar
+Last_Name: Kakkar
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005128108
+Created: 2023-05-18T15:37:21+05:30
+Modified: 2024-12-06T15:26:33+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-06T15:26:33+05:30

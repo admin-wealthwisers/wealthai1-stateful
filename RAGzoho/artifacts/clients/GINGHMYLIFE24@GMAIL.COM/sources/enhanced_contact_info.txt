@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Rashmi Singh
+Email: GINGHMYLIFE24@GMAIL.COM
+Secondary Email: None
+Phone: +919810274710
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 320306664864
+Date of Birth: 1962-11-01
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 916010012521884
+Account Name: None
+Bank Name: AXIS BANK
+IFSC Code: UTIB0000846
+MICR: 110211070
+Account Type: []
+Bank Type: None
+Annual Income: 1500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Non Marketing
+Lead Source Name: Anurag Gupta ( Money Studio)
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Email_Opt_Out: True
+Tax_Status: Resident Individual
+Occupation: SERVICE
+$currency_symbol: ₹
+Place_of_Birth: Jamshedpur
+Last_Activity_Time: 2025-02-05T14:12:01+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Dlf Club 5, Dlf Phase-5, Gurgao sector-56
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Anurag Gupta
+First_Name: Rashmi
+Age: 62
+Address_Line: C-152, Trinity Towers, Club Drive, Opp
+Unsubscribed_Time: 2023-08-01T13:15:17+05:30
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005010030
+Created: 2023-05-05T12:03:56+05:30
+Modified: 2025-02-05T14:12:01+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-05T14:12:01+05:30

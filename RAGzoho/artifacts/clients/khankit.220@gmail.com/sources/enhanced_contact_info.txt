@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Ankit Khandelwal
+Email: khankit.220@gmail.com
+Secondary Email: None
+Phone: +9186986 59022
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 481232366377
+Date of Birth: 1987-08-20
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 55801546640
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0000558
+MICR: 570229005
+Account Type: []
+Bank Type: None
+Annual Income: 1400000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: T604, Topaz Park, Park street, Wakad, Pune, Maharashtra 411057 Ph - +91 86986 59022
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Mathura
+Last_Activity_Time: 2025-04-26T13:37:43+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Mathura, U.P
+Reference_Name: Mathura
+Segment_Label: Promising
+First_Name: Ankit
+Age: 37
+Monetary: 1
+Address_Line: 25/A, Govind Nagar
+Mother_s_Name: Amla Khandelwal
+Recency: 3
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002590017
+Created: 2022-06-27T22:03:03+05:30
+Modified: 2024-12-12T14:24:22+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-12T14:24:22+05:30

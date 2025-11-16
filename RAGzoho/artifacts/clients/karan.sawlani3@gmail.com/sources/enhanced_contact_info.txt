@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Karan Sawlani
+Email: karan.sawlani3@gmail.com
+Secondary Email: None
+Phone: +917065151049
+Mobile: +971-568772759
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 878600420114
+Date of Birth: 1997-01-27
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: None
+Account Name: None
+Bank Name: None
+IFSC Code: None
+MICR: None
+Account Type: []
+Bank Type: None
+Annual Income: 3600000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client's Referral
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: karan.sawlani3@okicici
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: NRI - NRE
+Occupation: Private Sector
+$currency_symbol: ₹
+Place_of_Birth: Kanpur
+Last_Activity_Time: 2025-06-26T10:28:48+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Barra , Kanpur Nagar
+Reference_Name: Ishwar Haswani
+First_Name: Karan
+Age: 28
+Address_Line: 935 - G, Hemant Vihar, Barra-2
+Mother_s_Name: Anju Sawlani
+Last_Name: Sawlani
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000021098022
+Created: 2025-06-25T10:10:28+05:30
+Modified: 2025-06-25T10:28:20+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-06-25T10:28:20+05:30

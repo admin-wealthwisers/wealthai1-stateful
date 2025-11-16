@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Shilpa Vohra
+Email: advoshilpa@gmail.com
+Secondary Email: None
+Phone: +919871438444
+Mobile: 9871438444
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 839128958023
+Date of Birth: 1979-10-14
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 430053000008966
+Account Name: {'name': 'Demat MOSL', 'id': '209771000000589003'}
+Bank Name: SOUTH INDIAN BANK
+IFSC Code: SIBL0000430
+MICR: None
+Account Type: []
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Non Marketing
+Lead Source Name: Anurag Gupta ( Money Studio)
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: 9871438444@paytm
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mrs.
+Email_Opt_Out: True
+Partner: Anurag Gupta
+Tax_Status: Resident Individual
+Occupation: PROFESSIONAL
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-02-05T13:56:58+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Reference_Name: Anurag Gupta
+First_Name: Shilpa
+Age: 45
+Address_Line: B-2/302 Satyam Apartments
+Unsubscribed_Time: 2023-08-01T13:15:17+05:30
+Mother_s_Name: Mrs. Manju Narula
+Last_Name: Vohra
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000001230007
+Created: 2021-12-07T10:24:14+05:30
+Modified: 2025-02-05T13:56:58+05:30
+Owner: Sarika  Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-05T13:56:58+05:30

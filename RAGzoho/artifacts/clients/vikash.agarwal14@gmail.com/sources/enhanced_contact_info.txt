@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Vikash Agarwal
+Email: vikash.agarwal14@gmail.com
+Secondary Email: None
+Phone: +919765497269
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 569085709330
+Date of Birth: 1982-08-14
+Anniversary Date: 2012-11-24
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 79594300000139
+Account Name: None
+Bank Name: Yes Bank
+IFSC Code: YESB0000795
+MICR: 700532013
+Account Type: []
+Bank Type: None
+Annual Income: 20000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Clients
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: CA
+Salutation: Mr.
+Tax_Status: NRI-NRE
+Occupation: Business
+Frequency: 3
+$currency_symbol: ₹
+Place_of_Birth: Kolkata
+Last_Activity_Time: 2025-06-14T12:45:55+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Near VIP Bazar, Kolkata, Tiljala, South 24 Parganas
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Vikash
+Age: 42
+Monetary: 5
+Address_Line: Meghmani 12 Floor, Flat-12A, 1806 Laskarhat
+Mother_s_Name: Lakhidevi Agarwal
+Recency: 3
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000013195001
+Created: 2024-11-11T13:25:00+05:30
+Modified: 2024-11-25T11:24:36+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-11-25T11:24:36+05:30

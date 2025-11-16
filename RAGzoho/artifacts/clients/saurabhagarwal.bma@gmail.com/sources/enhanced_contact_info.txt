@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Saurabh Kumar Aggarwal
+Email: saurabhagarwal.bma@gmail.com
+Secondary Email: None
+Phone: None
+Mobile: +9198370 18118
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 681669646173
+Date of Birth: 1983-10-23
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 1711804468
+Account Name: None
+Bank Name: KOTAK MAHINDRA BANK
+IFSC Code: KKBK0005294
+MICR: 243485003
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: BANK OF BARODA
+IFSC Code 2: BARB0BLYBAZ
+MICR 2: 243012004
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 3
+$currency_symbol: ₹
+Last_Activity_Time: 2025-10-25T12:42:05+05:30
+Exchange_Rate: 1
+Account_No_21: 26750100002862
+$approved: True
+$editable: True
+Address_Line2: Behind ICICI Bank
+Reference_Name: Saorabh - Bareilly
+First_Name: Saurabh Kumar
+Age: 41
+Monetary: 3
+Address_Line: 116 Civil Lines
+Mother_s_Name: Sujata Agarwal
+Recency: 5
+Last_Name: Aggarwal
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002599006
+Created: 2022-06-27T22:03:02+05:30
+Modified: 2025-07-24T14:33:17+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-07-24T14:33:17+05:30

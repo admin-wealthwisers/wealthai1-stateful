@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Nisha Khandelwal
+Email: NISHAKHANDELWAL62@GMAIL.COM
+Secondary Email: None
+Phone: +919830954611
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 763731847572
+Date of Birth: 1962-05-06
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 402610100016130
+Account Name: None
+Bank Name: BANK OF INDIA
+IFSC Code: BKID0004026
+MICR: 700013027
+Account Type: []
+Bank Type: None
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: HDFC BANK
+IFSC Code 2: HDFC0005020
+MICR 2: 700240133
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: nishakhandelwal62okhdfcbank
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Housewife
+$currency_symbol: ₹
+Last_Activity_Time: 2025-04-29T22:54:58+05:30
+Exchange_Rate: 1
+Account_No_21: 50100319873422
+$approved: True
+$editable: True
+Address_Line2: Behala, S.O, Kolkata
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Kolkata
+First_Name: Nisha
+Age: 62
+Address_Line: 27, Kripakunj Mitra Colony
+Mother_s_Name: Shakuntla Devi Khandelwal
+Last_Name: Khandelwal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005128128
+Created: 2023-05-18T15:56:56+05:30
+Modified: 2025-04-29T22:54:58+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-04-29T22:54:58+05:30

@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Vikas Kalia
+Email: vikas.kalia428@gmail.com
+Secondary Email: None
+Phone: +919650172444
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 716791709148
+Date of Birth: 1980-01-27
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 2807101005244
+Account Name: None
+Bank Name: Canara Bank
+IFSC Code: CNRB0002807
+MICR: 110015155
+Account Type: []
+Bank Type: Default
+Annual Income: 2500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Non Marketing
+Lead Source Name: Ashish Katpalia
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Karnal
+Last_Activity_Time: 2025-08-20T12:23:02+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Near Bironda Village, Noida, Gautam Buddha Nagar
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ashish Katpalia
+First_Name: Vikas
+Contact_Type: Individual
+Age: 45
+Address_Line: Flat No-503, Tower-15, Unitech Horizon, Sec- Pi-2, Alistonia Estate
+Mother_s_Name: Kamlesh Kumari
+Last_Name: Kalia
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000018190004
+Created: 2025-03-20T09:57:40+05:30
+Modified: 2025-08-20T12:23:02+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-08-20T12:23:02+05:30

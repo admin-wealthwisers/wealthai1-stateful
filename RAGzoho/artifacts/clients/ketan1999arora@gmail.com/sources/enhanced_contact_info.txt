@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Ketan Arora
+Email: ketan1999arora@gmail.com
+Secondary Email: None
+Phone: +919717827900
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 389772820713
+Date of Birth: 1999-01-01
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 84201507769
+Account Name: None
+Bank Name: ICICI BANK
+IFSC Code: ICIC0000642
+MICR: 110229101
+Account Type: []
+Bank Type: None
+Annual Income: 0
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: HDFC Bank
+IFSC Code 2: HDFC0004782
+MICR 2: 110240428
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Pranav
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Student
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-08-13T12:43:38+05:30
+Exchange_Rate: 1
+Account_No_21: 50100531852218
+$approved: True
+$editable: True
+Address_Line2: Sectore -16, Rihini North Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Pranav
+First_Name: Ketan
+Age: 26
+Address_Line: I-3/28 Ground Floor
+Mother_s_Name: Seema Arora
+Last_Name: Arora
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005292043
+Created: 2023-06-15T13:10:58+05:30
+Modified: 2025-08-13T12:43:38+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-08-13T12:43:38+05:30

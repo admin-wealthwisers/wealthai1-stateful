@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Vasvi Khanna
+Email: vasvikhanna@hotmail.com
+Secondary Email: None
+Phone: +919211752511
+Mobile: +4915145729765
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 514574848867
+Date of Birth: 1995-04-04
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 918010095535688
+Account Name: None
+Bank Name: Axis Bank Ltd
+IFSC Code: UTIB0001082
+MICR: 110211079
+Account Type: []
+Bank Type: Default
+Annual Income: 2500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: Axis Bank Ltd
+IFSC Code 2: UTIB0001082
+MICR 2: 110211079
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Address_Line_1: Konrad wold Strasse 145
+Address_Line_2: Berlin, Germany
+Qualification: BBA, ACCA
+Country: Germany
+Salutation: Ms.
+Tax_Status: NRI - NRE
+Occupation: Professional
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Ghaziabad (U.P)
+Last_Activity_Time: 2025-10-13T11:29:24+05:30
+Exchange_Rate: 1
+ZIP_Postal_Code: 13055
+$approved: True
+$editable: True
+City: Berlin
+Address_Line2: Kavi Nagar Ghaziabad
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Deepak Khanna - Daughter
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000020587007
+Created: 2025-06-02T12:10:01+05:30
+Modified: 2025-08-04T11:13:22+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-08-04T11:13:22+05:30

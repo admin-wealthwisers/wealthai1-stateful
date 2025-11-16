@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Sangita Nath
+Email: sangitanath6@gmail.com
+Secondary Email: None
+Phone: +919874169111
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 532994818496
+Date of Birth: 1985-03-22
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 3945983131
+Account Name: None
+Bank Name: Kotak Mahindra Bank
+IFSC Code: KKBK0005029
+MICR: 110485070
+Account Type: []
+Bank Type: None
+Annual Income: 780000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Marketing
+Lead Source Name: Apoorv Srivastava
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: 9874169111@Paytm
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MBA
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Private Sector
+$currency_symbol: ₹
+Place_of_Birth: Dimapur, Nagaland
+Last_Activity_Time: 2025-06-10T09:53:56+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Tiljala, 24 Parganas, West Bengal
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Apoorv Srivastava
+First_Name: Sangita
+Age: 39
+Address_Line: 148/3N, Swinhoe Lane
+Mother_s_Name: Jessy Nath
+Last_Name: Nath
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000008075008
+Created: 2024-01-23T15:20:02+05:30
+Modified: 2025-02-06T12:25:11+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-06T12:25:11+05:30

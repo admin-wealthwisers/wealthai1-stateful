@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Madhu Agarwal
+Email: madhumanish2014@gmail.com
+Secondary Email: None
+Phone: +919883882578
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 324355539472
+Date of Birth: 1985-03-08
+Anniversary Date: 2005-07-13
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 52230005218535
+Account Name: None
+Bank Name: Bandhan Bank
+IFSC Code: BDBL0001569
+MICR: 700750048
+Account Type: []
+Bank Type: None
+Annual Income: 800000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: 12 pass
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Kolkata
+Last_Activity_Time: 2025-06-14T12:45:55+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: South 24 Parganas, West Bengal
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Mukesh Gupta
+First_Name: Madhu
+Age: 39
+Monetary: 1
+Address_Line: 39, Vivekananda Park, Haridevpur
+Mother_s_Name: Sarla Devi Gupta
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000012396001
+Created: 2024-09-27T18:26:36+05:30
+Modified: 2024-12-16T17:35:23+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-16T17:35:23+05:30

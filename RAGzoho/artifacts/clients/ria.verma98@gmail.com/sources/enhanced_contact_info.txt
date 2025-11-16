@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Ria Verma
+Email: ria.verma98@gmail.com
+Secondary Email: None
+Phone: +919953309339
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 499776059820
+Date of Birth: 1998-09-11
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 5472500100484001
+Account Name: None
+Bank Name: KARNATAKA BANK LTD
+IFSC Code: KARB0000547
+MICR: 110052010
+Account Type: []
+Bank Type: Default
+Annual Income: 1800000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Pranav
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: riaverma@kbl
+Best Time to Call: 2025-05-12T10:00:00+05:30
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Post Graduate
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Private Sector
+$currency_symbol: ₹
+Place_of_Birth: New Delhi
+Last_Activity_Time: 2025-06-03T11:57:13+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: South Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Pranav Kakkar
+First_Name: Ria
+Contact_Type: Individual
+Age: 26
+Address_Line: A-165, Lajpat Nagar Part-1
+Mother_s_Name: Anu Verma
+Last_Name: Verma
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000019707001
+Created: 2025-05-06T11:03:23+05:30
+Modified: 2025-05-29T16:24:29+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-05-29T16:24:29+05:30

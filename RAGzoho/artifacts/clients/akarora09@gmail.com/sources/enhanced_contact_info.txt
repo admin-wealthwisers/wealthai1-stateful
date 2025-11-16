@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Ashok Kumar Arora
+Email: akarora09@gmail.com
+Secondary Email: None
+Phone: 66843629953
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 510917677553
+Date of Birth: 1960-02-27
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 701078778
+Account Name: None
+Bank Name: ICICI BANK(NRE)
+IFSC Code: ICIC0000007
+MICR: 110229002
+Account Type: []
+Bank Type: None
+Annual Income: 10000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: ICICI BANK(NRO)
+IFSC Code 2: ICIC0000288
+MICR 2: 110229038
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: NRE & NRO
+Occupation: Service
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Hissar
+Last_Activity_Time: 2025-11-07T16:49:53+05:30
+Exchange_Rate: 1
+Account_No_21: 28801075106
+$approved: True
+$editable: True
+Address_Line2: Shakur Basti Depot, North West Delhi
+First_Name: Ashok
+Monetary: 4
+Address_Line: D-60, New Multa Nagar
+Mother_s_Name: Sita Dewi
+Recency: 5
+Last_Name: Kumar Arora
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000003152004
+Created: 2022-09-03T13:50:12+05:30
+Modified: 2024-02-27T12:22:54+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-02-27T12:22:54+05:30

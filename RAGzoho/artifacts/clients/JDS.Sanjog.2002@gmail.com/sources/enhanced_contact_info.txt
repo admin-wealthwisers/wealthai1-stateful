@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Jaideep Sharma
+Email: JDS.Sanjog.2002@gmail.com
+Secondary Email: None
+Phone: +919950053901
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 795838049750
+Date of Birth: 1972-03-12
+Anniversary Date: 2000-02-09
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 26220100005001
+Account Name: None
+Bank Name: Bank Of Baroda
+IFSC Code: BARB0JODPAL
+MICR: 342012012
+Account Type: []
+Bank Type: Default
+Annual Income: 2500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Employee Referral
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: 9950053901@Ptsbi
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Who_can_call: Team Members
+Qualification: MSC
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Bikaner
+Last_Activity_Time: 2025-09-22T11:37:41+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Nandanvan Jodhpur Rajasthan
+Reference_Name: Intern Dheemant Father
+First_Name: Jaideep
+Contact_Type: Individual
+Age: 53
+Monetary: 2
+Address_Line: 21/53 Chopasani Housing Board
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000019615058
+Created: 2025-05-04T11:18:51+05:30
+Modified: 2025-05-30T15:53:37+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-05-30T15:53:37+05:30

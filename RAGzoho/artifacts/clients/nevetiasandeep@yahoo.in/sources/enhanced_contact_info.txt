@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Sandeep Nevetia
+Email: nevetiasandeep@yahoo.in
+Secondary Email: None
+Phone: +919007098285
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 804405804921
+Date of Birth: 1994-08-03
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100208218515
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000693
+MICR: 700240034
+Account Type: []
+Bank Type: None
+Annual Income: 2250000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Beshak
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Private Sector Service
+Frequency: 3
+$currency_symbol: ₹
+Last_Activity_Time: 2025-09-17T09:35:03+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Near M.R. Hospital, Aminjikarai, Chennai
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Sandeep
+Age: 30
+Monetary: 3
+Address_Line: 66B, Collectorate Colony, G-Floor, 3rd Cross Street
+Mother_s_Name: Saroj Nevetia
+Recency: 5
+Last_Name: Nevetia
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000011716015
+Created: 2024-08-20T14:39:23+05:30
+Modified: 2024-12-06T15:02:47+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-06T15:02:47+05:30

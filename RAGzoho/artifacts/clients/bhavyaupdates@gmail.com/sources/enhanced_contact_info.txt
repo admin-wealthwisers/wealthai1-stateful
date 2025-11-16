@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Bhavya Bansal HUF
+Email: bhavyaupdates@gmail.com
+Secondary Email: None
+Phone: +919654640119
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 442970087983
+Date of Birth: 2023-06-21
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100654675506
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000563
+MICR: 110240082
+Account Type: []
+Bank Type: None
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Non Marketing
+Lead Source Name: Bhavya Bansal
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Who_can_call: Team Members
+Qualification: Na
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Ghaziabad
+Last_Activity_Time: 2025-09-17T09:59:51+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Agarsen Chowk Sector-18, Vasundhara, Ghaziabad
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Bhavya Bansal
+First_Name: Bhavya
+Contact_Type: Individual
+Age: 1
+Address_Line: 1201 Tower - A Gardenia Gitanjali Apartments
+Mother_s_Name: Romila Bansal
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000015413029
+Created: 2025-01-24T14:07:41+05:30
+Modified: 2025-04-24T11:22:19+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-04-24T11:22:19+05:30

@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Aakash Gupta
+Email: aakash.gupta.87@gmail.com
+Secondary Email: None
+Phone: +919999772609
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 552578945231
+Date of Birth: 1987-11-12
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100051513519
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0001592
+MICR: 110240181
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: Axis Bank
+IFSC Code 2: UTIB0000791
+MICR 2: 110211066
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: 28-801 Emaar Palm Hills, Sector 77 Gurgaon – 122004 Ph - 99997 72609
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MBA
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-03-18T13:42:06+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Shahdara, North East Delhi
+Reference_Name: Friend
+First_Name: Aakash
+Age: 37
+Monetary: 1
+Address_Line: 1/20 Shalimar Park Bhola nath Nagar
+Mother_s_Name: Neeru Gupta
+Recency: 1
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000001393051
+Created: 2021-12-28T11:41:01+05:30
+Modified: 2025-02-05T21:52:57+05:30
+Owner: Sarika  Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-05T21:52:57+05:30

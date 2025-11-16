@@ -1,0 +1,114 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Garima Gupta
+Email: GARIMAGUPTA89@GMAIL.COM
+Secondary Email: None
+Phone: 9818998802
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 1234
+Date of Birth: 1989-07-09
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: D O PAWAN KUMAR GUPTA A 2 42 SECTOR 16 ROHINI ROHINI SECTOR 15 110089 ROHINI SECTOR 15 NARELA
+City: DELHI
+State: DELHI
+Country: India
+ZIP Code: 110089
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 578302010009392
+Account Name: {'name': 'Demat MOSL', 'id': '209771000000589003'}
+Bank Name: UNION BANK OF INDIA
+IFSC Code: UBIN0557838
+MICR: 110026091
+Account Type: ['Demat - MOSL']
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mrs.
+Other_Street: WEST DELHI
+Tax_Status: Resident Individual
+Occupation: Housewife
+$currency_symbol: ₹
+Last_Activity_Time: 2024-09-13T10:38:03+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Rohini Sector 15, North west Delhi
+First_Name: Garima
+Address_Line: A 2 42 Sector-16 Rohini
+Last_Name: Gupta
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002497005
+Created: 2022-06-16T10:05:03+05:30
+Modified: 2023-12-20T17:05:16+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-20T17:05:16+05:30

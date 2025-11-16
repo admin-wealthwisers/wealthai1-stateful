@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Sandhya Uxa
+Email: INDU.UXA@GMAIL.COM
+Secondary Email: None
+Phone: 917355152379
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 457040947457
+Date of Birth: 1944-02-04
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 4734000100002759
+Account Name: None
+Bank Name: Punjab National Bank
+IFSC Code: PUNB0473400
+MICR: 000024000
+Account Type: []
+Bank Type: None
+Annual Income: 100000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Housewife
+$currency_symbol: ₹
+Place_of_Birth: Jhansi
+Last_Activity_Time: 2025-08-29T14:51:05+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: C.P Mission Compound Jhansi, Sipri Bazar
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Aseem Uxa
+First_Name: Sandhya
+Address_Line: 1006, Opposite Sant Nirankari Bhavan
+Mother_s_Name: Prabha Verma
+Last_Name: Uxa
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000006834004
+Created: 2023-10-25T12:54:07+05:30
+Modified: 2025-08-29T14:50:30+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-08-29T14:50:30+05:30

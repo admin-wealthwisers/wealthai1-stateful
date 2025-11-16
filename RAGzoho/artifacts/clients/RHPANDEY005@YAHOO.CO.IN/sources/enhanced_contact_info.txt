@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Rajesh Kumar Pandey
+Email: RHPANDEY005@YAHOO.CO.IN
+Secondary Email: None
+Phone: +919818704337
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 250842152069
+Date of Birth: 1983-08-26
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 628401541508
+Account Name: None
+Bank Name: ICICI BANK
+IFSC Code: ICIC0006284
+MICR: 110229026
+Account Type: []
+Bank Type: None
+Annual Income: 700000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: salaired
+$currency_symbol: ₹
+Place_of_Birth: Lucknow
+Last_Activity_Time: 2024-01-05T16:58:03+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Baraula sector 49 Noida
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Rajesh
+Address_Line: 26b Kohli Vihar
+Mother_s_Name: Nirmala Pandey
+Last_Name: Kumar Pandey
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000004998010
+Created: 2023-05-04T17:16:54+05:30
+Modified: 2024-01-05T16:58:03+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-05T16:58:03+05:30

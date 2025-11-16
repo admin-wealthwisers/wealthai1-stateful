@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Vatsal Agarwal
+Email: vatsalagrawal0007@gmail.com
+Secondary Email: None
+Phone: +919891273302
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 255918860489
+Date of Birth: 2001-02-07
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 70030100007111
+Account Name: None
+Bank Name: Bank Of Baroda
+IFSC Code: BARB0VJNOID
+MICR: 110012307
+Account Type: []
+Bank Type: Default
+Annual Income: 400000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Private Sector
+Frequency: 4
+$currency_symbol: ₹
+Place_of_Birth: Noida
+Last_Activity_Time: 2025-11-14T11:32:48+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: PO:Noida, Gautam Buddha Nagar
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Naveen Kr Agarwal BNI Member
+First_Name: Vatsal
+Contact_Type: Individual
+Age: 24
+Monetary: 2
+Address_Line: B - 14/ 122, Himgiri Appartment, Sector - 34, Noida
+Mother_s_Name: Parul Agrawal
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000017323001
+Created: 2025-02-28T10:59:09+05:30
+Modified: 2025-11-10T14:07:50+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-11-10T14:07:50+05:30

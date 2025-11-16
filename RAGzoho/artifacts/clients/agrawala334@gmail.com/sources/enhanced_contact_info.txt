@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Anjali Bansal
+Email: agrawala334@gmail.com
+Secondary Email: None
+Phone: +919924816009
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 335713737625
+Date of Birth: 1995-05-23
+Anniversary Date: 2021-07-03
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 40664542167
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0005222
+MICR: 110002422
+Account Type: []
+Bank Type: None
+Annual Income: 2000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: Kotak Mahindra Bank
+IFSC Code 2: KKBK0005029
+MICR 2: 110485070
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Bachelor’s
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Private Sector
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Vadodara
+Last_Activity_Time: 2025-09-03T10:44:19+05:30
+Exchange_Rate: 1
+Account_No_21: 1046678628
+$approved: True
+$editable: True
+Address_Line2: Noida, Gautam buddha Nagar
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Anshul Agarwal -Tushar Bansal -Wife
+Segment_Label: Customer needs attention
+First_Name: Anjali
+Age: 30
+Monetary: 3
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000008201003
+Created: 2024-01-31T12:32:06+05:30
+Modified: 2025-09-03T10:44:19+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-03T10:44:19+05:30

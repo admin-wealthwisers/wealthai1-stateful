@@ -1,0 +1,114 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. BHEEM SEN YADAV
+Email: ybheemsen1@gmail.com
+Secondary Email: None
+Phone: 9716016072
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 681344260355
+Date of Birth: 1987-01-01
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 55150011331
+Account Name: None
+Bank Name: STATE BANK OF INDIA
+IFSC Code: SBIN0050324
+MICR: 110002748
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+$currency_symbol: ₹
+Place_of_Birth: Gorakhpur
+Last_Activity_Time: 2024-09-13T10:36:20+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Reference_Name: Umesh Kumar Yadav
+First_Name: BHEEM SEN
+Address_Line: SIHAJIPAR, BANSGAON
+Mother_s_Name: YASHODI DEVI
+Last_Name: YADAV
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000004462003
+Created: 2023-02-25T15:40:47+05:30
+Modified: 2024-01-15T17:36:15+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-15T17:36:15+05:30

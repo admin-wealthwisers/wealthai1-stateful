@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Sandeep Gupta
+Email: sandeep82.bik@gmail.com
+Secondary Email: None
+Phone: 99875 47692
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 652861602425
+Date of Birth: 1982-07-01
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: 308, Eventi, Opp Bavarchi Restaurant,
+City: Ahemdabad
+State: Gujarat
+Country: India
+ZIP Code: 380006
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 401166377
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0000004
+MICR: 400229002
+Account Type: []
+Bank Type: None
+Annual Income: 2000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: Flat 1314, 13th Floor, Tower B, Taruchaya Residency, West-Way Heights, G-20, Near Heerapura Flyover, Narayan Vihar, Ajmer Road, Jaipur-302026 Ph-9987547692
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: 9987547692@icici
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Other_Country: India
+Currency: INR
+Qualification: C.A
+Other_Street: 308, Eventi, Opp Bavarchi Restaurant,
+Tax_Status: Resident Individual
+Occupation: Service
+Frequency: 5
+$currency_symbol: ₹
+Place_of_Birth: Bikaner
+Last_Activity_Time: 2025-11-08T13:36:50+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Near Vaibhav Departmental Store, Nirman Nagar, Jaipur
+Reference_Name: Gupta ji - Jaipur
+First_Name: Sandeep
+Age: 42
+Monetary: 3
+Address_Line: Flat No. 101 472 AB, Ajmer Road
+Mother_s_Name: Shardha Devi Gupta
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002582051
+Created: 2022-06-27T22:03:06+05:30
+Modified: 2024-12-12T11:24:08+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-12T11:24:08+05:30

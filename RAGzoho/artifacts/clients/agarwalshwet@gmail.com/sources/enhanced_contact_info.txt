@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Shweta Agarwal
+Email: agarwalshwet@gmail.com
+Secondary Email: None
+Phone: +918179868578
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 501435128304
+Date of Birth: 1984-07-10
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 16501525965
+Account Name: None
+Bank Name: ICICI BANK
+IFSC Code: ICIC0000165
+MICR: 380229006
+Account Type: []
+Bank Type: None
+Annual Income: 2500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Professional
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Professional
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Moradabad
+Last_Activity_Time: 2025-09-10T17:56:58+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Pjr Enclave, Gangaram Chandanagar, Serilingampally, K.V Rangareddy
+Reference_Name: Gopal Jaiswal Ji Wife
+First_Name: Shweta
+Contact_Type: Individual
+Age: 41
+Monetary: 1
+Address_Line: 145, Block-a, Luxor Park Apartments
+Mother_s_Name: Rajni Agarwal
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000001723131
+Created: 2022-02-09T13:28:31+05:30
+Modified: 2025-09-04T13:49:35+05:30
+Owner: Prabha
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-04T13:49:35+05:30

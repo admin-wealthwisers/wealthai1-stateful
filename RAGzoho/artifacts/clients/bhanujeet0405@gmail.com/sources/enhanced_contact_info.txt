@@ -1,0 +1,115 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Shivkanti Verma
+Email: bhanujeet0405@gmail.com
+Secondary Email: None
+Phone: +9190441 62096
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 313372091172
+Date of Birth: 1969-06-08
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: None
+Account Name: None
+Bank Name: None
+IFSC Code: None
+MICR: None
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Marketing
+Lead Source Name: Apoorv Srivastava
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mrs.
+Tax_Status: Resident Individual
+$currency_symbol: ₹
+Last_Activity_Time: 2025-02-06T12:25:32+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Jankipuram, Lucknow
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Apoorv Srivastava
+First_Name: Shivkanti
+Age: 55
+Address_Line: MINI L.I. 1/93, Sector - H
+Last_Name: Verma
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000009084001
+Created: 2024-03-20T12:17:55+05:30
+Modified: 2025-02-06T12:25:32+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-06T12:25:32+05:30

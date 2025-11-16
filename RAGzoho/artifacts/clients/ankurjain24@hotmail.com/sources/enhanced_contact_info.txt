@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Ankur Jain
+Email: ankurjain24@hotmail.com
+Secondary Email: None
+Phone: +919811164250
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 289707238822
+Date of Birth: 1978-12-14
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: None
+Account Name: {'name': 'MF', 'id': '209771000000684031'}
+Bank Name: YES BANK
+IFSC Code: YESB0000231
+MICR: 110532048
+Account Type: ['Mutual Fund']
+Bank Type: None
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: https://www.google.com/maps?q=28.644006729126,77.1386947631836
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-09-04T10:18:08+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: AZADPUR, NORTH WEST DELHI
+Reference_Name: Yogesh Jain
+First_Name: Ankur
+Age: 46
+Address_Line: B-202, M2K VICTORIA GARDEN GT ROAD,
+Mother_s_Name: Smt Beena Jain
+Last_Name: Jain
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002518055
+Created: 2022-06-18T16:11:39+05:30
+Modified: 2025-05-21T23:32:44+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-05-21T23:32:44+05:30

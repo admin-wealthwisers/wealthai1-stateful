@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Ruby Dixit
+Email: satish.enterprises26@gmail.com
+Secondary Email: None
+Phone: +919911614159
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 659966357834
+Date of Birth: 1987-02-07
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 59701000054329
+Account Name: None
+Bank Name: Indian Overseas Bank
+IFSC Code: IOBA0000597
+MICR: 110020029
+Account Type: []
+Bank Type: Default
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: https://www.google.com/maps/place/28%C2%B035'13.0%22N+77%C2%B019'35.8%22E/@28.5869293,77.3240319,17z/data=!3m1!4b1!4m4!3m3!8m2!3d28.5869293!4d77.3266068?hl=en&entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Affiliate
+Lead Source Name: Prashant Solanki
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: E-67 Sector-9, Noida
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: 12th
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Self Employed
+$currency_symbol: ₹
+Place_of_Birth: Noida
+Last_Activity_Time: 2025-09-11T11:38:55+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Noida Gautam Buddha Nagar
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Charul Ji - Wife
+First_Name: Ruby
+Contact_Type: Individual
+Age: 38
+Address_Line: A-140 Sector 47
+Mother_s_Name: Anita Gupta
+Last_Name: Dixit
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000021275049
+Created: 2025-07-04T12:30:44+05:30
+Modified: 2025-07-04T15:03:00+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-07-04T15:03:00+05:30

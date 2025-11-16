@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Dr. Shilpi Bhadani Kumar
+Email: shilpibhadani@gmail.com
+Secondary Email: None
+Phone: 919315655741
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 760096325123
+Date of Birth: 1980-01-12
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100263885460
+Account Name: None
+Bank Name: HDFC BANK
+IFSC Code: HDFC0001202
+MICR: 110240163
+Account Type: []
+Bank Type: None
+Annual Income: 7000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: 2025-01-15
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Marketing
+Lead Source Name: Neeraj Bansal / Shriram Agarwal
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Dr.
+Tax_Status: Resident Individual
+Occupation: Doctor
+$currency_symbol: ₹
+Place_of_Birth: Giridih Jharkhand
+Last_Activity_Time: 2025-08-29T15:16:08+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Rosewood City, Sector 49
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Neeraj Bansal
+First_Name: Shilpi
+Age: 44
+Address_Line: C-80, Second Floor
+Mother_s_Name: Shobha Badani
+Last_Name: Bhadani Kumar
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005729001
+Created: 2023-08-03T10:04:17+05:30
+Modified: 2025-08-29T15:16:08+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-08-29T15:16:08+05:30

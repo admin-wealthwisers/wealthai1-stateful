@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Vineet kumar Sureka
+Email: vineetsureka9@gmail.com
+Secondary Email: None
+Phone: +917569721689
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 422200415854
+Date of Birth: 1987-10-22
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100394090522
+Account Name: None
+Bank Name: HDFC BANK
+IFSC Code: HDFC0001758
+MICR: 560240061
+Account Type: []
+Bank Type: None
+Annual Income: 2500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Ajay Sharma / Sarita Sharma
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: Flat No.208 Nava Vedantha East of Ngef Layout Vijinapura Opposite RTO Kasturi Nagar Doorvaninagar Bengaluru Karnataka – 560016 Ph – 7569721689
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Email_Opt_Out: True
+Occupation: Professional
+$currency_symbol: ₹
+Last_Activity_Time: 2025-02-06T11:28:49+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Opposite RTO Kasturi Nagar Doorvaninagar
+Reference_Name: Ajay Sharma
+First_Name: Vineet
+Age: 37
+Address_Line: Flat No.208 Nava Vedantha East of Ngef Layout Vijinapura
+Unsubscribed_Time: 2024-10-22T17:23:55+05:30
+Last_Name: kumar Sureka
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000000737019
+Created: 2021-09-29T09:53:37+05:30
+Modified: 2025-02-06T11:28:49+05:30
+Owner: Prabha
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-06T11:28:49+05:30

@@ -1,0 +1,113 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Sapna Verma Ji - M4S
+Email: NOIDASECTOR45@CENTER.FOOTPRINTS.IN
+Secondary Email: None
+Phone: +919899992333
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: None
+Date of Birth: None
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: None
+Account Name: {'name': 'TODDLER TOWN ENTERPRISES', 'id': '209771000023435071'}
+Bank Name: None
+IFSC Code: None
+MICR: None
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: Proprietorship
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client's Referral
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mrs.
+$currency_symbol: ₹
+Last_Activity_Time: 2025-09-22T09:42:25+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Sector 5 Vasundhra
+Reference_Name: Umesh Chand Ji - M4S - Pramod Kanoujia Ji
+First_Name: Sapna
+Contact_Type: Individual
+Address_Line: Plot No. 1365
+Last_Name: Verma Ji - M4S
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000023134200
+Created: 2025-09-01T12:03:43+05:30
+Modified: 2025-09-15T10:01:16+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-15T10:01:16+05:30

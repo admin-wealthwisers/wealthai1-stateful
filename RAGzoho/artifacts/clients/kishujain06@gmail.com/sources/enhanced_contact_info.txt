@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Kashish Jain
+Email: kishujain06@gmail.com
+Secondary Email: None
+Phone: 919716583526
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 442450858392
+Date of Birth: 1987-07-06
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 4001007183
+Account Name: None
+Bank Name: JAIN CO-OPERATIVE BANK LIMITED
+IFSC Code: HDFC0CJCBLD
+MICR: 110329004
+Account Type: []
+Bank Type: None
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: External Referral
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+Last_Review: 2025-08-20
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-08-20T14:25:21+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: East Delhi Nagar Krishna Nagar
+First_Name: Kashish
+Age: 38
+Address_Line: 46/2-D Gali No - 16 Krishna Nagar East Azad Nagar
+Mother_s_Name: Rekha Jain
+Last_Name: Jain
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000000365021
+Created: 2021-08-17T16:31:29+05:30
+Modified: 2025-08-20T14:25:21+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-08-20T14:25:21+05:30

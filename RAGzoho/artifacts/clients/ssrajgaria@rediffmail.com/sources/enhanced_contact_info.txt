@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Sanjay Kumar Rajgaria
+Email: ssrajgaria@rediffmail.com
+Secondary Email: None
+Phone: +918860134073
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 1361
+Date of Birth: 1971-07-12
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50622010001487
+Account Name: None
+Bank Name: Union Bank Of India
+IFSC Code: UBIN0905062
+MICR: 110026340
+Account Type: []
+Bank Type: Default
+Annual Income: 800000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: Punjab National Bank
+IFSC Code 2: PUNB0048810
+MICR 2: 110024548
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Marketing
+Lead Source Name: Neeraj Bansal / Shriram Agarwal
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: B Com
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Professional
+$currency_symbol: ₹
+Place_of_Birth: Bahal (Haryana)
+Last_Activity_Time: 2025-07-16T18:02:51+05:30
+Exchange_Rate: 1
+Account_No_21: 4882010062190
+$approved: True
+$editable: True
+Address_Line2: PO: Laxmi Nagar, Dist: East Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Shriram Agarwal - Neeraj Bansal
+First_Name: Sanjay Kumar
+Age: 54
+Address_Line: Flat no-103, FF-7B, Mangal Bazar, Laxmi Nagar
+Mother_s_Name: Sumitra Rajgaria
+Last_Name: Rajgaria
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000013719196
+Created: 2024-12-05T12:52:58+05:30
+Modified: 2025-07-16T18:02:51+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-07-16T18:02:51+05:30

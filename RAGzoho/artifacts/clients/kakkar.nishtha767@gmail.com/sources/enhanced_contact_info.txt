@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Nishtha Kakkar
+Email: kakkar.nishtha767@gmail.com
+Secondary Email: None
+Phone: +919999190404
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 393495532301
+Date of Birth: 1970-01-21
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 724053000001435
+Account Name: None
+Bank Name: South Indian Bank
+IFSC Code: SIBL0000724
+MICR: 110059031
+Account Type: []
+Bank Type: None
+Annual Income: 700000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Pranav
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: B.COM & B.ED
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-10-06T12:11:48+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Pitam Pura, North West Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Pranav Kakkar
+First_Name: Nishtha
+Age: 54
+Address_Line: CD-116- C, Vishakha Enclave
+Mother_s_Name: Surinder Seth
+Last_Name: Kakkar
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005128138
+Created: 2023-05-18T16:20:02+05:30
+Modified: 2024-12-06T15:35:48+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-06T15:35:48+05:30

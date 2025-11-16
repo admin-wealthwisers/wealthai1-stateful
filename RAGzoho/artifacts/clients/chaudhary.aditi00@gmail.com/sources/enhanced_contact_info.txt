@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Aditi Chaudhary
+Email: chaudhary.aditi00@gmail.com
+Secondary Email: None
+Phone: +918505885555
+Mobile: +915164507529
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 997729074578
+Date of Birth: 2000-09-25
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: None
+Account Name: None
+Bank Name: None
+IFSC Code: None
+MICR: None
+Account Type: []
+Bank Type: None
+Annual Income: 100000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Masters
+Salutation: Ms.
+Tax_Status: NRI-NRE
+Occupation: Private Sector
+$currency_symbol: ₹
+Place_of_Birth: Shamli (U.P)
+Last_Activity_Time: 2024-01-18T15:06:44+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Karnal Road Shamli
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Yogesh Jain
+First_Name: Aditi
+Address_Line: C.B. Gupta Colony Meerut
+Mother_s_Name: Neetu Chaudhary
+Last_Name: Chaudhary
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000007995001
+Created: 2024-01-18T13:13:29+05:30
+Modified: 2024-01-18T15:06:44+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-18T15:06:44+05:30

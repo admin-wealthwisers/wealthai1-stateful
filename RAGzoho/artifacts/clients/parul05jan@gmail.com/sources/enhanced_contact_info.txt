@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Prity Khandelwal
+Email: parul05jan@gmail.com
+Secondary Email: None
+Phone: +918210322053
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 356224396943
+Date of Birth: 1979-10-03
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 859000100129625
+Account Name: None
+Bank Name: Punjab National Bank
+IFSC Code: PUNB0085900
+MICR: 845024506
+Account Type: []
+Bank Type: Default
+Annual Income: 200000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Bardhaman,WB
+Last_Activity_Time: 2025-09-02T14:55:45+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: PATH SUGAULI SUGAULI EAST CHAMPARAN BIHAR
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Prity
+Contact_Type: Individual
+Age: 45
+Address_Line: WARD 08 SUGAULI BAZAR LATE KAILASH
+Mother_s_Name: Smt Lalita Devi
+Last_Name: Khandelwal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000023196290
+Created: 2025-09-02T14:53:19+05:30
+Modified: 2025-09-02T14:55:45+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-02T14:55:45+05:30

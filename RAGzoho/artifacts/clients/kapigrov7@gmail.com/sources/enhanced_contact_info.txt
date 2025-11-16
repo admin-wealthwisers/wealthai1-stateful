@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Deepti Grover
+Email: kapigrov7@gmail.com
+Secondary Email: None
+Phone: +919811985776
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 649976162738
+Date of Birth: 1982-04-22
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100409353786
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0004714
+MICR: 110240468
+Account Type: []
+Bank Type: None
+Annual Income: 900000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Ajay Sharma / Sarita Sharma
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: CA
+Salutation: Ms.
+Email_Opt_Out: True
+Tax_Status: Resident Individual
+$currency_symbol: ₹
+Last_Activity_Time: 2025-02-06T11:41:49+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Sector 77, Noida, Gautam Buddha Nagar
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ajay Sharma
+First_Name: Deepti
+Age: 42
+Address_Line: C-304 Elite Homz Appartments
+Unsubscribed_Time: 2023-08-01T11:38:44+05:30
+Mother_s_Name: Nisha Khanna
+Last_Name: Grover
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005099001
+Created: 2023-05-16T10:59:30+05:30
+Modified: 2025-02-06T11:41:49+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-06T11:41:49+05:30

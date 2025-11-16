@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Prashant Solanki
+Email: prashantt.com@rediffmail.com
+Secondary Email: None
+Phone: +919107070703
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 453913692298
+Date of Birth: 1991-02-05
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100202120211
+Account Name: None
+Bank Name: HDFC BANK LTD
+IFSC Code: HDFC0004736
+MICR: 110240456
+Account Type: []
+Bank Type: Default
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Affiliate
+Lead Source Name: Prashant Solanki
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Last_Activity_Time: 2025-11-08T15:25:43+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Shiv Shakti Durga Mandir Sec-53, Noida
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: HDFC Life
+First_Name: Prashant
+Age: 34
+Address_Line: House No 17, Nirmal Colony
+Last_Name: Solanki
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005139124
+Created: 2023-05-19T15:04:59+05:30
+Modified: 2025-08-19T13:32:17+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-08-19T13:32:17+05:30

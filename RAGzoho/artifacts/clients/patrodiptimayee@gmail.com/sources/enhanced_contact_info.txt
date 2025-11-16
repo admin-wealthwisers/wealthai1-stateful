@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Diptimayee Paitro
+Email: patrodiptimayee@gmail.com
+Secondary Email: None
+Phone: +919795596955
+Mobile: +919577797755
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 632265131650
+Date of Birth: None
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10059588125
+Account Name: None
+Bank Name: IDFC FIRST BANK
+IFSC Code: IDFB0060241
+MICR: 751751002
+Account Type: ['Demat - ICICI']
+Bank Type: None
+Annual Income: 100000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: External Referral
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: N-3/100 IRC Village Bhubaneswar Nayapalli Khorda, IRC Village Odisha – 751015 Ph – 9577797755
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mrs.
+Tax_Status: NRI - NRO
+Occupation: Housewife
+$currency_symbol: ₹
+Place_of_Birth: Jeypore
+Last_Activity_Time: 2024-12-12T11:59:42+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Khorda Odisha
+First_Name: Diptimayee
+Age: 33
+Address_Line: N-3/100 IRC Village Bhubaneswar Nayapalli
+Mother_s_Name: Santilata Padhy
+Last_Name: Paitro
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000001616003
+Created: 2022-01-24T13:02:08+05:30
+Modified: 2024-12-12T11:59:42+05:30
+Owner: Sarika  Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-12T11:59:42+05:30

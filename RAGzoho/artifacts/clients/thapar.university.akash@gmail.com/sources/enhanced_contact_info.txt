@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Akash Modi
+Email: thapar.university.akash@gmail.com
+Secondary Email: None
+Phone: +919261241147
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 539280320973
+Date of Birth: 1993-05-16
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 33258930889
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0030346
+MICR: 334002007
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Govt Employee
+$currency_symbol: ₹
+Place_of_Birth: Bikaner, Rajasthan
+Last_Activity_Time: 2023-10-26T15:47:58+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Bikaner, U.P
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Shrikant Modi Jaipur
+First_Name: Akash
+Address_Line: Behind Chotina Well, Near Khadi Mandir
+Mother_s_Name: Anju modi
+Last_Name: Modi
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005153546
+Created: 2023-05-27T12:54:56+05:30
+Modified: 2023-10-26T15:47:58+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-10-26T15:47:58+05:30

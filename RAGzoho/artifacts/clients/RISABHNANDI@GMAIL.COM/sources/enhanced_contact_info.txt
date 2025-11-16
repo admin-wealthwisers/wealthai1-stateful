@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Risabh Nandi
+Email: RISABHNANDI@GMAIL.COM
+Secondary Email: None
+Phone: +917303468097
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 914840363210
+Date of Birth: 1998-08-17
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100292679468
+Account Name: None
+Bank Name: HDFC BANK LTD
+IFSC Code: HDFC0000728
+MICR: 110240113
+Account Type: []
+Bank Type: None
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: BANK OF BARODA
+IFSC Code 2: BARB0INDRAP
+MICR 2: 110012101
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: 7303468097@upi
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Private Sector
+$currency_symbol: ₹
+Place_of_Birth: Ghaziabad
+Last_Activity_Time: 2025-11-07T16:52:49+05:30
+Exchange_Rate: 1
+Account_No_21: 30750100009732
+$approved: True
+$editable: True
+Address_Line2: SHIPRA SUN CITY GHAZIABAD
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Risabh
+Address_Line: M 902 JAIPURIYA SUNRISE GREENS, INDRAPURAM
+Mother_s_Name: Shilpa Nandi
+Last_Name: Nandi
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000006423047
+Created: 2023-09-21T16:13:49+05:30
+Modified: 2024-09-24T10:28:23+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-09-24T10:28:23+05:30

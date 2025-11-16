@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Rushaal Panwar
+Email: rushaalp@gmail.com
+Secondary Email: None
+Phone: +918595172066
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 514735052427
+Date of Birth: 1998-03-16
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100155179254
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0001292
+MICR: 110240192
+Account Type: []
+Bank Type: None
+Annual Income: 250000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Professional
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Agra
+Last_Activity_Time: 2025-09-22T17:25:34+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Pandav Nagar, Shamaspur, East Delhi
+Reference_Name: Asha Panwar
+First_Name: Rushaal
+Monetary: 1
+Address_Line: F-288, F- Block, Janta Garden
+Mother_s_Name: Asha Panwar
+Recency: 2
+Last_Name: Panwar
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000009409038
+Created: 2024-04-08T09:33:09+05:30
+Modified: 2024-04-11T11:56:46+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-04-11T11:56:46+05:30

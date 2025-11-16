@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Rahul Khandelwal
+Email: rahulkhandoo@gmail.com
+Secondary Email: None
+Phone: +919958501010
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 676667136144
+Date of Birth: 1976-05-05
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 881050023642
+Account Name: None
+Bank Name: HDFC BANK
+IFSC Code: HDFC0000088
+MICR: 110240014
+Account Type: []
+Bank Type: None
+Annual Income: 2000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Private job ( IT )
+Frequency: 4
+$currency_symbol: ₹
+Place_of_Birth: Bandikui
+Last_Activity_Time: 2025-10-25T12:51:23+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: SECTOR 78 GAUTAM BUDHHA NAGAR
+Reference_Name: Anjan ji
+Segment_Label: Loyal customer
+First_Name: Rahul
+Age: 49
+Monetary: 5
+Address_Line: G - 404 ANTRIKSH GOLF VIEW 1
+Mother_s_Name: Mrs Kamlesh Gupta
+Recency: 3
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000003034025
+Created: 2022-08-23T17:15:03+05:30
+Modified: 2025-08-04T10:52:46+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-08-04T10:52:46+05:30

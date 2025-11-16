@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Arun Dhyani
+Email: tulikaggarwal@gmail.com
+Secondary Email: None
+Phone: +919151151171
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: None
+Date of Birth: 1987-09-22
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 31730807332
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0001967
+MICR: 110002075
+Account Type: ['Mutual Fund']
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2024-09-13T10:39:14+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Sector-78,Noida Gautam Buddha Nagar
+Reference_Name: BNI - Arun Dhyani
+First_Name: Arun
+Address_Line: B-1204, Antriksh Golf View -2,
+Mother_s_Name: Shakuntala Dhyani
+Last_Name: Dhyani
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002547019
+Created: 2022-06-23T17:11:26+05:30
+Modified: 2023-12-20T15:44:47+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-20T15:44:47+05:30

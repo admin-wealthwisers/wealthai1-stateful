@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms Antika .
+Email: ankitadixit1497@gmail.com
+Secondary Email: None
+Phone: 919910733155
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 781056039739
+Date of Birth: 1997-02-14
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10079877690
+Account Name: None
+Bank Name: IDFC FIRST BANK
+IFSC Code: IDFB0020105
+MICR: 110751005
+Account Type: []
+Bank Type: None
+Annual Income: 400000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: na
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Ms
+Tax_Status: Resident Individual
+Occupation: PROFESSION
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Bagpath
+Last_Activity_Time: 2025-04-20T21:26:25+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: SHALIMAR PARK, BHOLA NATH NAGAR,
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Vikas Pathak
+First_Name: Antika
+Monetary: 1
+Address_Line: 341/A-15, GALI NO-5,
+Mother_s_Name: Rekha Dixit
+Recency: 1
+Last_Name: .
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000006161002
+Created: 2023-09-05T11:59:09+05:30
+Modified: 2024-08-24T13:03:18+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-08-24T13:03:18+05:30

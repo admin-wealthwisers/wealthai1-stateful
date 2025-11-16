@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Monica Kanoujia
+Email: monica@loanmoney.co.in
+Secondary Email: monicak2211@gmail.com
+Phone: 9717790187
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 671156383157
+Date of Birth: 1973-06-25
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 431000127639
+Account Name: {'name': 'MONEY COMPOUND', 'id': '209771000000365040'}
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000043
+MICR: 110240007
+Account Type: ['Mutual Fund']
+Bank Type: None
+Annual Income: 840000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: CRM Money4Smart
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Post Graduate
+Salutation: Mrs.
+Email_Opt_Out: True
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Shahjahanpur
+Last_Activity_Time: 2025-03-20T10:46:02+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: GURJINDER VIHAR, GREATER NOIDA, KASANA
+Reference_Name: Pramod Kanoujia
+First_Name: Monica
+Age: 51
+Address_Line: FLAT NO- 3 J 302, AWHO
+Unsubscribed_Time: 2023-08-01T12:12:06+05:30
+Mother_s_Name: Premwati
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002643017
+Created: 2022-07-05T09:50:22+05:30
+Modified: 2025-03-20T10:46:02+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-03-20T10:46:02+05:30

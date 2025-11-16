@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Abhishek Aggarwal HUF
+Email: LOTUS.BLY@GMAIL.COM
+Secondary Email: None
+Phone: 9639440831
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 394991267472
+Date of Birth: 2011-10-05
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 9032500100553701
+Account Name: None
+Bank Name: KARNATAKA BANK LTD
+IFSC Code: KARB0000903
+MICR: 243052002
+Account Type: []
+Bank Type: Default
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: HUF
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Last_Activity_Time: 2025-04-15T13:12:26+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Opp-Gurukul Coaching, Bareilly, U.P
+Reference_Name: Friend
+First_Name: Abhishek
+Contact_Type: Non Individual
+Age: 13
+Address_Line: 35M, 7/B, Rampur Garden,
+Last_Name: Aggarwal HUF
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002585027
+Created: 2022-06-27T22:03:04+05:30
+Modified: 2025-04-15T13:10:15+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-04-15T13:10:15+05:30

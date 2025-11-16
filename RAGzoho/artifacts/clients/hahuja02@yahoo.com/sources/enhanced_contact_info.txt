@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Harsh Ahuja
+Email: hahuja02@yahoo.com
+Secondary Email: None
+Phone: +919717011840
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 927614688195
+Date of Birth: 1976-06-02
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 53111061185
+Account Name: None
+Bank Name: STANDARD CHARTERED BANK
+IFSC Code: SCBL0036025
+MICR: 110036006
+Account Type: []
+Bank Type: Default
+Annual Income: 2000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associates
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Post Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Private Sector
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-03-20T10:27:22+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Sector-56 Gurgaon
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Harsh
+Contact_Type: Individual
+Age: 48
+Address_Line: C-53, 3Floor, Sushant Lok-2
+Mother_s_Name: Darshan Ahuja
+Last_Name: Ahuja
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000018190069
+Created: 2025-03-20T10:20:43+05:30
+Modified: 2025-03-20T10:26:36+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-03-20T10:26:36+05:30

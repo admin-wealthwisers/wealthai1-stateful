@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Smera Jain
+Email: smera2373@gmail.com
+Secondary Email: ankurjain24@hotmail.com
+Phone: +919911587587
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 969153797497
+Date of Birth: 2007-04-18
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 101452000008419
+Account Name: None
+Bank Name: Yes Bank
+IFSC Code: YESB0001014
+MICR: 110532155
+Account Type: []
+Bank Type: Default
+Annual Income: 100000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Higher Secondary
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Student
+Frequency: 3
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-07-17T18:01:31+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Azadpur, North West Delhi
+Reference_Name: Ankur Jain - Daughter
+First_Name: Smera
+Contact_Type: Individual
+Age: 18
+Monetary: 3
+Address_Line: Flat-No- B-202, M2K Victoria Garden
+Mother_s_Name: Swati Jain
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000020215048
+Created: 2025-05-22T13:38:57+05:30
+Modified: 2025-07-17T18:01:31+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-07-17T18:01:31+05:30

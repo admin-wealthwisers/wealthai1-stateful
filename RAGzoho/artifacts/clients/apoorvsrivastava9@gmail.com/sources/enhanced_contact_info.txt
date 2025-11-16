@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Apoorv Srivastava
+Email: apoorvsrivastava9@gmail.com
+Secondary Email: None
+Phone: +918756319639
+Mobile: +917895682099
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 320309527893
+Date of Birth: 1997-01-21
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: India
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100494985716
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000945
+MICR: 229240002
+Account Type: []
+Bank Type: None
+Annual Income: 950000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: 2025-06-19T17:18:21+05:30
+Days Visited: 10
+Number of Chats: 1
+Average Time Spent: 51.04 minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Other_Country: India
+Currency: INR
+First_Visited_URL: https://moneycompound.com/
+Qualification: M.B.A
+Last_Visited_Time: 2025-09-30T12:20:14+05:30
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+Frequency: 2
+$currency_symbol: ₹
+Visitor_Score: 4
+Place_of_Birth: Raebareli
+Last_Activity_Time: 2025-11-05T19:18:52+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: RAE BARELI, U.P
+Reference_Name: Office
+First_Name: Apoorv
+Age: 28
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002959001
+Created: 2022-08-11T16:26:45+05:30
+Modified: 2025-11-05T19:18:52+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-11-05T19:18:52+05:30

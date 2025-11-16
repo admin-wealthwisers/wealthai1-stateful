@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Alpana Maitra
+Email: DIPEN_MAITRA@YAHOO.CO.IN
+Secondary Email: None
+Phone: +919871254661
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 782144000836
+Date of Birth: 1947-11-01
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 158001000905
+Account Name: None
+Bank Name: ICICI BANK LTD
+IFSC Code: ICIC0001580
+MICR: 110229152
+Account Type: []
+Bank Type: None
+Annual Income: 300000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduation
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: House Wife
+$currency_symbol: ₹
+Place_of_Birth: GAUTAM BUDDHA NAGAR
+Last_Activity_Time: 2024-01-01T10:57:32+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: C 58/27 TOT MALL MARKET SECTOR - 62 NOIDA GAUTAM BUDDHA NAGAR
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Anjan Roy
+First_Name: Alpana
+Address_Line: FLAT NO A 75 TRIKUTA HILLS APARTMENT
+Last_Name: Maitra
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005153518
+Created: 2023-05-27T12:31:54+05:30
+Modified: 2024-01-01T10:57:32+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-01T10:57:32+05:30

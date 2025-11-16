@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Diksha Khandelwal
+Email: vaishnavikdl20@gmail.com
+Secondary Email: None
+Phone: +919368230927
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 544460524220
+Date of Birth: 1975-09-21
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 12790100010981
+Account Name: None
+Bank Name: Bank Of Baroda
+IFSC Code: BARB0BELANG
+MICR: 282012004
+Account Type: []
+Bank Type: None
+Annual Income: 600000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Clients
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: BA
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Housewife
+$currency_symbol: ₹
+Place_of_Birth: Mathura
+Last_Activity_Time: 2025-09-17T10:02:48+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Awas Vikas 16 B, Agra, PO: Sikandra, DIST: Agra
+First_Name: Diksha
+Age: 49
+Address_Line: G701 Padam Pride, Awas Vikas, Police Chowki
+Mother_s_Name: Saroj Khandelwal
+Last_Name: Khandelwal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000009389005
+Created: 2024-04-06T10:10:40+05:30
+Modified: 2025-09-01T16:57:30+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-01T16:57:30+05:30

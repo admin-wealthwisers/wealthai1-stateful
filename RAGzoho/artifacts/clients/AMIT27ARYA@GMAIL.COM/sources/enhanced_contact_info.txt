@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Amit Arya
+Email: AMIT27ARYA@GMAIL.COM
+Secondary Email: None
+Phone: +919312558206
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: None
+Date of Birth: 1981-06-27
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 157801533888
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0001578
+MICR: 110229128
+Account Type: []
+Bank Type: Default
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Ajay Sharma / Sarita Sharma
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: NA
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Private Sector Service
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-07-09T10:27:00+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Opp Mother Dairy, Shakarpur
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ajay Sharma
+First_Name: Amit
+Contact_Type: Individual
+Age: 43
+Address_Line: J-30, Pandav Nagar
+Mother_s_Name: NA
+Last_Name: Arya
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000017068048
+Created: 2025-02-24T17:19:29+05:30
+Modified: 2025-05-26T16:08:35+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-05-26T16:08:35+05:30

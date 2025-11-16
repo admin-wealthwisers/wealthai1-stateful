@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Sandeep Jhalini
+Email: casandeep187@gmail.com
+Secondary Email: None
+Phone: +919937500077
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 849653312101
+Date of Birth: 1982-07-18
+Anniversary Date: 2009-02-27
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 7631140006023
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000763
+MICR: 768240202
+Account Type: []
+Bank Type: Default
+Annual Income: 4000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client's Referral
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: CA
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Jaipur
+Last_Activity_Time: 2025-09-03T13:08:03+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Shastri Nagar,Jaipur
+Reference_Name: Sandeep Gupta
+First_Name: Sandeep
+Contact_Type: Individual
+Age: 43
+Monetary: 1
+Address_Line: A-19, Ram Nagar, Amanishah Road
+Mother_s_Name: Prem Jhalani
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000021752037
+Created: 2025-07-24T09:33:47+05:30
+Modified: 2025-07-29T12:58:35+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-07-29T12:58:35+05:30

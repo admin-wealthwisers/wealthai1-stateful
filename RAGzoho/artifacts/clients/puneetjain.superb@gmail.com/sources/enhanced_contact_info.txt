@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Puneet Jain And Members HUF
+Email: puneetjain.superb@gmail.com
+Secondary Email: None
+Phone: +919910209552
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 697399405123
+Date of Birth: 2021-05-31
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 414601002251
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0004146
+MICR: 100229302
+Account Type: []
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: https://maps.app.goo.gl/BejHdZp2MNwvepPU8
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: Office Address - Infected Monk And Company C-166, First Floor, C Block, Sector 63, Noida - 201301, Uttar Pradesh
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Na
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 4
+$currency_symbol: ₹
+Place_of_Birth: Lalitpur Uttar Pradesh
+Last_Activity_Time: 2025-06-23T12:33:14+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Techzone-IV, Greater Noida West, Gautam Buddha Nagar
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Puneet Jain And Members
+Age: 4
+Monetary: 3
+Address_Line: Flat-no-601, tower-B3, Cherry County
+Mother_s_Name: NA
+Recency: 3
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000013339202
+Created: 2024-11-19T17:02:59+05:30
+Modified: 2025-06-23T12:33:14+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-06-23T12:33:14+05:30

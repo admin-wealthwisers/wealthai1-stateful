@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Neeraj Bansal
+Email: NEERAJBANSAL_CA@YAHOO.COM
+Secondary Email: None
+Phone: +919810833228
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 341436233947
+Date of Birth: 1975-07-28
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 701241518
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0006297
+MICR: 110229021
+Account Type: []
+Bank Type: None
+Annual Income: 800000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: https://maps.app.goo.gl/1kApqCvcgPtNPvZ76
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Marketing
+Lead Source Name: Neeraj Bansal / Shriram Agarwal
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Professional
+$currency_symbol: ₹
+Place_of_Birth: Hindaun City
+Last_Activity_Time: 2025-08-04T09:40:26+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: I.P EXTENSION , NEAR MANGLAM HOSPITAL,
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Neeraj
+Age: 49
+Address_Line: "C-55 RETREAT APARTMENTS,PLOT NO.20, I.P EXTENSION, EAST DELHI, "
+Mother_s_Name: Vimla Devi
+Last_Name: Bansal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005128061
+Created: 2022-09-01T11:24:18+05:30
+Modified: 2025-05-24T14:47:36+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-05-24T14:47:36+05:30

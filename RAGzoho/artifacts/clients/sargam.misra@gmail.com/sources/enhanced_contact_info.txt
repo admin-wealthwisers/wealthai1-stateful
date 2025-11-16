@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Sargam Mishra
+Email: sargam.misra@gmail.com
+Secondary Email: None
+Phone: +919873913823
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 240082827712
+Date of Birth: 1980-03-06
+Anniversary Date: 2007-12-02
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 626201529167
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0006262
+MICR: 695229002
+Account Type: []
+Bank Type: None
+Annual Income: 2000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MBA
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Professional
+$currency_symbol: ₹
+Place_of_Birth: Lucknow
+Last_Activity_Time: 2025-06-12T12:03:02+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Near Shanti Gopal Hospital, Indrapuram, Shipra Sun City
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Manoj Sharma
+First_Name: Sargam
+Address_Line: E-901, Vijaya Apartment, Ahinsa Khand - 2
+Mother_s_Name: Asha Misra
+Last_Name: Mishra
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000007581001
+Created: 2023-12-20T15:59:14+05:30
+Modified: 2023-12-21T10:10:50+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-21T10:10:50+05:30

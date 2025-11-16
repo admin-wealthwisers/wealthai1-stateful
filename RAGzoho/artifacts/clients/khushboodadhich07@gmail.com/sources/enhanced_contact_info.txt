@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Khushboo Dadidch
+Email: khushboodadhich07@gmail.com
+Secondary Email: None
+Phone: +919999487410
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 669339208778
+Date of Birth: 1988-11-29
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 629401570885
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0006294
+MICR: 110229017
+Account Type: []
+Bank Type: Default
+Annual Income: 600000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: CA
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Professional
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-11-07T17:22:22+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Laxmi Nagar, Gandhi Nagar East Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Lava Mohit Sharma - Wife
+First_Name: Khushboo
+Contact_Type: Individual
+Age: 36
+Address_Line: A-224 surajmal vihar near karkardooma court
+Mother_s_Name: Sarita sharma
+Last_Name: Dadidch
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000025272001
+Created: 2025-11-07T12:34:27+05:30
+Modified: 2025-11-07T17:22:22+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-11-07T17:22:22+05:30

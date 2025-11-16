@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Anil Rahal
+Email: anilrahal@gmail.com
+Secondary Email: None
+Phone: +919990050943
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 661400057532
+Date of Birth: 1960-08-27
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 33511119671
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0011485
+MICR: 110002464
+Account Type: []
+Bank Type: Default
+Annual Income: 10000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Non Marketing
+Lead Source Name: Suraj Paul ( GMD Financial)
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: BA
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Agra
+Last_Activity_Time: 2025-09-19T11:02:59+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: New Raj Nagar, Ghaziabad
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Suraj Paul
+First_Name: Anil
+Contact_Type: Individual
+Age: 64
+Address_Line: R14/134 Raj Nagar
+Mother_s_Name: Bhagwati
+Last_Name: Rahal
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000017892023
+Created: 2025-03-11T11:05:42+05:30
+Modified: 2025-03-11T11:38:03+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-03-11T11:38:03+05:30

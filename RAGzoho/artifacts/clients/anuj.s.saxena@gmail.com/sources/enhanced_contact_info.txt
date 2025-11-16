@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Anuj Saxena
+Email: anuj.s.saxena@gmail.com
+Secondary Email: None
+Phone: +918600112111
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 590457793286
+Date of Birth: 1979-11-06
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 8821930002079
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000882
+MICR: 411240022
+Account Type: []
+Bank Type: Default
+Annual Income: 13600000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associates
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MBA
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Professional
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-11-14T11:33:29+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Near Konark Campus, Viman Nagar, Pune
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Mannu Agarwal - Wiser
+First_Name: Anuj
+Contact_Type: Individual
+Age: 45
+Address_Line: A6/302, Camelot Co-Op Housing Society
+Mother_s_Name: Bela Saxena
+Last_Name: Saxena
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000024988001
+Created: 2025-11-03T14:17:27+05:30
+Modified: 2025-11-04T12:55:52+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-11-04T12:55:52+05:30

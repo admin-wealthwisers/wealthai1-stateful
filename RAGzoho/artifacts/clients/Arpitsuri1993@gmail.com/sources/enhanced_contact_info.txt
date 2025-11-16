@@ -1,0 +1,113 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Arpit Suri
+Email: Arpitsuri1993@gmail.com
+Secondary Email: None
+Phone: 9883838335
+Mobile: +919883838335
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: None
+Date of Birth: None
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: 123,agcr enclave , opp karkardooma court Delhi 110092
+City: DELHI
+State: DELHI
+Country: INDIA
+ZIP Code: 110092
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: None
+Account Name: None
+Bank Name: None
+IFSC Code: None
+MICR: None
+Account Type: ['Mutual Fund']
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2023-05-25T14:53:17+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: VTC, East Delhi
+First_Name: Arpit
+Address_Line: 123, A.G.C.R. Enclave
+Mother_s_Name: Seema Suri
+Last_Name: Suri
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002260004
+Created: 2022-05-12T16:17:07+05:30
+Modified: 2023-05-25T14:53:17+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-05-25T14:53:17+05:30

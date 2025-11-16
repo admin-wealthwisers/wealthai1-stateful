@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Ishika Goyal
+Email: gishika165@gmail.com
+Secondary Email: None
+Phone: 918851753627
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 664530380024
+Date of Birth: 2005-12-26
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 2349912891
+Account Name: None
+Bank Name: Kotak Mahindra Bank
+IFSC Code: KKBK0004624
+MICR: 110485127
+Account Type: []
+Bank Type: Default
+Annual Income: 96000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate - Marketing
+Lead Source Name: Akhil Bansal
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Pursuing ca and b.com(hons)
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Student
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-04-28T13:42:21+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: West Babarpur Shahdara
+Reference_Name: Akhil Bansal
+First_Name: Ishika
+Contact_Type: Individual
+Age: 19
+Monetary: 1
+Address_Line: H 64 , Shiv Mandir Gali
+Mother_s_Name: Renu Goyal
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000017729254
+Created: 2025-02-20T23:34:11+05:30
+Modified: 2025-04-08T13:05:39+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-04-08T13:05:39+05:30

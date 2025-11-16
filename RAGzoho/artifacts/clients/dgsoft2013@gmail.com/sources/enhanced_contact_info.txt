@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Gunjan Goel
+Email: dgsoft2013@gmail.com
+Secondary Email: None
+Phone: +918266046002
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 750161720534
+Date of Birth: 1985-03-18
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 7492000006111
+Account Name: None
+Bank Name: YES BANK
+IFSC Code: YESB0000074
+MICR: 243532002
+Account Type: []
+Bank Type: None
+Annual Income: 388500
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: BCA, MCA
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: SOFTWARE DEVELOPER
+$currency_symbol: ₹
+Place_of_Birth: BAREILLY
+Last_Activity_Time: 2024-09-13T10:36:20+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: BEHIND DURGABARI,, RAMPUR GARDEN
+Reference_Name: Dhruv Goel
+First_Name: Gunjan
+Address_Line: 35-r/6b
+Mother_s_Name: NEETA AGARWAL
+Last_Name: Goel
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000004009001
+Created: 2022-12-28T15:20:24+05:30
+Modified: 2024-01-04T10:12:46+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-04T10:12:46+05:30

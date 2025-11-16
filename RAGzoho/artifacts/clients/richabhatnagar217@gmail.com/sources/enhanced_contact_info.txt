@@ -1,0 +1,115 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Richa Bhatnagar
+Email: richabhatnagar217@gmail.com
+Secondary Email: None
+Phone: +919810628702
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 215085045923
+Date of Birth: 1969-01-04
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10189560337
+Account Name: None
+Bank Name: State Bank of india
+IFSC Code: SBIN0011443
+MICR: 110002460
+Account Type: []
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Teacher training in Private Organisation
+$currency_symbol: ₹
+Place_of_Birth: New Delhi
+Last_Activity_Time: 2024-01-05T17:27:08+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Sector -56
+First_Name: Richa
+Address_Line: House No-P-4096, Devender Vihar Gurgaon
+Mother_s_Name: SMT. Sntosh Bhatnagar
+Last_Name: Bhatnagar
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000003068029
+Created: 2022-08-25T16:39:04+05:30
+Modified: 2024-01-05T17:27:08+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-05T17:27:08+05:30

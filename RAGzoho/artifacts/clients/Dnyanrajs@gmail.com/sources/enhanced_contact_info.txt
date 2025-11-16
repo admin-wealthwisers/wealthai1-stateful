@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Dnyanraj V. Jawalkar
+Email: Dnyanrajs@gmail.com
+Secondary Email: None
+Phone: +917709075898
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 863883387709
+Date of Birth: 1989-08-20
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 5211610025918
+Account Name: {'name': 'Dnyanraj', 'id': '209771000000554005'}
+Bank Name: HDFC Bank
+IFSC Code: HDFC0003650
+MICR: 400240188
+Account Type: []
+Bank Type: None
+Annual Income: 2500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: SERVICE
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Saswad, Pune
+Last_Activity_Time: 2025-10-13T11:28:09+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Sector 20, Kharghar Navi Mumbai
+First_Name: Dnyanraj
+Monetary: 1
+Address_Line: B1203, Twin Tower, Plot 57
+Mother_s_Name: Ujwala
+Recency: 5
+Last_Name: V. Jawalkar
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000000554008
+Created: 2021-09-09T10:00:03+05:30
+Modified: 2023-12-20T16:49:53+05:30
+Owner: Prabha
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-20T16:49:53+05:30

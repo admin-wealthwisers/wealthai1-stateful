@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Fayaz Rasool Mohammed
+Email: fayaz27667@gmail.com
+Secondary Email: None
+Phone: +91 96634 22442
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 379899176378
+Date of Birth: 1981-07-01
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100021632145
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0002777
+MICR: 560240076
+Account Type: []
+Bank Type: Default
+Annual Income: 3000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: B-Tech
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Private Sector
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Anantapur
+Last_Activity_Time: 2025-10-24T15:40:01+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: North R T Nagar, Bangalore , Karnataka
+Reference_Name: Anjan Roy
+First_Name: Fayaz Rasool
+Contact_Type: Individual
+Age: 44
+Monetary: 5
+Address_Line: Flat # G-2, BSR Residency, Kanaka Nagar,
+Mother_s_Name: Rabiya Bee
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000023195026
+Created: 2025-09-02T13:43:16+05:30
+Modified: 2025-09-08T10:05:48+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-08T10:05:48+05:30

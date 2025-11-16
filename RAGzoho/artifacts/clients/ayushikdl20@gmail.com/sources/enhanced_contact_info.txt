@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Ayushi Khandelwal
+Email: ayushikdl20@gmail.com
+Secondary Email: None
+Phone: +917906071462
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 990612690468
+Date of Birth: 2000-02-22
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 156801001429
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0001568
+MICR: 282229006
+Account Type: ['Demat - ICICI', 'Mutual Fund']
+Bank Type: None
+Annual Income: 600000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: G-701, Padam Pride, Awas Vikas, Police Chowki, Awas Vikas 16-B, Agra, U.P - 282007 Ph - 7906071462
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Btech
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Agra
+Last_Activity_Time: 2025-09-01T16:59:39+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Police Chowki, Awas Vikas 16-B,Agra,U.P
+First_Name: Ayushi
+Age: 24
+Address_Line: G-701, Padam Pride, Awas Vikas,
+Mother_s_Name: Diksha Khandelwal
+Last_Name: Khandelwal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002497014
+Created: 2022-05-06T15:48:16+05:30
+Modified: 2024-12-12T11:20:25+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-12T11:20:25+05:30

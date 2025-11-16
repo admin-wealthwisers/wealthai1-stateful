@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Abhash Srivastava
+Email: abhashsrivastava4@gmail.com
+Secondary Email: None
+Phone: +918090677539
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 691755868931
+Date of Birth: 1998-03-24
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 922010056507337
+Account Name: None
+Bank Name: Axis Bank
+IFSC Code: UTIB0004762
+MICR: 110211349
+Account Type: []
+Bank Type: None
+Annual Income: 360000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Marketing
+Lead Source Name: Apoorv Srivastava
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Private Sector
+$currency_symbol: ₹
+Place_of_Birth: Raebareli
+Last_Activity_Time: 2025-10-06T12:12:35+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Raebareli
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Apoorv Srivastava
+First_Name: Abhash
+Age: 26
+Address_Line: 643/27, Nirala Nagar
+Mother_s_Name: Usha Srivastava
+Last_Name: Srivastava
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000007873251
+Created: 2024-01-08T13:39:31+05:30
+Modified: 2025-02-06T12:24:14+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-06T12:24:14+05:30

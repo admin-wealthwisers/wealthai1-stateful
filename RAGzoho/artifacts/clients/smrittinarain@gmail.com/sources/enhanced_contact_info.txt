@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Smriti Narain
+Email: smrittinarain@gmail.com
+Secondary Email: None
+Phone: +918957707357
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 418916625250
+Date of Birth: 1987-01-20
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 31063115340
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0001780
+MICR: 208002010
+Account Type: []
+Bank Type: None
+Annual Income: 100000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: M.com
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Housewife
+Frequency: 3
+$currency_symbol: ₹
+Place_of_Birth: Kanpur (U.P)
+Last_Activity_Time: 2025-09-01T15:18:47+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Rohilkhand University Road Bareilly
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Nitin Narian - wife
+First_Name: Smriti
+Contact_Type: Individual
+Age: 38
+Monetary: 1
+Address_Line: 24, Royal Ashish Park, Near Executive Club
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000008891001
+Created: 2024-03-11T12:25:20+05:30
+Modified: 2025-09-01T15:18:12+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-01T15:18:12+05:30

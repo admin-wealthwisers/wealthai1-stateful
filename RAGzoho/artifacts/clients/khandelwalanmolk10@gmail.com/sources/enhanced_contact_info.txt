@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Anmol Khandelwal
+Email: khandelwalanmolk10@gmail.com
+Secondary Email: None
+Phone: +9181716 41884
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 708973839930
+Date of Birth: 1998-08-24
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50100561060136
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000870
+MICR: 282240004
+Account Type: []
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Clients
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: D 1702, Samridhi Luxuriya Avenue, Noida Expressway Sector 150, Noida - 201310 Ph - 81716 41884
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: B.Tech
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Private Service
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Bareilly
+Last_Activity_Time: 2024-12-11T14:04:56+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: New Agra, Kiraoli, UP
+First_Name: Anmol
+Age: 26
+Monetary: 2
+Address_Line: 120, Uttampuri Flat No-4, Balkeshwar
+Mother_s_Name: Priya Khandelwal
+Recency: 1
+Last_Name: Khandelwal
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000003861001
+Created: 2022-12-07T10:15:03+05:30
+Modified: 2024-12-11T14:04:56+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-11T14:04:56+05:30

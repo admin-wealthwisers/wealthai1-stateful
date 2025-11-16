@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Akhilesh Kumar Pandey
+Email: pandey.aries@gmail.com
+Secondary Email: None
+Phone: +917030407766
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 936888448577
+Date of Birth: 1982-04-09
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 12131140000056
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0001213
+MICR: 403240018
+Account Type: []
+Bank Type: None
+Annual Income: 1200000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Allahabad
+Last_Activity_Time: 2025-04-15T11:57:20+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Gautam buddha nagar, U.P
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Friend
+First_Name: Akhilesh
+Address_Line: B - 116, Sector 20, Noida
+Mother_s_Name: Shakuntala Devi
+Last_Name: Kumar Pandey
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005153541
+Created: 2023-05-27T12:52:10+05:30
+Modified: 2023-12-20T13:51:27+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2023-12-20T13:51:27+05:30

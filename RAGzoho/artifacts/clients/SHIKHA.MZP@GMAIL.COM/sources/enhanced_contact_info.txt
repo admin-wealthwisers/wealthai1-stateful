@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Shikha Srivastava
+Email: SHIKHA.MZP@GMAIL.COM
+Secondary Email: vedikakhandelwal.vns@gmail.com
+Phone: +919260987716
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 463129475334
+Date of Birth: 1985-09-16
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 9149242166
+Account Name: None
+Bank Name: Kotak Mahindra Bank
+IFSC Code: KKBK0005033
+MICR: 110485105
+Account Type: []
+Bank Type: Default
+Annual Income: 228000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MBA
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Housewife
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Mirzapur
+Last_Activity_Time: 2025-10-06T12:04:22+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Chhotalalpur , Pandeypur Ashapur , Varanasi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ritesh JI
+First_Name: Shikha
+Contact_Type: Individual
+Age: 39
+Monetary: 1
+Address_Line: SA 3/15, M P 1,Maa Sankatha Nagar Colony
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000019409005
+Created: 2025-04-25T14:12:57+05:30
+Modified: 2025-05-29T14:50:34+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-05-29T14:50:34+05:30

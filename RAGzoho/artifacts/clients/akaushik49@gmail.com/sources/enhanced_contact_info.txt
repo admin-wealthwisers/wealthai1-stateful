@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Akash Kaushik
+Email: akaushik49@gmail.com
+Secondary Email: None
+Phone: 918510080132
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 287224440214
+Date of Birth: 1993-04-07
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 100071825567
+Account Name: None
+Bank Name: Induslnd Bank
+IFSC Code: INDB0000031
+MICR: 110234005
+Account Type: []
+Bank Type: None
+Annual Income: 3000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Associate Marketing
+Lead Source Name: Akhil Bansal
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: NA
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Muzaffarnagar
+Last_Activity_Time: 2025-06-14T12:45:55+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Indrprasth estate phase II
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Akhil Bansal
+First_Name: Akash
+Age: 31
+Address_Line: 179A, Roorkee road, Near RajMandir mandap
+Last_Name: Kaushik
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000012419092
+Created: 2024-10-03T11:52:21+05:30
+Modified: 2025-02-06T12:46:05+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-06T12:46:05+05:30

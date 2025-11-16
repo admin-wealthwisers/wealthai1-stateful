@@ -1,0 +1,115 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Gaurav Dubey
+Email: gauravinvested@gmail.com
+Secondary Email: None
+Phone: +9198180 07023
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 427622681758
+Date of Birth: 1978-01-21
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 3771050017331
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000377
+MICR: 500240012
+Account Type: []
+Bank Type: None
+Annual Income: 2000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MBA
+Salutation: Mr.
+Occupation: Private Job
+$currency_symbol: ₹
+Place_of_Birth: Kanpur
+Last_Activity_Time: 2025-06-24T09:55:13+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: E-11, Sector-61, Noida
+First_Name: Gaurav
+Address_Line: Prateek Ferdora A-1603, Behind Shopprix Mall
+Mother_s_Name: Meera Dubey
+Last_Name: Dubey
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002587018
+Created: 2022-06-27T22:03:03+05:30
+Modified: 2024-01-04T09:59:38+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-04T09:59:38+05:30

@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Rajendra Sureka
+Email: rajendra.sureka@gmail.com
+Secondary Email: None
+Phone: +919830311228
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 475218373935
+Date of Birth: 1972-12-02
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 2901013766
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0000029
+MICR: 110229004
+Account Type: []
+Bank Type: None
+Annual Income: 2500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: B.E. and PGCBM
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Professional
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Kolkata
+Last_Activity_Time: 2024-05-07T17:02:37+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Flat 1E, 54/10, D.C. Dey Road, Tangra
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Rajendra
+Monetary: 4
+Address_Line: Active Acres, Tower 5b
+Mother_s_Name: Satyabhama Sureka
+Recency: 1
+Last_Name: Sureka
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000006393001
+Created: 2023-09-21T06:35:47+05:30
+Modified: 2024-04-02T12:14:43+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-04-02T12:14:43+05:30

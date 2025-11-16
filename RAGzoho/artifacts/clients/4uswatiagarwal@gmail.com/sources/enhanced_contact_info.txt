@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Swati Agarwal
+Email: 4uswatiagarwal@gmail.com
+Secondary Email: None
+Phone: +919851884274
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 526976241554
+Date of Birth: 1984-01-10
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 98301002086
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0000983
+MICR: 700229034
+Account Type: []
+Bank Type: None
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: H.S
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Housewife
+$currency_symbol: ₹
+Place_of_Birth: Bihar
+Last_Activity_Time: 2025-09-17T10:00:10+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: PO: Kasba, DIST: Kolkata
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Preeti Agarwal
+First_Name: Swati
+Age: 40
+Address_Line: 96/3, K.N SEN ROAD, Kasba
+Mother_s_Name: Usha Devi Saraogi
+Last_Name: Agarwal
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000013533002
+Created: 2024-11-30T11:58:20+05:30
+Modified: 2024-12-02T15:53:05+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-12-02T15:53:05+05:30

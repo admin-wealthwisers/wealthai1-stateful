@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Deepa Haswani
+Email: sawlanideepa1206@gmail.com
+Secondary Email: None
+Phone: +9180807 78981
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 230332961669
+Date of Birth: 1984-06-12
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 913010004070027
+Account Name: None
+Bank Name: AXIS BANK
+IFSC Code: UTIB0003203
+MICR: 208211999
+Account Type: []
+Bank Type: None
+Annual Income: 3000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: C.A
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Faizabad U.P
+Last_Activity_Time: 2024-09-10T09:38:22+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Kalyanpur , Kanpur Nagar, Uttar Pradesh
+Reference_Name: Ishwar's Wife
+First_Name: Deepa
+Address_Line: LIG - 2095, Panki Road, Awas Vikas -3
+Mother_s_Name: Poonam Sawlani
+Last_Name: Haswani
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002597046
+Created: 2022-06-27T22:03:08+05:30
+Modified: 2024-08-29T13:19:22+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-08-29T13:19:22+05:30

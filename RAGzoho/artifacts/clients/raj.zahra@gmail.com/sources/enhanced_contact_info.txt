@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Rajan Kumar
+Email: raj.zahra@gmail.com
+Secondary Email: None
+Phone: 7011439837
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 1805
+Date of Birth: 1979-02-25
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 628601043145
+Account Name: None
+Bank Name: ICICI BANK LIMITED
+IFSC Code: ICIC0006286
+MICR: 110229028
+Account Type: []
+Bank Type: None
+Annual Income: 900000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: CRM Money4Smart
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: 7011439837@paytm
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: PGDBM
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Ranchi
+Last_Activity_Time: 2025-06-12T12:03:02+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Govindpuram, Ghaziabad
+Reference_Name: Pramod Kanoujia-Rajan Ji
+First_Name: Rajan
+Age: 45
+Address_Line: Plot No- L-1, TF-4, 3rd Floor, Balaji Enclave,
+Mother_s_Name: Sulochana Rani
+Last_Name: Kumar
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000003861014
+Created: 2022-12-07T10:16:14+05:30
+Modified: 2025-02-06T12:36:32+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-06T12:36:32+05:30

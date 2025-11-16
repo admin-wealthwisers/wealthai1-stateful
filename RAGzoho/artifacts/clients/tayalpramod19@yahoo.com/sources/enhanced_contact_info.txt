@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Pramod Tayal
+Email: tayalpramod19@yahoo.com
+Secondary Email: None
+Phone: +919599333959
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 937232485586
+Date of Birth: 1993-08-19
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 82901002468
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0000829
+MICR: 110229074
+Account Type: []
+Bank Type: None
+Annual Income: 900000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: 58-A Radhey Shyam Park, Street no. 4 Delhi - 110051 Ph - 9599333959
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-09-01T15:26:01+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Parwana Road, krishna Nagar H.O. East Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Pramod
+Age: 31
+Monetary: 1
+Address_Line: H.No- 58 A, Radhey Shyam Park, Street No-4
+Mother_s_Name: Saroj Tayal
+Recency: 2
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000009749003
+Created: 2024-04-26T17:38:01+05:30
+Modified: 2025-09-01T15:25:34+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-09-01T15:25:34+05:30

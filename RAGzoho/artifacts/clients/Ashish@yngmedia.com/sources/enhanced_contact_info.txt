@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Ashish Bajaj
+Email: Ashish@yngmedia.com
+Secondary Email: None
+Phone: +918860413614
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: None
+Date of Birth: 1979-06-12
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 5009413229
+Account Name: None
+Bank Name: Axis Bank Limited
+IFSC Code: UTIB0005140
+MICR: 110211389
+Account Type: []
+Bank Type: Default
+Annual Income: 600000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: https://maps.app.goo.gl/e4mGcz2BLPoSi1736
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: NA
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Others
+$currency_symbol: ₹
+Place_of_Birth: Na
+Last_Activity_Time: 2025-07-07T13:13:25+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: SECTOR NOIDA GAUTAMBUDDHA NAGAR
+First_Name: Ashish
+Contact_Type: Individual
+Age: 46
+Address_Line: 203 GAURAV AD APARTMENT NEAR FORTIS HOSPITAL
+Mother_s_Name: NA
+Last_Name: Bajaj
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000020478042
+Created: 2025-05-29T13:25:51+05:30
+Modified: 2025-07-07T13:13:25+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-07-07T13:13:25+05:30

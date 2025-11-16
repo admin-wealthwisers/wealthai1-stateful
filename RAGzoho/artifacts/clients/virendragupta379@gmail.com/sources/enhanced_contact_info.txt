@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Virendra Gupta
+Email: virendragupta379@gmail.com
+Secondary Email: None
+Phone: +919843579997
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 763518558920
+Date of Birth: 1955-10-06
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 2711101004301
+Account Name: None
+Bank Name: Canara Bank
+IFSC Code: CNRB0002711
+MICR: 110015133
+Account Type: []
+Bank Type: Default
+Annual Income: 500000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Retired
+$currency_symbol: ₹
+Place_of_Birth: Alwar Rajasthan
+Last_Activity_Time: 2025-07-28T17:15:29+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Gautam Buddha Nagar
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Prakash Rawat Ji
+First_Name: Virendra
+Contact_Type: Individual
+Age: 69
+Address_Line: A - 379 Sector 19, Noida
+Mother_s_Name: Anoopa Devi
+Last_Name: Gupta
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000021849358
+Created: 2025-07-28T17:14:11+05:30
+Modified: 2025-07-28T17:14:20+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-07-28T17:14:20+05:30

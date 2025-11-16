@@ -1,0 +1,117 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Nanda Kishore Grandhy
+Email: goanandkishore@gmail.com
+Secondary Email: mfgoanandkishore@gmail.com
+Phone: +919158557176
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 233631229058
+Date of Birth: 1975-08-18
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 112610100016910
+Account Name: None
+Bank Name: Union Bank of india
+IFSC Code: UBIN0903621
+MICR: 403026039
+Account Type: []
+Bank Type: None
+Annual Income: 2000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: goanandkishore@uboi
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: PG
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Margao
+Last_Activity_Time: 2025-10-03T09:35:20+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Plot No 60, Mohidin Estate, Alto Dabolim, A.P Dabolim, South Goa
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: Nanda Kishore
+Address_Line: H No-246/C, Raj Niwas
+Mother_s_Name: Rukma Grandhy
+Last_Name: Grandhy
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005153576
+Created: 2023-05-27T14:07:39+05:30
+Modified: 2025-08-29T18:11:56+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-08-29T18:11:56+05:30

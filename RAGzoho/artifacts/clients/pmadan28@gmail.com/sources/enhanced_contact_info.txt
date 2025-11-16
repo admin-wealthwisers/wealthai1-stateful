@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Pradeep Madan
+Email: pmadan28@gmail.com
+Secondary Email: None
+Phone: +919837009376
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 543491371102
+Date of Birth: 1964-06-28
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: 186-G, opp Head Post Office, Salvation Army Road,
+City: Bareilly
+State: Uttar pradesh
+Country: India
+ZIP Code: 243001
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 784010100008656
+Account Name: None
+Bank Name: Bank of India
+IFSC Code: BKID0007840
+MICR: 243013002
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Clients
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+Frequency: 2
+$currency_symbol: ₹
+Last_Activity_Time: 2025-11-10T11:54:41+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Salvation Army Road, Bareilly, U.P
+First_Name: Pradeep
+Monetary: 5
+Address_Line: 186- G, Opp Head Post Office,
+Recency: 5
+Last_Name: Madan
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002116135
+Created: 2022-04-20T11:38:21+05:30
+Modified: 2024-01-04T13:46:11+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-04T13:46:11+05:30

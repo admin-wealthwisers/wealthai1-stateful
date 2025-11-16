@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms Flag Travels Private Limited
+Email: flagtravels@hotmail.com
+Secondary Email: None
+Phone: +919810135362
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: AAACF5773E
+Aadhaar Number: 0
+Date of Birth: 2017-07-01
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 1119297445
+Account Name: None
+Bank Name: Central Bank Of India
+IFSC Code: CBIN0280290
+MICR: 110016011
+Account Type: []
+Bank Type: Default
+Annual Income: 90000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: Flag Travel Services Pvt. Ltd
+Company Type: Private Limited
+Department: None
+Date of Incorporation: 2017-07-01
+Place of Incorporation: Delhi
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: NA
+Salutation: Ms
+Tax_Status: Private Limited Company
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-06-06T15:56:20+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Laxmi Nagar Vikas Marg Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Neeraj Arora
+First_Name: Flag Travels
+Contact_Type: Non Individual
+Age: 7
+Address_Line: 212 M S Chamber
+Mother_s_Name: NA
+Last_Name: Private Limited
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000019928001
+Created: 2025-05-12T17:05:52+05:30
+Modified: 2025-06-06T12:37:57+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-06-06T12:37:57+05:30

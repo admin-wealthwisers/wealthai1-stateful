@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Veena Arora
+Email: suarora44@gmail.com
+Secondary Email: None
+Phone: 9312632266
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 522957613353
+Date of Birth: 1981-10-02
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: N-241, DLF Capital Green Moti Nagar, Karam Pura, West Delhi
+City: Delhi
+State: Delhi
+Country: India
+ZIP Code: 110015
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 112801506287
+Account Name: None
+Bank Name: ICICI BANK
+IFSC Code: ICIC0001128
+MICR: None
+Account Type: ['Demat - ICICI', 'Mutual Fund']
+Bank Type: None
+Annual Income: 2900000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: State Bank Of India
+IFSC Code 2: SBIN0003479
+MICR 2: 110002073
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client's Referral
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Service
+Frequency: 4
+$currency_symbol: ₹
+Last_Activity_Time: 2025-09-22T11:38:55+05:30
+Exchange_Rate: 1
+Account_No_21: 30717894127
+$approved: True
+$editable: True
+Reference_Name: Ajay Dua
+Segment_Label: Champion
+First_Name: Veena
+Monetary: 5
+Address_Line: N-241, DLF CAPITAL, GREEN MOTI NAGAR KARAM PURA, WEST DELHI
+Mother_s_Name: Suresh Devi
+Recency: 5
+Last_Name: Arora
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002116076
+Created: 2022-04-20T10:31:24+05:30
+Modified: 2024-10-14T12:44:21+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-10-14T12:44:21+05:30

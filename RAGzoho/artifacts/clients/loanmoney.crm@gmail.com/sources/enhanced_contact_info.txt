@@ -1,0 +1,118 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms CRM LOANMONEY SERVICES PRIVATE LIMITED
+Email: loanmoney.crm@gmail.com
+Secondary Email: None
+Phone: +917669266515
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 977626615867
+Date of Birth: 2018-02-13
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 50200029825915
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000271
+MICR: 110240032
+Account Type: []
+Bank Type: None
+Annual Income: 30000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: CRM Money4Smart
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: NA
+Salutation: Ms
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-05-14T09:50:31+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Plot-No-4, Sector-132, Noida
+$zia_owner_assignment: owner_recommendation_unavailable
+First_Name: CRM LOANMONEY SERVICES
+Age: 7
+Address_Line: Unit-No-520, 5th Floor, Tower-B, Logix Technova
+Mother_s_Name: NA
+Last_Name: PRIVATE LIMITED
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000015715118
+Created: 2025-01-30T15:35:42+05:30
+Modified: 2025-02-19T13:57:17+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-02-19T13:57:17+05:30

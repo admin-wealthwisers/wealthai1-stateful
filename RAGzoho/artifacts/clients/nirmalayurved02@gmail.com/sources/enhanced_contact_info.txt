@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Dr. Prashant Jain
+Email: nirmalayurved02@gmail.com
+Secondary Email: drprashantjain29@gmail.com
+Phone: +919650171211
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 670716357578
+Date of Birth: 1991-04-29
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 135505500691
+Account Name: None
+Bank Name: ICICI BANK LTD
+IFSC Code: ICIC0001355
+MICR: 110229155
+Account Type: []
+Bank Type: Default
+Annual Income: 750000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: Proprietorship
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: https://maps.app.goo.gl/gaDqVfPQrcfgN1xLA?g_st=iw
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Pranav
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Who_can_call: Team Members
+Qualification: BAMS, MD, PhD(S)
+Salutation: Dr.
+Tax_Status: Resident Individual
+Occupation: Professional
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-09-10T17:53:20+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Sabhapur, Shahdara, North East Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Pranav Kakkar
+First_Name: Prashant
+Contact_Type: Individual
+Age: 34
+Address_Line: A-1/5, West Jyoti Nagar Delhi
+Mother_s_Name: Meena Jain
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000019923035
+Created: 2025-05-14T14:00:29+05:30
+Modified: 2025-07-30T16:59:00+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-07-30T16:59:00+05:30

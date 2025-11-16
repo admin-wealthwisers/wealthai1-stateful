@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. V Santosh Kumar
+Email: casantosh08@gmail.com
+Secondary Email: None
+Phone: +44 7827979157
+Mobile: 99455 33004
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 651887699171
+Date of Birth: 1981-06-22
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 403601075108
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0004036
+MICR: 110229299
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: HDFC Bank
+IFSC Code 2: HDFC0001232
+MICR 2: 560240042
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: C.A.
+Salutation: Mr.
+Tax_Status: NRI - NRO
+Occupation: Service
+Last_Review: 2024-04-05
+$currency_symbol: ₹
+Place_of_Birth: Berhampur
+Last_Activity_Time: 2025-11-14T10:10:40+05:30
+Exchange_Rate: 1
+Account_No_21: 12321140000828
+$approved: True
+$editable: True
+Address_Line2: Opp-Krishna Chandra Convention Hall, Jalahalli Cross, North Banglore
+Reference_Name: Friend
+First_Name: V Santosh
+Address_Line: 1310 Pratham Casa serene No.8 subrato, Mukharjee Road
+Mother_s_Name: V Jayalaxmi
+Last_Name: Kumar
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002590038
+Created: 2022-06-27T22:03:09+05:30
+Modified: 2024-04-06T14:03:41+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-04-06T14:03:41+05:30

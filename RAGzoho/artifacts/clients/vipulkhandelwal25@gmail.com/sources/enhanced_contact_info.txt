@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Vipul Khandelwal
+Email: vipulkhandelwal25@gmail.com
+Secondary Email: None
+Phone: 918447496480
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 287032534086
+Date of Birth: 1983-12-25
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: Haibatpur
+State: Uttar Pradesh
+Country: India
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 19201538268
+Account Name: None
+Bank Name: ICICI BANK LIMITED
+IFSC Code: ICIC0000192
+MICR: 110229332
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: State Bank Of India
+IFSC Code 2: SBIN0013226
+MICR 2: 243002016
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: Vipul Khandelwal
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: 2023-03-01
+SIP TopUp Amount: 20
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: 2025-05-21T23:49:13+05:30
+Days Visited: 3
+Number of Chats: 0
+Average Time Spent: 37.68 minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Other_Country: India
+Currency: INR
+Who_can_call: Vipul Khandelwal
+First_Visited_URL: https://moneycompound.zohodesk.in/portal/en/home
+Qualification: C.A
+Last_Visited_Time: 2025-06-28T15:49:53+05:30
+Salutation: Mr.
+Record_Image: 897e3e3f44b1d9b8442cc013ac9b3b2e7a0c77955205fe9614824ceb6dbffb5a4ffa6766cadb992b28dda2e716019b2ae7127153b05ce6ce1299a203cdf143c40f5eeed5f0a847554f5a5398daec2edb
+Alive: Yes
+Tax_Status: Resident Individual
+Occupation: BUSINESS
+Frequency: 5
+Last_Review: 2024-09-01
+$currency_symbol: ₹
+Visitor_Score: 100
+Place_of_Birth: Bareilly
+Last_Activity_Time: 2025-11-04T16:28:44+05:30
+Exchange_Rate: 1
+Account_No_21: 30285384588
+$approved: True
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000000668006
+Created: 2021-09-22T16:16:39+05:30
+Modified: 2025-10-13T17:25:01+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-10-13T17:25:01+05:30

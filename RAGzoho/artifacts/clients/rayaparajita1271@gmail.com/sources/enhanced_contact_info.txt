@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Aparajita Ray
+Email: rayaparajita1271@gmail.com
+Secondary Email: None
+Phone: +919868064654
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 720666441346
+Date of Birth: 1971-12-01
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 1956101002092
+Account Name: None
+Bank Name: CANARA BANK
+IFSC Code: CNRB0001956
+MICR: 110015098
+Account Type: []
+Bank Type: None
+Annual Income: 1400000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: BFA
+Salutation: Ms.
+Email_Opt_Out: True
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: Kolkata
+Last_Activity_Time: 2024-01-04T13:48:16+05:30
+Unsubscribed_Mode: Zoho campaigns
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: CHILLA SARODA KHADAR,PATPARGANJ, East Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Anjan Roy
+First_Name: Aparajita
+Address_Line: 126 D, POCKET B MAYUR VIHAR PHASE - 2
+Unsubscribed_Time: 2023-08-01T11:38:44+05:30
+Mother_s_Name: Aloka Roy
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005181122
+Created: 2023-05-25T15:12:36+05:30
+Modified: 2024-01-04T13:48:16+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-01-04T13:48:16+05:30

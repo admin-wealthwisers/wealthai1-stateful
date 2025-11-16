@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Jaishri Modi
+Email: MANYAMODI07@GMAIL.COM
+Secondary Email: None
+Phone: 919214404170
+Mobile: +919214404170
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 417856001455
+Date of Birth: 1977-06-17
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10631797026
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0011601
+MICR: 302002042
+Account Type: []
+Bank Type: None
+Annual Income: 1800000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: State Bank Of India
+IFSC Code 2: SBIN0011601
+MICR 2: 302002042
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category B']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: BSC
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Service
+$currency_symbol: ₹
+Place_of_Birth: BIKANER
+Last_Activity_Time: 2025-09-04T12:35:04+05:30
+Exchange_Rate: 1
+Account_No_21: 31424420548
+$approved: True
+$editable: True
+Address_Line2: Jaipur-302001 Jaipur
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Ravi Kant Modi
+First_Name: Jaishri
+Age: 47
+Address_Line: B-15 Vaishali Nagar Kanu Marg Jaipur
+Mother_s_Name: Mohini Devi
+Last_Name: Modi
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005165006
+Created: 2023-04-03T15:34:04+05:30
+Modified: 2025-01-30T17:17:38+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-01-30T17:17:38+05:30

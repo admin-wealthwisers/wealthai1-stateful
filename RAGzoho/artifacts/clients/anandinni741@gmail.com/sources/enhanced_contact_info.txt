@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Pooja Sehgal
+Email: anandinni741@gmail.com
+Secondary Email: None
+Phone: +919999165450
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 968887498226
+Date of Birth: 1974-04-27
+Anniversary Date: 1996-12-12
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 48801506514
+Account Name: None
+Bank Name: ICICI Bank
+IFSC Code: ICIC0000488
+MICR: 110229065
+Account Type: []
+Bank Type: Default
+Annual Income: 400000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Partner Non Marketing
+Lead Source Name: Pranav
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Bsc bed
+Salutation: Mrs.
+Tax_Status: Resident Individual
+Occupation: Others
+$currency_symbol: ₹
+Place_of_Birth: Moradabad
+Last_Activity_Time: 2025-09-17T09:47:01+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: PO: Rohini Sector -7, North West Delhi
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Pranav Kakkar
+First_Name: Pooja
+Contact_Type: Individual
+Age: 50
+Address_Line: B1/8, Ganga Triveni Apartment Sector -9 Rohini
+Mother_s_Name: Indu Mehta
+Last_Name: Sehgal
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000018251011
+Created: 2025-03-21T23:27:22+05:30
+Modified: 2025-03-22T15:37:22+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-03-22T15:37:22+05:30

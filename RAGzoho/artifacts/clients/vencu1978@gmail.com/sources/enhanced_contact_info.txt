@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Vakkalagadda Venkateswara Rao
+Email: vencu1978@gmail.com
+Secondary Email: None
+Phone: +917752026957
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 246917058701
+Date of Birth: 1978-05-18
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10728800654
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0004399
+MICR: 766002524
+Account Type: []
+Bank Type: None
+Annual Income: 6000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MBA
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Private Sector
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: Guntur
+Last_Activity_Time: 2025-11-07T16:49:53+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Guntur
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Lava Vidanta
+First_Name: Vakkalagadda
+Monetary: 4
+Address_Line: 28-10-378, 6/20 Brodipet
+Mother_s_Name: Vijaya lakshmi
+Recency: 3
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000012037007
+Created: 2024-09-08T12:30:42+05:30
+Modified: 2024-09-09T16:23:54+05:30
+Owner: Vipul Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-09-09T16:23:54+05:30

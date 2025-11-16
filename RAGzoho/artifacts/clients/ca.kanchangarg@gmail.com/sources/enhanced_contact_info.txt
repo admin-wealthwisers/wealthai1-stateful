@@ -1,0 +1,113 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mrs. Kanchan Garg
+Email: ca.kanchangarg@gmail.com
+Secondary Email: None
+Phone: +919599044013
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 986656998044
+Date of Birth: 1987-09-13
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 20911140000910
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0002091
+MICR: 110240239
+Account Type: ['Mutual Fund', 'Life Insurance']
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Salutation: Mrs.
+$currency_symbol: ₹
+Place_of_Birth: DELHI
+Last_Activity_Time: 2025-07-01T15:19:39+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Patel Nagar S.O Central Delhi
+Reference_Name: Varun Sir Wife
+First_Name: Kanchan
+Address_Line: Block -29 House No-77 ,2ND Floor west Patel Nagar
+Last_Name: Garg
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000002527014
+Created: 2022-06-20T10:49:35+05:30
+Modified: 2024-06-17T14:14:27+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2024-06-17T14:14:27+05:30

@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Aman Palta
+Email: aman@universalcomputers.biz
+Secondary Email: None
+Phone: 919811014232
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 952918566169
+Date of Birth: 1974-08-02
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 13741000001250
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0001374
+MICR: 110240157
+Account Type: []
+Bank Type: None
+Annual Income: 1000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: Kotak Mahindra Bank
+IFSC Code 2: KKBK0000201
+MICR 2: 110485029
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category C']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: https://maps.app.goo.gl/P1PBT79iUFTSvRzp8
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: BNI Member
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: MBA
+Salutation: Mr.
+Tax_Status: Resident Individual
+Occupation: Business
+$currency_symbol: ₹
+Place_of_Birth: New Delhi
+Last_Activity_Time: 2025-09-03T10:19:41+05:30
+Exchange_Rate: 1
+Account_No_21: 2112023755
+$approved: True
+$editable: True
+Address_Line2: Kalka Ji Extension Aali South Delhi
+Reference_Name: BNI Member
+First_Name: Aman
+Age: 50
+Address_Line: 18 C Gomti Apartment Pocket A-9
+Mother_s_Name: Vijay Palta
+Last_Name: Palta
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000000829003
+Created: 2021-10-13T13:47:06+05:30
+Modified: 2025-06-06T13:15:14+05:30
+Owner: Sarika  Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-06-06T13:15:14+05:30

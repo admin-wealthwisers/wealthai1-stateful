@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Mr. Deepak KHANNA
+Email: deepakkhanna9@gmail.com
+Secondary Email: None
+Phone: 9650765514
+Mobile: +971 50 8468802
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 806610935150
+Date of Birth: 1964-11-09
+Anniversary Date: 1990-12-08
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: UNITED ARAB EMIRATES
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 10508147636
+Account Name: None
+Bank Name: State Bank Of India
+IFSC Code: SBIN0008655
+MICR: 110002174
+Account Type: []
+Bank Type: Default
+Annual Income: 5000000
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Client Referal
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Address_Line_1: TB-1505 Plot No. 630, AL NAHDA
+Address_Line_2: Sharjah Main City, Industrial Area
+Qualification: Post Graduation
+Country: UAE
+Salutation: Mr.
+Tax_Status: NRI - NRE
+Occupation: Service
+Frequency: 2
+$currency_symbol: ₹
+Place_of_Birth: New Delhi
+Last_Activity_Time: 2025-11-14T12:23:26+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+City: Sharjah Main City
+Address_Line2: Kavi Nagar Ghaziabad
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Mohit Sharma
+First_Name: Deepak
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000018724001
+Created: 2025-04-04T10:09:08+05:30
+Modified: 2025-10-11T00:40:23+05:30
+Owner: Sarika Tiwari
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-10-11T00:40:23+05:30

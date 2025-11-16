@@ -1,0 +1,116 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Kshiti Bhashit Dholakia
+Email: dholakia.kshiti18@gmail.com
+Secondary Email: None
+Phone: +919873000550
+Mobile: +919873561505
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 489086219957
+Date of Birth: 2002-04-18
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 7281460001911
+Account Name: None
+Bank Name: HDFC Bank
+IFSC Code: HDFC0000728
+MICR: 110240113
+Account Type: []
+Bank Type: None
+Annual Income: None
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: ['Category A']
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: 12th
+Salutation: Ms.
+Occupation: Student
+$currency_symbol: ₹
+Last_Activity_Time: 2025-10-30T17:20:42+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: Sector-61, Noida Gautam Buddha Nagar, U.P
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Bhashit Dholakia
+First_Name: Kshiti Bhashit
+Age: 23
+Address_Line: B- 1010, Prateek Fedora
+Last_Name: Dholakia
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000004701001
+Created: 2023-03-29T15:58:44+05:30
+Modified: 2025-10-29T10:51:30+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-10-29T10:51:30+05:30

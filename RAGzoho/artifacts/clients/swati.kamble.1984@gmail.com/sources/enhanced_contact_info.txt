@@ -1,0 +1,119 @@
+Enhanced Client Information
+============================
+
+BASIC CONTACT DETAILS
+---------------------
+Name: Ms. Swati Kamble
+Email: swati.kamble.1984@gmail.com
+Secondary Email: None
+Phone: +918826508684
+Mobile: None
+
+IDENTITY & VERIFICATION
+-----------------------
+PAN Number: None
+Aadhaar Number: 824536868583
+Date of Birth: 1993-03-01
+Anniversary Date: None
+
+MAILING ADDRESS
+--------------
+Street: None
+City: None
+State: None
+Country: None
+ZIP Code: None
+
+PRIMARY BANK ACCOUNT
+-------------------
+Account Number: 897848175
+Account Name: None
+Bank Name: INDIAN BANK
+IFSC Code: IDIB000C080
+MICR: 600019988
+Account Type: []
+Bank Type: None
+Annual Income: 869920
+
+SECONDARY BANK ACCOUNT
+---------------------
+Account Number 2: None
+Bank Name 2: None
+IFSC Code 2: None
+MICR 2: None
+Annual Income HUF: None
+
+BUSINESS INFORMATION
+-------------------
+Company Name: None
+Company Type: None
+Department: None
+Date of Incorporation: None
+Place of Incorporation: None
+Assigned RM: None
+Category of Client: []
+
+ASSETS & INVESTMENTS
+-------------------
+AUM (Assets Under Management): None Lakhs
+Office Location: None
+
+SIP & MUTUAL FUND INFORMATION
+-----------------------------
+SIP TopUp Date: None
+SIP TopUp Amount: None
+SIP Alarm Date: None
+
+LEAD & SALES INFORMATION
+-----------------------
+Lead Source: Own Client
+Lead Source Name: None
+
+ENGAGEMENT & ACTIVITY
+--------------------
+First Visit Time: None
+Days Visited: None
+Number of Chats: None
+Average Time Spent: None minutes
+Communication Address: None
+
+PAYMENT & PREFERENCES
+--------------------
+UPI ID: None
+Best Time to Call: None
+Feedback Remarks: None
+
+ADDITIONAL FIELDS
+----------------
+Currency: INR
+Qualification: Graduate
+Salutation: Ms.
+Tax_Status: Resident Individual
+Occupation: OTHERS
+$currency_symbol: ₹
+Place_of_Birth: Delhi
+Last_Activity_Time: 2025-03-29T13:49:36+05:30
+Exchange_Rate: 1
+$approved: True
+$editable: True
+Address_Line2: S.O, NORTH WEST DELHI
+$zia_owner_assignment: owner_recommendation_unavailable
+Reference_Name: Varsha Kamble
+First_Name: Swati
+Age: 32
+Address_Line: 72- B.R.B.I, COLONY, SHALIMAR BAGH
+Mother_s_Name: Prabhawati Kamble
+Last_Name: Kamble
+$approval_state: approved
+
+TECHNICAL DETAILS
+----------------
+Contact ID: 209771000005056022
+Created: 2023-05-10T12:01:27+05:30
+Modified: 2025-03-29T13:49:33+05:30
+Owner: Shruti Khandelwal
+
+Additional Notes:
+- This enhanced data was extracted from Zoho CRM
+- Includes business, financial, and investment information
+- Last updated: 2025-03-29T13:49:33+05:30
