@@ -1,1 +1,38 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# RAG artifacts
+RAGexcels/artifacts/
+RAGngen/artifacts/
+RAGzoho/artifacts/
+
+# Logs
+*.log
+
 .env
