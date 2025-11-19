@@ -101,7 +101,7 @@ Reference_Name: BNI Member
 First_Name: Mayank
 Monetary: 3
 Address_Line: 38, Avas Vikas Colony
-Recency: 5
+Recency: 4
 Last_Name: Mishra
 $approval_state: approved
 

@@ -1,24 +1,3 @@
-#!/usr/bin/env python3
-"""
-Complete RAG Pipeline with Automated OAuth Token Generation.
-
-This script handles:
-1. Automated OAuth token generation using Playwright
-2. Fetching client data from Zoho CRM
-3. Creating chunks from the data
-4. Generating embeddings and indexing
-5. Scheduled daily execution at 10 PM (cross-platform)
-
-Usage:
-    python rag.py                    # Run full pipeline (token generation + fetch + chunk + index)
-    python rag.py --skip-token       # Skip token generation (use existing tokens)
-    python rag.py --skip-fetch       # Skip data fetching
-    python rag.py --skip-chunk       # Skip chunking
-    python rag.py --skip-index       # Skip indexing
-    python rag.py --scheduler        # Run as scheduled service (daily at 10 PM)
-    python rag.py --scheduler --schedule-time 23:00  # Custom schedule time (24-hour format)
-"""
-
 import argparse
 import asyncio
 import json
@@ -34,10 +13,8 @@ from typing import Dict, Iterable, List, Optional
 from urllib.parse import parse_qs, urlparse
 
 import numpy as np
-import pandas as pd
 import requests
 from dotenv import load_dotenv
-from pypdf import PdfReader
 
 load_dotenv()
 
@@ -57,11 +34,14 @@ ZOHO_PASSWORD = "Time@321"
 # OAuth URLs
 AUTH_URL = (
     "https://accounts.zoho.in/oauth/v2/auth?"
-    "scope=ZohoCRM.modules.contacts.READ,"
-    "ZohoCRM.modules.accounts.READ,"
-    "ZohoCRM.settings.related_lists.READ,"
+    "scope=ZohoCRM.modules.ALL,"
+    "ZohoCRM.settings.ALL,"
+    "ZohoCRM.coql.READ,"
+    "ZohoCRM.bulk.READ,"
+    "ZohoCRM.bulk.WRITE,"
     "ZohoCRM.Files.READ,"
-    "ZohoCRM.bulk.read&"
+    "ZohoCRM.org.READ,"
+    "ZohoCRM.users.READ&"
     f"client_id={CLIENT_ID}&"
     "response_type=code&"
     "access_type=offline&"
@@ -83,21 +63,45 @@ ARTIFACTS_ROOT = Path("artifacts/clients")
 MANIFEST_PATH = Path("clients_manifest.json")
 
 # Chunking parameters
-TARGET_TOKENS = 600
-MAX_TOKENS = 900
-MIN_TOKENS = 180
-OVERLAP_TOKENS = 100
+TARGET_TOKENS = 800
+OVERLAP_TOKENS = 200
 
 # Zoho OAuth + API settings
 API_DOMAIN = os.getenv("ZOHO_API_DOMAIN", "https://www.zohoapis.in")
 ACCOUNTS_DOMAIN = os.getenv("ZOHO_ACCOUNTS_DOMAIN", "https://accounts.zoho.in")
 
-# Tokens (will be updated by OAuth automation)
-ACCESS_TOKEN = "1000.128a388e8d2b34fa523d0f486cbfe027.81c3591573fbc2faf67d8734db850e47"
-REFRESH_TOKEN = "1000.fcef8fe0527f81ebcb667dfc5be03aa0.7e887f80adc60b62f57dbed2be500011"
+# Token storage
+TOKENS_PATH = Path("tokens.json")
 
-# OpenAI configuration
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+def load_tokens() -> Dict[str, str]:
+    """Load access/refresh tokens from local json storage."""
+    if TOKENS_PATH.exists():
+        try:
+            data = json.loads(TOKENS_PATH.read_text(encoding="utf-8"))
+            if isinstance(data, dict):
+                return {
+                    "access_token": data.get("access_token", "") or "",
+                    "refresh_token": data.get("refresh_token", "") or "",
+                }
+        except Exception:
+            pass
+    return {"access_token": "", "refresh_token": ""}
+
+
+def save_tokens(access_token: Optional[str] = None, refresh_token: Optional[str] = None) -> None:
+    """Persist tokens to local json storage."""
+    data = load_tokens()
+    if access_token is not None and access_token != "":
+        data["access_token"] = access_token
+    if refresh_token is not None and refresh_token != "":
+        data["refresh_token"] = refresh_token
+    TOKENS_PATH.write_text(json.dumps(data, indent=2), encoding="utf-8")
+
+# Google Gemini configuration
+# IMPORTANT: Set GEMINI_API_KEY in environment variable or .env file
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+if GEMINI_API_KEY:
+    GEMINI_API_KEY = GEMINI_API_KEY.strip()
 
 try:
     import tiktoken
@@ -113,16 +117,18 @@ try:
 except Exception:
     FAISS_OK = False
 
-if not OPENAI_API_KEY:
-    print("[WARN] OPENAI_API_KEY missing; embedding/index step will fail without it.")
+if not GEMINI_API_KEY:
+    print("[WARN] GEMINI_API_KEY missing; embedding/index step will fail without it.")
 
 try:
-    from openai import OpenAI
-
-    openai_client = OpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
+    import google.generativeai as genai
+    genai.configure(api_key=GEMINI_API_KEY)
+    gemini_client = genai
+    EMBED_MODEL = "models/text-embedding-004"
 except Exception as exc:
-    print(f"[WARN] Failed to import OpenAI SDK: {exc}")
-    openai_client = None
+    print(f"[WARN] Failed to import Google Generative AI SDK: {exc}")
+    gemini_client = None
+    EMBED_MODEL = None
 
 # ---------------------------------------------------------------------------
 # OAuth Automation Functions
@@ -301,6 +307,72 @@ async def automate_oauth_flow():
 
             except Exception as e:
                 print(f"[WARN] Error during sign-in: {e}")
+
+            # Handle concurrent sessions warning page (click "I Understand")
+            print("[STEP 3.5] Checking for concurrent sessions warning...")
+            try:
+                await page.wait_for_timeout(2000)
+                
+                # Check if we're on the concurrent sessions page
+                page_text = await page.text_content("body") or ""
+                
+                if "concurrent session" in page_text.lower() or "concurrent sessions" in page_text.lower() or "session limit" in page_text.lower():
+                    print("[INFO] Concurrent sessions warning detected. Clicking 'I Understand'...")
+                    
+                    # Try multiple selectors for "I Understand" button
+                    understand_selectors = [
+                        'button:has-text("I Understand")',
+                        'button:has-text("I UNDERSTAND")',
+                        'button:has-text("Understand")',
+                        'a:has-text("I Understand")',
+                        'button[type="button"]:has-text("Understand")',
+                        'button.btn-primary:has-text("Understand")',
+                        'button.primary:has-text("Understand")',
+                        '[role="button"]:has-text("Understand")',
+                        '.btn:has-text("Understand")',
+                        'button[id*="understand"]',
+                        'button[class*="understand"]',
+                    ]
+                    
+                    understood = False
+                    for selector in understand_selectors:
+                        try:
+                            understand_button = page.locator(selector).first
+                            if await understand_button.is_visible(timeout=3000):
+                                await understand_button.click()
+                                print("[OK] Clicked 'I Understand' on concurrent sessions page")
+                                understood = True
+                                await page.wait_for_timeout(2000)
+                                break
+                        except Exception:
+                            continue
+                    
+                    if not understood:
+                        # Try finding by text content and clicking parent button
+                        try:
+                            understand_text = page.locator('text="I Understand"').first
+                            if await understand_text.is_visible(timeout=3000):
+                                # Try to find parent button element
+                                parent_button = understand_text.locator('..').first
+                                if await parent_button.is_visible(timeout=2000):
+                                    await parent_button.click()
+                                    print("[OK] Clicked 'I Understand' (via text parent)")
+                                    understood = True
+                                    await page.wait_for_timeout(2000)
+                        except Exception:
+                            pass
+                    
+                    if understood:
+                        print("[OK] Proceeding past concurrent sessions warning...")
+                        await page.wait_for_timeout(2000)
+                    else:
+                        print("[WARN] Could not find 'I Understand' button. Continuing anyway...")
+                        await page.wait_for_timeout(2000)
+                else:
+                    print("[INFO] No concurrent sessions warning detected. Continuing...")
+                    
+            except Exception as e:
+                print(f"[WARN] Error handling concurrent sessions page: {e}")
 
             # Select CRM PRODUCTION
             print("[STEP 4] Looking for CRM PRODUCTION option...")
@@ -546,44 +618,10 @@ def exchange_code_for_tokens(code: str):
         return None, None
 
 
-def update_tokens_in_file(access_token: str, refresh_token: str):
-    """Update tokens in this file - hardcode them directly."""
-    print("\n[STEP 9] Updating tokens in rag.py (hardcoding)...")
-
-    try:
-        script_path = __file__
-        with open(script_path, "r", encoding="utf-8") as f:
-            content = f.read()
-
-        # Update ACCESS_TOKEN
-        access_token_pattern = r'ACCESS_TOKEN = "1000.128a388e8d2b34fa523d0f486cbfe027.81c3591573fbc2faf67d8734db850e47"]*"'
-        new_access_token_line = f'ACCESS_TOKEN = "1000.128a388e8d2b34fa523d0f486cbfe027.81c3591573fbc2faf67d8734db850e47"'
-        content = re.sub(access_token_pattern, new_access_token_line, content)
-
-        # Update REFRESH_TOKEN
-        if refresh_token:
-            refresh_token_pattern = r'REFRESH_TOKEN = "1000.fcef8fe0527f81ebcb667dfc5be03aa0.7e887f80adc60b62f57dbed2be500011"]*"'
-            new_refresh_token_line = f'REFRESH_TOKEN = "1000.fcef8fe0527f81ebcb667dfc5be03aa0.7e887f80adc60b62f57dbed2be500011"'
-            content = re.sub(refresh_token_pattern, new_refresh_token_line, content)
-        else:
-            print("[WARN] No refresh_token to hardcode")
-
-        with open(script_path, "w", encoding="utf-8") as f:
-            f.write(content)
-
-        # Update global variables
-        global ACCESS_TOKEN, REFRESH_TOKEN
-        ACCESS_TOKEN = access_token
-        if refresh_token:
-            REFRESH_TOKEN = refresh_token
-
-        print("[OK] Tokens hardcoded in rag.py successfully!")
-
-    except Exception as e:
-        print(f"[ERROR] Failed to update rag.py: {e}")
-        import traceback
-
-        traceback.print_exc()
+def save_tokens_after_exchange(access_token: str, refresh_token: Optional[str]) -> None:
+    """Persist newly obtained tokens to local storage."""
+    print("\n[STEP 9] Saving tokens to tokens.json ...")
+    save_tokens(access_token=access_token, refresh_token=refresh_token or None)
 
 
 async def generate_tokens():
@@ -612,7 +650,7 @@ async def generate_tokens():
             print("\n[ERROR] Failed to obtain tokens.")
             return None, None
 
-        update_tokens_in_file(access_token, refresh_token or "")
+        save_tokens_after_exchange(access_token, refresh_token or "")
 
         print("\n" + "=" * 80)
         print("[SUCCESS] Token generation complete!")
@@ -655,15 +693,15 @@ def cleanup_old_data() -> None:
 
 def refresh_access_token() -> Optional[str]:
     """Refresh Zoho access token."""
-    global ACCESS_TOKEN
-
-    if not (REFRESH_TOKEN and CLIENT_ID and CLIENT_SECRET):
+    tokens = load_tokens()
+    refresh_token = tokens.get("refresh_token", "")
+    if not (refresh_token and CLIENT_ID and CLIENT_SECRET):
         print("[WARN] Missing refresh credentials; cannot auto-refresh access token.")
         return None
 
     token_url = f"{ACCOUNTS_DOMAIN}/oauth/v2/token"
     payload = {
-        "refresh_token": REFRESH_TOKEN,
+        "refresh_token": refresh_token,
         "client_id": CLIENT_ID,
         "client_secret": CLIENT_SECRET,
         "grant_type": "refresh_token",
@@ -682,7 +720,7 @@ def refresh_access_token() -> Optional[str]:
     data = response.json()
     new_token = data.get("access_token")
     if new_token:
-        ACCESS_TOKEN = new_token
+        save_tokens(access_token=new_token)
         print("[OK] Refreshed Zoho access token.")
     else:
         print(f"[ERROR] Refresh response missing access_token: {data}")
@@ -691,10 +729,9 @@ def refresh_access_token() -> Optional[str]:
 
 def fetch_all_contacts() -> List[dict]:
     """Fetch all contacts from Zoho CRM."""
-    global ACCESS_TOKEN
-
     url = f"{API_DOMAIN}/crm/v2/Contacts"
-    headers = {"Authorization": f"Zoho-oauthtoken {ACCESS_TOKEN}"}
+    tokens = load_tokens()
+    headers = {"Authorization": f"Zoho-oauthtoken {tokens.get('access_token','')}"}
 
     all_contacts: List[dict] = []
     page = 1
@@ -709,7 +746,7 @@ def fetch_all_contacts() -> List[dict]:
             if response.status_code in (401, 403):
                 new_token = refresh_access_token()
                 if new_token:
-                    headers["Authorization"] = f"Zoho-oauthtoken {ACCESS_TOKEN}"
+                    headers["Authorization"] = f"Zoho-oauthtoken {new_token}"
                     print("[INFO] Retrying contact fetch with refreshed token...")
                     continue
             break
@@ -914,6 +951,281 @@ Additional Notes:
     return content
 
 
+def fetch_related_records(contact_id: str, related_module: str = "Deals") -> List[dict]:
+    """Fetch related records (like Deals, Portfolios, etc.) for a contact."""
+    tokens = load_tokens()
+    headers = {"Authorization": f"Zoho-oauthtoken {tokens.get('access_token','')}"}
+    
+    # Try different API endpoints for related records
+    urls = [
+        f"{API_DOMAIN}/crm/v2/Contacts/{contact_id}/{related_module}",  # Standard related list
+        f"{API_DOMAIN}/crm/v2/{related_module}",  # Direct module with contact filter
+    ]
+    
+    for url in urls:
+        try:
+            response = requests.get(url, headers=headers, timeout=30)
+            if response.status_code == 200:
+                data = response.json()
+                records = data.get("data", [])
+                if records:
+                    # Filter records related to this contact
+                    filtered = []
+                    for record in records:
+                        # Check if record has contact reference
+                        owner = record.get("Owner", {})
+                        if isinstance(owner, dict):
+                            owner_id = owner.get("id", "")
+                        else:
+                            owner_id = str(owner)
+                        
+                        # Include if contact is owner or if record has Contact_Name/Contact linking
+                        if (owner_id == contact_id or 
+                            contact_id in str(record.get("Contact_Name", "")) or
+                            contact_id in str(record.get("Contact", ""))):
+                            filtered.append(record)
+                    
+                    # If we have any records, return them (even if not filtered perfectly)
+                    return filtered if filtered else records
+            elif response.status_code in (401, 403):
+                new_token = refresh_access_token()
+                if new_token:
+                    headers["Authorization"] = f"Zoho-oauthtoken {new_token}"
+                    continue
+            elif response.status_code == 404:
+                # Module doesn't exist or wrong endpoint, try next
+                continue
+        except Exception as e:
+            # Silently continue to next URL or method
+            continue
+    
+    # Try fetching with COQL (Zoho Query Language) if available
+    try:
+        coql_url = f"{API_DOMAIN}/crm/v2/coql"
+        query = f"select * from {related_module} where Contact_Name.id = {contact_id} limit 10"
+        payload = {"select_query": query}
+        response = requests.post(coql_url, headers=headers, json=payload, timeout=30)
+        if response.status_code == 200:
+            data = response.json()
+            return data.get("data", [])
+    except Exception:
+        pass
+    
+    return []
+
+
+def fetch_portfolio_data(contact: dict) -> str:
+    """Fetch and format portfolio-related data for a contact."""
+    contact_id = contact.get("id")
+    if not contact_id:
+        return ""
+    
+    portfolio_sections = []
+    
+    # Fetch Deals (often contain investment/portfolio information)
+    deals = fetch_related_records(contact_id, "Deals")
+    if deals:
+        portfolio_sections.append("=== DEALS / INVESTMENT DEALS ===")
+        portfolio_sections.append("These deals may contain investment, portfolio, or financial product information.\n")
+        
+        for deal in deals[:10]:  # Limit to first 10 deals
+            deal_name = deal.get("Deal_Name", "")
+            amount = deal.get("Amount", deal.get("Deal_Amount", ""))
+            stage = deal.get("Stage", "")
+            closing_date = deal.get("Closing_Date", "")
+            description = deal.get("Description", "")
+            
+            # Skip deals with no meaningful data
+            if not any([deal_name, amount, stage, closing_date, description]):
+                continue
+            
+            deal_info = ""
+            if deal_name:
+                deal_info += f"Deal Name: {deal_name}\n"
+            if amount and str(amount).strip() and str(amount).lower() not in ["none", "n/a", ""]:
+                deal_info += f"Amount: {amount}\n"
+            if stage:
+                deal_info += f"Stage: {stage}\n"
+            if closing_date:
+                deal_info += f"Closing Date: {closing_date}\n"
+            if description and str(description).strip():
+                deal_info += f"Description: {description[:300]}\n"
+            
+            # Include ALL deal fields that have values (to capture any portfolio data)
+            excluded_keys = {"Deal_Name", "Amount", "Deal_Amount", "Stage", "Closing_Date", "Description", "id", "Owner", "Created_Time", "Modified_Time"}
+            deal_fields = []
+            for key, value in deal.items():
+                if key not in excluded_keys:
+                    if value is not None and str(value).strip() and str(value).lower() not in ["none", "n/a", "", "[]"]:
+                        if not isinstance(value, (dict, list)):
+                            deal_fields.append(f"{key}: {value}")
+            
+            if deal_fields:
+                deal_info += "\nAdditional Deal Information:\n"
+                deal_info += "\n".join(f"  {field}" for field in deal_fields)
+            
+            if deal_info.strip():
+                portfolio_sections.append(deal_info.strip())
+                portfolio_sections.append("")  # Empty line between deals
+    
+    # Try to fetch Products (investment products) - but filter out catalog items
+    products = fetch_related_records(contact_id, "Products")
+    if products:
+        # Filter products - only include those with actual client data (quantities, holdings, investments)
+        actual_holdings = []
+        for product in products:
+            product_name = product.get("Product_Name", "")
+            quantity = product.get("Quantity", product.get("Holding_Quantity", product.get("Units", "")))
+            list_price = product.get("List_Price", product.get("Unit_Price", product.get("Current_Price", "")))
+            total_value = product.get("Total", product.get("Total_Value", product.get("Investment_Amount", "")))
+            
+            # Skip generic catalog items - only include if there's actual client investment data
+            has_holding_data = (
+                (quantity and str(quantity).strip().lower() not in ["none", "n/a", "", "0"]) or
+                (total_value and str(total_value).strip().lower() not in ["none", "n/a", ""]) or
+                any(key.lower() in ["holding", "investment", "folio", "units", "quantity", "purchase_price", "current_value"] 
+                    for key, val in product.items() 
+                    if val and str(val).strip().lower() not in ["none", "n/a", "", "[]"])
+            )
+            
+            if has_holding_data:
+                actual_holdings.append(product)
+        
+        if actual_holdings:
+            portfolio_sections.append("\n=== INVESTMENT PRODUCTS / HOLDINGS ===")
+            portfolio_sections.append("Client's actual investment holdings and products.\n")
+            
+            for product in actual_holdings[:15]:  # Limit to first 15 actual holdings
+                product_name = product.get("Product_Name", "")
+                quantity = product.get("Quantity", product.get("Holding_Quantity", product.get("Units", "")))
+                list_price = product.get("List_Price", product.get("Unit_Price", product.get("Current_Price", "")))
+                total_value = product.get("Total", product.get("Total_Value", product.get("Investment_Amount", "")))
+                
+                product_info = ""
+                if product_name:
+                    product_info += f"Product/Investment: {product_name}\n"
+                if quantity and str(quantity).strip().lower() not in ["none", "n/a", ""]:
+                    product_info += f"  Quantity/Units: {quantity}\n"
+                if list_price and str(list_price).strip().lower() not in ["none", "n/a", ""]:
+                    product_info += f"  Price per Unit: {list_price}\n"
+                if total_value and str(total_value).strip().lower() not in ["none", "n/a", ""]:
+                    product_info += f"  Total Value: {total_value}\n"
+                
+                # Include ALL product fields with values (to capture portfolio details)
+                excluded_keys = {"Product_Name", "Quantity", "Holding_Quantity", "Units", "List_Price", "Unit_Price", "Current_Price", "Total", "Total_Value", "Investment_Amount", "id", "Owner", "Created_Time", "Modified_Time"}
+                product_fields = []
+                for key, value in product.items():
+                    if key not in excluded_keys:
+                        if value is not None and str(value).strip() and str(value).lower() not in ["none", "n/a", "", "[]"]:
+                            if not isinstance(value, (dict, list)):
+                                product_fields.append(f"{key}: {value}")
+                
+                if product_fields:
+                    product_info += "\nAdditional Product Information:\n"
+                    product_info += "\n".join(f"  {field}" for field in product_fields)
+                
+                if product_info.strip():
+                    portfolio_sections.append(product_info.strip())
+                    portfolio_sections.append("")  # Empty line between products
+    
+    # Try fetching from custom modules that might contain portfolio data
+    # Common module names for portfolios
+    portfolio_modules = ["Portfolios", "Investments", "Holdings", "Portfolio_Details", "Investment_Details"]
+    for module_name in portfolio_modules:
+        records = fetch_related_records(contact_id, module_name)
+        if records:
+            portfolio_sections.append(f"\n=== {module_name.upper()} ===")
+            for record in records[:10]:
+                record_info = ""
+                for key, value in record.items():
+                    if value and str(value).strip() and not isinstance(value, (dict, list)):
+                        if key != "id":
+                            record_info += f"{key}: {value}\n"
+                if record_info:
+                    portfolio_sections.append(record_info)
+    
+    # Extract portfolio-related fields directly from contact
+    portfolio_fields = []
+    portfolio_keywords = ["portfolio", "investment", "fund", "sip", "mutual", "stock", "equity", 
+                          "debt", "asset", "holding", "aum", "allocation", "allocation_percentage",
+                          "invest", "securities", "bonds", "commodity", "etf", "ulip", "pms"]
+    
+    # Check for AUM first (most important portfolio metric)
+    aum = contact.get("AUM_Rs_Lakhs") or contact.get("AUM") or contact.get("Assets_Under_Management") or contact.get("Total_AUM")
+    if aum and str(aum).strip().lower() not in ["none", "n/a", "", "null", "[]"]:
+        portfolio_fields.append(f"Total Portfolio Value (AUM): {aum} Lakhs")
+    
+    # Check for SIP information
+    sip_date = contact.get("SIP_TopUp_Date") or contact.get("SIP_Date")
+    sip_amount = contact.get("SIP_TopUp") or contact.get("SIP_Amount") or contact.get("SIP_Investment_Amount")
+    sip_alarm = contact.get("SIP_Alarm_date") or contact.get("SIP_Alarm_Date")
+    
+    if (sip_date and str(sip_date).strip().lower() not in ["none", "n/a", "", "null"]) or \
+       (sip_amount and str(sip_amount).strip().lower() not in ["none", "n/a", "", "null"]):
+        sip_info = "SIP (Systematic Investment Plan) Details:\n"
+        if sip_date and str(sip_date).strip().lower() not in ["none", "n/a", "", "null"]:
+            sip_info += f"  Top-Up Date: {sip_date}\n"
+        if sip_amount and str(sip_amount).strip().lower() not in ["none", "n/a", "", "null"]:
+            sip_info += f"  Top-Up Amount: {sip_amount}\n"
+        if sip_alarm and str(sip_alarm).strip().lower() not in ["none", "n/a", "", "null"]:
+            sip_info += f"  Alarm Date: {sip_alarm}\n"
+        portfolio_fields.append(sip_info.strip())
+    
+    # Extract all portfolio-related fields from contact
+    for key, value in contact.items():
+        if value is not None and str(value).strip() and not isinstance(value, (dict, list)):
+            value_str = str(value).strip().lower()
+            if value_str not in ["none", "n/a", "", "null", "[]"]:
+                key_lower = key.lower()
+                if any(keyword in key_lower for keyword in portfolio_keywords):
+                    portfolio_fields.append(f"{key}: {value}")
+    
+    if portfolio_fields:
+        portfolio_header = "=== PORTFOLIO INFORMATION FROM CONTACT ===\n"
+        portfolio_header += "This section contains portfolio and investment data directly from the contact record.\n\n"
+        portfolio_sections.insert(0, portfolio_header + "\n".join(portfolio_fields))
+    
+    # Clean up empty sections and check if we have meaningful data
+    portfolio_sections = [s for s in portfolio_sections if s and s.strip()]
+    
+    # Check if we actually have meaningful portfolio data (not just headers)
+    has_meaningful_data = False
+    if portfolio_fields:  # If we found portfolio fields in contact
+        has_meaningful_data = True
+    
+    # Check if deals or products sections have actual data
+    portfolio_text = "\n".join(portfolio_sections)
+    if "Deal Name:" in portfolio_text or "Product/Investment:" in portfolio_text:
+        has_meaningful_data = True
+    
+    # If no meaningful portfolio data found, add helpful message
+    if not has_meaningful_data and portfolio_sections:
+        portfolio_sections.insert(0, "=== PORTFOLIO INFORMATION ===\n")
+        portfolio_sections.append(
+            "\nNOTE: The deals and products shown above may not contain portfolio/investment data.\n"
+            "If portfolio information is missing:\n"
+            "- Portfolio data may be stored in custom modules (Portfolios, Investments, Holdings)\n"
+            "- Portfolio fields (AUM_Rs_Lakhs, SIP_TopUp, etc.) may be empty in contact records\n"
+            "- Investment data may be in related records that aren't properly linked"
+        )
+    elif not portfolio_sections:
+        portfolio_sections = [
+            "=== PORTFOLIO INFORMATION ===\n",
+            "IMPORTANT: No portfolio data found in Zoho CRM for this contact.\n",
+            "This could mean:\n",
+            "1. Portfolio data is stored in custom modules (Portfolios, Investments, Holdings, etc.)\n",
+            "2. Portfolio information is in related Deals or Products that haven't been linked\n",
+            "3. Portfolio fields (AUM, SIP details, etc.) are empty in the contact record\n",
+            "4. Portfolio data may need to be fetched using different API endpoints\n\n",
+            "To access portfolio data:\n",
+            "- Check if custom portfolio modules exist in your Zoho CRM\n",
+            "- Verify that deals/products are properly linked to contacts\n",
+            "- Ensure portfolio-related fields (AUM_Rs_Lakhs, SIP_TopUp, etc.) are populated in contact records"
+        ]
+    
+    return "\n".join(portfolio_sections) if portfolio_sections else ""
+
+
 def run_fetch_step() -> None:
     """Perform Zoho extraction and manifest generation."""
     print("=" * 80)
@@ -946,11 +1258,20 @@ def run_fetch_step() -> None:
         sources_dir = client_dir / "sources"
         sources_dir.mkdir(parents=True, exist_ok=True)
 
+        # Create enhanced contact file
         content = create_enhanced_contact_file(contact, email)
         contact_file = sources_dir / "enhanced_contact_info.txt"
         contact_file.write_text(content, encoding="utf-8")
-
         manifest[email] = [str(contact_file)]
+
+        # Fetch and add portfolio data
+        portfolio_data = fetch_portfolio_data(contact)
+        if portfolio_data:
+            portfolio_file = sources_dir / "portfolio_information.txt"
+            portfolio_file.write_text(portfolio_data, encoding="utf-8")
+            manifest[email].append(str(portfolio_file))
+            if idx % 50 == 0:
+                print(f"  [Portfolio] Found portfolio data for {email}")
 
         if idx % 50 == 0 or idx == len(valid_contacts):
             print(f"[{idx}/{len(valid_contacts)}] Processed: {email}")
@@ -963,33 +1284,6 @@ def run_fetch_step() -> None:
     print("=" * 80)
 
 
-def read_pdf(path: Path) -> str:
-    text_parts: List[str] = []
-    reader = PdfReader(str(path))
-    for page in reader.pages:
-        txt = page.extract_text() or ""
-        text_parts.append(txt)
-    return "\n".join(text_parts).strip()
-
-
-def read_excel(path: Path) -> str:
-    output: List[str] = []
-    xl = pd.read_excel(path, sheet_name=None)
-    for sheet, df in xl.items():
-        if not df.empty:
-            output.append(f"### Sheet: {sheet}")
-            output.append(df.to_csv(index=False))
-    return "\n".join(output)
-
-
-def read_csv(path: Path) -> str:
-    try:
-        df = pd.read_csv(path)
-        return df.to_csv(index=False)
-    except Exception:
-        return path.read_text(errors="ignore")
-
-
 def read_txt(path: Path) -> str:
     return path.read_text(errors="ignore")
 
@@ -997,12 +1291,6 @@ def read_txt(path: Path) -> str:
 def file_to_text(path_str: str) -> str:
     p = Path(path_str)
     ext = p.suffix.lower()
-    if ext == ".pdf":
-        return read_pdf(p)
-    if ext in (".xlsx", ".xls"):
-        return read_excel(p)
-    if ext in (".csv", ".tsv"):
-        return read_csv(p)
     if ext == ".txt":
         return read_txt(p)
     try:
@@ -1011,120 +1299,30 @@ def file_to_text(path_str: str) -> str:
         return ""
 
 
-_SENT_SPLIT = re.compile(r"(?<=[.!?])\s+(?=[A-Z0-9])")
-_PIPE_SPLIT = re.compile(r"\s*\|\s*")
-_PARA_SPLIT = re.compile(r"\n{2,}")
-_MULTISPACE = re.compile(r"\s+")
+def tokenize(text: str) -> List[int]:
+    if ENC is None:
+        return re.findall(r"\S+", text)
+    return ENC.encode(text)
 
 
-def _token_len(text: str) -> int:
-    if not text:
-        return 0
-    if ENC is not None:
-        try:
-            return len(ENC.encode(text))
-        except Exception:
-            pass
-    return max(1, len(text.split()))
+def detokenize(tokens: List[int]) -> str:
+    if ENC is None:
+        return " ".join(tokens)
+    return ENC.decode(tokens)
 
 
-def _normalize_text(text: str) -> str:
-    if not text:
-        return ""
-    text = text.replace("\r", " ").strip()
-    return _MULTISPACE.sub(" ", text)
-
-
-def _split_units(text: str) -> List[str]:
-    normalized = _normalize_text(text)
-    if not normalized:
+def iter_chunks(text: str, target_tokens: int = TARGET_TOKENS, overlap: int = OVERLAP_TOKENS) -> Iterable[str]:
+    toks = tokenize(text)
+    if not toks:
         return []
-    units: List[str] = []
-    for para in _PARA_SPLIT.split(normalized):
-        para = para.strip()
-        if not para:
-            continue
-        sentences = _SENT_SPLIT.split(para)
-        for sentence in sentences:
-            sentence = sentence.strip()
-            if not sentence:
-                continue
-            if "|" in sentence:
-                cells = [cell.strip() for cell in _PIPE_SPLIT.split(sentence) if cell.strip()]
-                if cells:
-                    units.extend(cells)
-                    continue
-            units.append(sentence)
-    return units or [normalized]
-
-
-def iter_chunks(text: str) -> Iterable[str]:
-    units = [{"text": u, "tokens": _token_len(u)} for u in _split_units(text)]
-    units = [u for u in units if u["tokens"] > 0]
-    if not units:
-        return []
-
-    total = len(units)
-    start_idx = 0
-    chunk_records: List[Dict[str, Any]] = []
-
-    while start_idx < total:
-        idx = start_idx
-        chunk_units: List[Dict[str, Any]] = []
-        token_sum = 0
-
-        while idx < total:
-            unit = units[idx]
-            if chunk_units and token_sum + unit["tokens"] > MAX_TOKENS:
-                break
-            chunk_units.append(unit)
-            token_sum += unit["tokens"]
-            idx += 1
-            if token_sum >= TARGET_TOKENS:
-                break
-
-        if not chunk_units:
-            unit = units[idx]
-            chunk_units.append(unit)
-            token_sum = unit["tokens"]
-            idx += 1
-
-        if token_sum < MIN_TOKENS and idx < total:
-            extra = units[idx]
-            chunk_units.append(extra)
-            token_sum += extra["tokens"]
-            idx += 1
-
-        chunk_text = " ".join(u["text"] for u in chunk_units).strip()
-        if chunk_text:
-            chunk_record = {"text": chunk_text, "tokens": token_sum}
-            if chunk_records and chunk_record["tokens"] < MIN_TOKENS:
-                chunk_records[-1]["text"] = f"{chunk_records[-1]['text']} {chunk_record['text']}".strip()
-                chunk_records[-1]["tokens"] += chunk_record["tokens"]
-            else:
-                chunk_records.append(chunk_record)
-
-        if idx >= total:
+    i = 0
+    while i < len(toks):
+        j = min(len(toks), i + target_tokens)
+        chunk_tokens = toks[i:j]
+        yield detokenize(chunk_tokens)
+        if j == len(toks):
             break
-
-        overlap_tokens = 0
-        overlap_units = 0
-        for unit in reversed(chunk_units):
-            overlap_units += 1
-            overlap_tokens += unit["tokens"]
-            if overlap_tokens >= OVERLAP_TOKENS:
-                break
-
-        if overlap_units >= len(chunk_units):
-            overlap_units = max(0, len(chunk_units) - 1)
-
-        next_start = idx - overlap_units if overlap_units else idx
-        if next_start <= start_idx:
-            next_start = idx
-        start_idx = next_start
-
-    for record in chunk_records:
-        yield record["text"]
+        i = j - overlap
 
 
 def build_chunks_for_client(email: str, files: List[str]) -> None:
@@ -1193,10 +1391,53 @@ def read_chunks(email: str) -> List[dict]:
 
 
 def embed_texts(batch: List[str]) -> np.ndarray:
-    if openai_client is None:
-        raise SystemExit("OpenAI client not configured. Set OPENAI_API_KEY.")
-    result = openai_client.embeddings.create(model="text-embedding-3-small", input=batch)
-    arr = np.array([item.embedding for item in result.data], dtype="float32")
+    if gemini_client is None or EMBED_MODEL is None:
+        raise SystemExit("Google Gemini client not configured. Set GEMINI_API_KEY.")
+    
+    vectors = []
+    try:
+        # Process embeddings individually (Gemini API handles one at a time for embeddings)
+        for text in batch:
+            try:
+                result = genai.embed_content(
+                    model=EMBED_MODEL,
+                    content=text,
+                    task_type="retrieval_document"
+                )
+                vectors.append(result['embedding'])
+            except Exception as e:
+                error_msg = str(e)
+                if "leaked" in error_msg.lower() or "403" in error_msg or "PermissionDenied" in error_msg:
+                    print("\n" + "="*80)
+                    print("[ERROR] API Key Blocked for Embeddings!")
+                    print("="*80)
+                    print("Your Google Gemini API key has been flagged as leaked.")
+                    print("Even though it might work for chat, the embedding API blocks it.")
+                    print("\nSOLUTION: Get a NEW API key:")
+                    print("1. Go to: https://makersuite.google.com/app/apikey")
+                    print("2. Create a NEW API key")
+                    print("3. Update your .env file with the new key")
+                    print("4. Restart the server")
+                    print("="*80 + "\n")
+                    raise SystemExit(1)
+                print(f"[WARN] Failed to embed one text: {e}")
+                # Add zero vector as fallback
+                if vectors:
+                    dim = len(vectors[0])
+                else:
+                    dim = 768  # Default embedding dimension
+                vectors.append([0.0] * dim)
+    except SystemExit:
+        raise
+    except Exception as exc:
+        message = str(exc)
+        if "invalid_api_key" in message or "API key" in message or "401" in message:
+            print("[ERROR] Invalid or missing GEMINI_API_KEY.")
+            print("        Set a valid key in your environment or .env as GEMINI_API_KEY.")
+            raise SystemExit(1)
+        raise
+    
+    arr = np.array(vectors, dtype="float32")
     norms = np.linalg.norm(arr, axis=1, keepdims=True) + 1e-12
     return (arr / norms).astype("float32")
 
@@ -1289,11 +1530,7 @@ async def main_async():
         if not access_token:
             print("[ERROR] Token generation failed. Exiting.")
             return
-        # Update global variables
-        global ACCESS_TOKEN, REFRESH_TOKEN
-        ACCESS_TOKEN = access_token
-        if refresh_token:
-            REFRESH_TOKEN = refresh_token
+        # Tokens are persisted to tokens.json; nothing else to do here.
     else:
         print("=== OAuth token generation skipped ===")
 
@@ -1336,11 +1573,7 @@ async def run_scheduled_pipeline():
     if not access_token:
         print("[ERROR] Token generation failed. Exiting.")
         return
-    global ACCESS_TOKEN, REFRESH_TOKEN
-    ACCESS_TOKEN = access_token
-    if refresh_token:
-        REFRESH_TOKEN = refresh_token
-    print("[OK] Tokens generated and hardcoded successfully.")
+    print("[OK] Tokens generated and saved to tokens.json.")
     
     # Step 2: Fetch clients data
     print("\n[STEP 2] Fetching clients data from Zoho CRM...")

@@ -92,7 +92,7 @@ First_Visited_URL: https://moneycompound.zohodesk.in/portal/en/home
 Qualification: C.A
 Last_Visited_Time: 2025-06-28T15:49:53+05:30
 Salutation: Mr.
-Record_Image: 897e3e3f44b1d9b8442cc013ac9b3b2e7a0c77955205fe9614824ceb6dbffb5a4ffa6766cadb992b28dda2e716019b2ae7127153b05ce6ce1299a203cdf143c40f5eeed5f0a847554f5a5398daec2edb
+Record_Image: 9185470f80c22c637da5ba124f9c4c701eb90cec03d12f86a1772b6c24526ff41ee076a1da2ae4097eb7ee46b6b6671a5a0fd4ff7c59a4565d4de9c3d5978fcf8aa272a4de296e9bc0864272cae6cf08
 Alive: Yes
 Tax_Status: Resident Individual
 Occupation: BUSINESS

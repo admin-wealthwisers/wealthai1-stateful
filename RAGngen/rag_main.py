@@ -28,7 +28,7 @@ def main():
     print("\n[1/2] Ingesting & chunking Excel + PDF...")
     ingest_and_chunk(EXCELS, PDFS, artifacts_dir=ARTIFACTS_DIR, skiprows=SKIPROWS)
 
-    print("\n[2/2] Building OpenAI embeddings + FAISS index...")
+    print("\n[2/2] Building Gemini embeddings + FAISS index...")
     build_index(artifacts_dir=ARTIFACTS_DIR)
 
     print("\nDone! Ask questions with:")

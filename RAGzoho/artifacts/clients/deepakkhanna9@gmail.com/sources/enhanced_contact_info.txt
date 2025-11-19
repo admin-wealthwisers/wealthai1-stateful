@@ -93,10 +93,10 @@ Country: UAE
 Salutation: Mr.
 Tax_Status: NRI - NRE
 Occupation: Service
-Frequency: 2
+Frequency: 3
 $currency_symbol: ₹
 Place_of_Birth: New Delhi
-Last_Activity_Time: 2025-11-14T12:23:26+05:30
+Last_Activity_Time: 2025-11-17T10:41:44+05:30
 Exchange_Rate: 1
 $approved: True
 $editable: True

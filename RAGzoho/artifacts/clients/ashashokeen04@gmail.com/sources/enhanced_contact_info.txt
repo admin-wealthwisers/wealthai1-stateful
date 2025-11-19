@@ -101,7 +101,7 @@ Address_Line2: Sunder Vihar, S.O, West Delhi
 $zia_owner_assignment: owner_recommendation_unavailable
 Segment_Label: Customer needs attention
 First_Name: Asha
-Monetary: 3
+Monetary: 2
 Address_Line: A-31, 2nd Floor, National Market, Peera Garhi
 Mother_s_Name: Damyanti
 Recency: 2

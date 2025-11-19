@@ -3,5 +3,10 @@
     "id": 0,
     "source": "artifacts\\clients\\JDS.Sanjog.2002@gmail.com\\sources\\enhanced_contact_info.txt",
     "chunk_id": 0
+  },
+  {
+    "id": 1,
+    "source": "artifacts\\clients\\JDS.Sanjog.2002@gmail.com\\sources\\portfolio_information.txt",
+    "chunk_id": 0
   }
 ]

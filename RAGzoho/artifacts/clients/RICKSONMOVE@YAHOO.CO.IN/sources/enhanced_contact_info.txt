@@ -93,7 +93,7 @@ Occupation: OTHERS
 Frequency: 2
 $currency_symbol: ₹
 Place_of_Birth: Delhi
-Last_Activity_Time: 2025-11-08T16:04:45+05:30
+Last_Activity_Time: 2025-11-17T09:54:08+05:30
 Exchange_Rate: 1
 Account_No_21: 909010035308547
 $approved: True

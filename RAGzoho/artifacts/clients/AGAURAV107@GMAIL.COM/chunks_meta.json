@@ -3,5 +3,20 @@
     "id": 0,
     "source": "artifacts\\clients\\AGAURAV107@GMAIL.COM\\sources\\enhanced_contact_info.txt",
     "chunk_id": 0
+  },
+  {
+    "id": 1,
+    "source": "artifacts\\clients\\AGAURAV107@GMAIL.COM\\sources\\portfolio_information.txt",
+    "chunk_id": 0
+  },
+  {
+    "id": 2,
+    "source": "artifacts\\clients\\AGAURAV107@GMAIL.COM\\sources\\portfolio_information.txt",
+    "chunk_id": 1
+  },
+  {
+    "id": 3,
+    "source": "artifacts\\clients\\AGAURAV107@GMAIL.COM\\sources\\portfolio_information.txt",
+    "chunk_id": 2
   }
 ]

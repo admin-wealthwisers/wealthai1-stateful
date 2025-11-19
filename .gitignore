@@ -1,38 +1,77 @@
-# Environment and secrets
-.env
-.env.*
-!.env.example
 
-# Python caches
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
 .Python
-.venv/
-venv/
-env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+*.egg
 pip-wheel-metadata/
 
-# Build artifacts
-build/
-dist/
-*.egg-info/
+# Virtual environments
+venv/
+ENV/
+.venv/
+env/
 
-# OS files
-.DS_Store
-Thumbs.db
+# Pyinstaller
+*.manifest
+*.spec
 
-# IDE
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
 .vscode/
+
+# JetBrains IDEs
 .idea/
 
-# RAG artifacts
-RAGexcels/artifacts/
+# Local env files
+.env
+.env.*
+.env.local
+
+# Token/Secrets files (project-specific)
+**/tokens.json
+
+# Project artifacts (RAG folders)
+RAGexcel/artifacts/
 RAGngen/artifacts/
 RAGzoho/artifacts/
 
-# Logs
-*.log
-
-.env
+# OS files
+Thumbs.db
+desktop.ini

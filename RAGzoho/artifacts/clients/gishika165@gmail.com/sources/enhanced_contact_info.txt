@@ -99,12 +99,12 @@ $approved: True
 $editable: True
 Address_Line2: West Babarpur Shahdara
 Reference_Name: Akhil Bansal
+Segment_Label: Promising
 First_Name: Ishika
 Contact_Type: Individual
 Age: 19
 Monetary: 1
 Address_Line: H 64 , Shiv Mandir Gali
-Mother_s_Name: Renu Goyal
 
 TECHNICAL DETAILS
 ----------------

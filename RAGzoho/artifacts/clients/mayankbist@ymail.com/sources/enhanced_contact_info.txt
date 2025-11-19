@@ -90,7 +90,7 @@ Qualification: BTech
 Frequency: 2
 $currency_symbol: ₹
 Place_of_Birth: Mussoorie
-Last_Activity_Time: 2025-11-08T13:40:56+05:30
+Last_Activity_Time: 2025-11-17T09:54:08+05:30
 Exchange_Rate: 1
 $approved: True
 $editable: True

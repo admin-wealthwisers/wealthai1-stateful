@@ -8,5 +8,15 @@
     "id": 1,
     "source": "artifacts\\clients\\vipulkhandelwal25@gmail.com\\sources\\enhanced_contact_info.txt",
     "chunk_id": 1
+  },
+  {
+    "id": 2,
+    "source": "artifacts\\clients\\vipulkhandelwal25@gmail.com\\sources\\portfolio_information.txt",
+    "chunk_id": 0
+  },
+  {
+    "id": 3,
+    "source": "artifacts\\clients\\vipulkhandelwal25@gmail.com\\sources\\portfolio_information.txt",
+    "chunk_id": 1
   }
 ]

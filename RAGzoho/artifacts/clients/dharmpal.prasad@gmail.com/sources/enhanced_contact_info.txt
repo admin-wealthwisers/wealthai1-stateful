@@ -87,7 +87,7 @@ ADDITIONAL FIELDS
 ----------------
 Currency: INR
 Salutation: Ms.
-Record_Image: fb20e73e55a2a9dc9489132e9fb407b65859759152fbebea5419dcbe759acd334b4c4f4e9f28143df4b162bde904ee38ab7ff60be365fd37ba9e1b3edf7a1a1c1172e9e52627912ddf96dcad73d9c73a
+Record_Image: f229c243c785157b310deec70f6da600209c8048e092802cacc2748a43c4aa27116ad5f82d702c57060a343e013d9fd1d5a437b12107968dc06b92f4325c11ec14987e10c3a17a0c97bd61cefff87db5
 Tax_Status: Resident Individual
 Occupation: Business
 $currency_symbol: ₹

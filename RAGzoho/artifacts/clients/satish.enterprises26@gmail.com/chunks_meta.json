@@ -8,5 +8,10 @@
     "id": 1,
     "source": "artifacts\\clients\\satish.enterprises26@gmail.com\\sources\\enhanced_contact_info.txt",
     "chunk_id": 1
+  },
+  {
+    "id": 2,
+    "source": "artifacts\\clients\\satish.enterprises26@gmail.com\\sources\\portfolio_information.txt",
+    "chunk_id": 0
   }
 ]

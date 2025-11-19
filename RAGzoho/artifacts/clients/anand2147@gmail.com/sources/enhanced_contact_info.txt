@@ -91,7 +91,7 @@ Tax_Status: NRO
 Occupation: BUSINESS
 Frequency: 4
 $currency_symbol: ₹
-Last_Activity_Time: 2025-10-06T12:12:32+05:30
+Last_Activity_Time: 2025-11-17T09:56:59+05:30
 Exchange_Rate: 1
 Account_No_21: 8211950657
 $approved: True

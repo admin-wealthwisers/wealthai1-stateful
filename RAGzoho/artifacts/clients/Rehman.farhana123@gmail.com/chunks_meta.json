@@ -3,5 +3,15 @@
     "id": 0,
     "source": "artifacts\\clients\\Rehman.farhana123@gmail.com\\sources\\enhanced_contact_info.txt",
     "chunk_id": 0
+  },
+  {
+    "id": 1,
+    "source": "artifacts\\clients\\Rehman.farhana123@gmail.com\\sources\\portfolio_information.txt",
+    "chunk_id": 0
+  },
+  {
+    "id": 2,
+    "source": "artifacts\\clients\\Rehman.farhana123@gmail.com\\sources\\portfolio_information.txt",
+    "chunk_id": 1
   }
 ]

@@ -96,7 +96,7 @@ Occupation: Professional
 Frequency: 4
 $currency_symbol: ₹
 Place_of_Birth: Meerut
-Last_Activity_Time: 2025-11-08T16:16:43+05:30
+Last_Activity_Time: 2025-11-17T09:54:08+05:30
 Exchange_Rate: 1
 ZIP_Postal_Code: 2196
 $approved: True

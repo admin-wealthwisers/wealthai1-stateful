@@ -6,26 +6,30 @@ from pathlib import Path
 from typing import Dict, Any, List
 
 from dotenv import load_dotenv
-load_dotenv()
 
-from openai import OpenAI
+# Try to get from environment first (set by server.py), if not found, load from .env
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+if not GEMINI_API_KEY:
+    # Load .env from project root (one level up from this file)
+    env_path = Path(__file__).parent.parent / ".env"
+    load_dotenv(dotenv_path=env_path, override=True)
+    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-EMBED_MODEL = "text-embedding-3-small"
-CHAT_MODEL  = "gpt-4o-mini"
+import google.generativeai as genai
+
+# Set up Gemini API
+# IMPORTANT: Set GEMINI_API_KEY in environment variable or .env file
+if not GEMINI_API_KEY:
+    raise RuntimeError(
+        "GEMINI_API_KEY not set. Please set it in your .env file or environment variable.\n"
+        "Get your API key from: https://makersuite.google.com/app/apikey"
+    )
+genai.configure(api_key=GEMINI_API_KEY)
+
+EMBED_MODEL = "models/text-embedding-004"
+CHAT_MODEL  = "gemini-1.5-flash-latest"
 
 import faiss
-
-# Lazy initialization of OpenAI client
-_client = None
-
-def get_client():
-    global _client
-    if _client is None:
-        api_key = os.getenv("OPENAI_API_KEY")
-        if not api_key:
-            raise RuntimeError("OPENAI_API_KEY not set. Put it in .env or environment variable.")
-        _client = OpenAI(api_key=api_key)
-    return _client
 
 def load_chunk_cache(artifacts_dir: Path) -> Dict[int, str]:
     """Load all chunk texts into memory cache."""
@@ -52,11 +56,30 @@ def load_index(artifacts_dir: Path):
     return {"index": idx, "meta": meta, "chunk_cache": chunk_cache}
 
 def embed_query(q: str) -> np.ndarray:
-    client = get_client()
-    resp = client.embeddings.create(model=EMBED_MODEL, input=[q])
-    v = np.array(resp.data[0].embedding, dtype=np.float32)
-    v = v / (np.linalg.norm(v) + 1e-12)
-    return v
+    # Use Gemini embedding model
+    try:
+        result = genai.embed_content(
+            model=EMBED_MODEL,
+            content=q,
+            task_type="retrieval_query"
+        )
+        v = np.array(result['embedding'], dtype=np.float32)
+        v = v / (np.linalg.norm(v) + 1e-12)
+        return v
+    except Exception as e:
+        error_msg = str(e)
+        if "leaked" in error_msg.lower() or "403" in error_msg or "PermissionDenied" in error_msg:
+            raise RuntimeError(
+                f"API Key Error: Your Google Gemini API key has been flagged as leaked and is blocked for embedding operations.\n"
+                f"Even though it might work for chat, the embedding API has stricter security checks.\n\n"
+                f"SOLUTION: You MUST get a NEW API key:\n"
+                f"1. Go to: https://makersuite.google.com/app/apikey\n"
+                f"2. Create a NEW API key\n"
+                f"3. Update your .env file with the new key\n"
+                f"4. Restart the server\n\n"
+                f"Original error: {error_msg}"
+            ) from e
+        raise
 
 def _filter_by_category(question: str, chunk_text: str, meta: Dict = None) -> float:
     """Score chunk based on exact category match and data type."""
@@ -145,12 +168,32 @@ def _filter_by_category(question: str, chunk_text: str, meta: Dict = None) -> fl
 def search(loader, qvec: np.ndarray, top_n: int, question: str = ""):
     meta = loader["meta"]
     chunk_cache = loader.get("chunk_cache", {})
+    index = loader["index"]
+    
+    # Check dimension mismatch
+    query_dim = qvec.shape[0]
+    index_dim = index.d
+    
+    if query_dim != index_dim:
+        raise RuntimeError(
+            f"Embedding dimension mismatch!\n"
+            f"  Query vector dimension: {query_dim}\n"
+            f"  FAISS index dimension: {index_dim}\n\n"
+            f"This happens when the index was built with a different embedding model.\n"
+            f"SOLUTION: Rebuild the index with Gemini embeddings:\n"
+            f"  1. Go to RAGngen directory\n"
+            f"  2. Run: python rag_indexer.py --artifacts_dir artifacts\n"
+            f"  3. This will regenerate embeddings.npy and faiss.index with Gemini embeddings\n\n"
+            f"Note: The index was likely built with OpenAI embeddings ({index_dim} dims) "
+            f"but you're now using Gemini embeddings ({query_dim} dims)."
+        )
+    
     q = np.array([qvec], dtype=np.float32)
     faiss.normalize_L2(q)
     
     # Search more candidates for filtering (5x to ensure we find the right category)
     search_k = min(top_n * 5, len(meta))
-    D, I = loader["index"].search(q, search_k)
+    D, I = index.search(q, search_k)
     
     scored_results = []
     for score, idx in zip(D[0], I[0]):
@@ -369,20 +412,39 @@ INSTRUCTIONS:
 ANSWER:"""
 
 def ask_llm(prompt: str, temperature: float = 0.0, max_tokens: int = 600) -> str:
-    client = get_client()
-    resp = client.chat.completions.create(
-        model=CHAT_MODEL,
-        messages=[
-            {"role":"system","content":"You are a helpful assistant. Answer questions directly and concisely. Give only what is asked, nothing more."},
-            {"role":"user","content":prompt}
-        ],
+    # Use Gemini chat model - try multiple model names for compatibility
+    model_names = [
+        "gemini-1.5-flash-latest",
+        "gemini-1.5-flash",
+        "gemini-2.0-flash-exp",
+        "gemini-pro"
+    ]
+    
+    # Combine system and user message for Gemini
+    full_prompt = "You are a helpful assistant. Answer questions directly and concisely. Give only what is asked, nothing more.\n\n" + prompt
+    
+    generation_config = genai.types.GenerationConfig(
         temperature=temperature,
-        max_tokens=max_tokens
+        max_output_tokens=max_tokens,
     )
-    try:
-        return resp.choices[0].message.content
-    except Exception:
-        return str(resp)
+    
+    last_error = None
+    for model_name in model_names:
+        try:
+            model = genai.GenerativeModel(model_name)
+            response = model.generate_content(
+                full_prompt,
+                generation_config=generation_config
+            )
+            if response and response.text:
+                return response.text
+        except Exception as e:
+            last_error = e
+            continue  # Try next model
+    
+    # If all models failed, return error with details
+    error_msg = str(last_error) if last_error else "Unknown error"
+    return f"Error: Failed to generate response with all available models. Last error: {error_msg}"
 
 def _cli():
     ap = argparse.ArgumentParser()

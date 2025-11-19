@@ -93,7 +93,7 @@ Occupation: House Wife
 Frequency: 2
 $currency_symbol: ₹
 Place_of_Birth: Bharatpur
-Last_Activity_Time: 2025-11-08T15:48:37+05:30
+Last_Activity_Time: 2025-11-17T09:54:08+05:30
 Exchange_Rate: 1
 Account_No_21: 30474809825
 $approved: True

@@ -93,7 +93,7 @@ Occupation: Business
 Frequency: 2
 $currency_symbol: ₹
 Place_of_Birth: Kolkata
-Last_Activity_Time: 2025-06-14T12:45:55+05:30
+Last_Activity_Time: 2025-11-17T09:56:59+05:30
 Exchange_Rate: 1
 $approved: True
 $editable: True

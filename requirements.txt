@@ -1,16 +1,36 @@
-apscheduler>=3.10.0
-faiss-cpu>=1.8.0
-fastapi>=0.115.0
-numpy>=1.21.0
-openai>=1.0.0
-openpyxl>=3.1.5
-pandas>=1.5.0
-pdfplumber>=0.7.0
-playwright>=1.48.0
-pypdf>=4.3.1
-PyPDF2>=3.0.0
+# Unified Requirements for RAGzoho + RAGngen + RAGexcel
+# All dependencies for the unified server.py
+
+# Core dependencies
 python-dotenv>=1.0.1
-requests>=2.32.0
+numpy>=1.26.0
+
+# FastAPI and server
+fastapi>=0.115.0
+uvicorn>=0.30.3
+
+# Google Gemini AI (replaces OpenAI)
+google-generativeai>=0.3.0
+
+# FAISS for vector search
+faiss-cpu>=1.8.0
+
+# Tokenization
+tiktoken>=0.7.0
+
+# HTTP requests
+requests>=2.32.3
+
+# Data processing
+pandas>=1.5.0
+
+# PDF processing (for NGEN RAG and RAGexcel)
+pdfplumber>=0.7.0
+PyPDF2>=3.0.0
+
+# Browser automation (for Zoho OAuth)
+playwright>=1.48.0
+
+# Utilities
 tabulate>=0.9.0
-tiktoken>=0.4.0
-uvicorn>=0.30.0
+
